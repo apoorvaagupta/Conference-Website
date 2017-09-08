@@ -1,0 +1,22 @@
+{
+  "name": "team-c-2018-nsit",
+  "homepage": "https://github.com/apoorvaagupta/team-c-2018-nsit",
+  "authors": [
+    "Bhavya Aggarwal <bhavyaaggarwal1209@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta",
+    "jquery": "^3.2.1"
+  }
+}

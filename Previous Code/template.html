@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% block head %}
+    {% endblock head %}
+  <!--  <meta charset="utf-8">
+    <meta name="description" content="Netaji Subhas Institute of Technology is a leading institution of higher technical education in India, affiliated to University of Delhi">
+    <!-- Open Graph data 
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="http://www.nsit.ac.in/static/images/NSITWebPhotos/Infrastructure/25.jpg" />
+    <meta property="og:description" content="Netaji Subhas Institute of Technology is a leading institution of higher technical education in India, affiliated to University of Delhi" />
+    <meta property="og:site_name" content="Netaji Subhas Institute of Technology" />
+
+    <!-- Twitter Card data 
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@publisher_handle">
+    <meta name="twitter:description" content="Netaji Subhas Institute of Technology is a leading institution of higher technical education in India, affiliated to University of Delhi">
+    <!-- Twitter summary card with large image must be at least 280x150px 
+    <meta name="twitter:image:src" content="http://www.nsit.ac.in{{ url_for('static', filename='images/NSITWebPhotos/Infrastructure/25.jpg') }}">-->
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
+    {% assets "conference_TEAMC_template_css" %}
+            <link rel="stylesheet" href="{{ ASSET_URL }}" />
+    {% endassets %}
+    <!-- <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet" type="text/css"> -->
+    <!-- <link href="{{ url_for('static', filename='css/bxslider.css') }}" rel="stylesheet" type="text/css"> -->
+    <link href="{{ url_for('static', filename='lib/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet" type="text/css">
+    <!-- <link href="{{ url_for('static', filename='css/screen2.css') }}" rel="stylesheet" type="text/css"> -->
+    <!-- <link href="{{ url_for('static', filename='css/header_blue.css') }}" rel="stylesheet" type="text/css"> -->
+    <!-- <link href="{{ url_for('static', filename='css/styles_blue.css') }}" rel="stylesheet" type="text/css"> -->
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+    <!-- <link href='http://fonts.googleapis.com/css?family=Roboto:400,500,700|Roboto+Condensed:400,700|Source+Sans+Pro:400,600,700' rel='stylesheet' type='text/css'> -->
+    {% block css %}
+    {% endblock css %}
+</head>
+<body>
+
+<div id="my-div">
+<div class="row">
+    <div class="col-sm-12 text-center" style="background-color:#005180;padding:5px;">		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		 <a href="#" class="fa fa-facebook"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		 <a href="#" class="fa fa-twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		 <a href="#" class="fa fa-flickr"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		 <a href="#" class="fa fa-linkedin"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		 <a href="#" class="fa fa-skype"></a>
+		
+	  
+    </div>
+  </div>
+<!--  <div class="container fullWidth">
+     <!--   <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>-->
+        <!-- Collect the nav links, forms, and other content for toggling 
+        <div class="row">
+            <!-- <div class="collapse navbar-collapse top-menu" id="bs-example-navbar-collapse-1"> 
+			<div class="top-menu" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+				    
+					<li><a href="{{ url_for('Conference_TEAMC2018_new_Home') }}"><h4>Home</h4></a></li></h3>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_new_Program') }}"><h4>Program</h4></a></li>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_new_CallforPapers') }}"><h4>Call for Papers</h4></a></li>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_new_Registration') }}"><h4>Registration</h4></a></li>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_new_Committees') }}"><h4>Committees</h4></a></li>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_new_Sponsorship') }}"><h4>Sponsorship</h4></a></li>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_new_HotelTravelVisa') }}"><h4>Logistics</h4></a></li>
+                    <!-- li><a href="{{ url_for('Conference_TEAMC2018_new_ContactUs') }}"><h4>Contact Us</h4></a></li> 
+					<br>
+					<br>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse
+        </div>
+    </div> -->
+
+ <div class="container-fluid">
+        <div class="row logoRow centeredParent padTopSmall padBottomSmall" >		
+            <div class="leftFloated" style:"float:center;clear:center;">
+				<br>
+                <a href="{{ url_for('conference_TEAMC2018_new') }}" style="text-decoration:none !important; color:inherit;">
+                    <div class="navbar-brand" > <img id="logo-header" src="{{ url_for('static', filename='images/TEAMC2018/teamc_logo.png') }}" alt="NSIT" title="NSIT">
+					</a>
+				</div>
+            </div> 
+           <!--<div class="leftFloated" style:"float:left;clear:left;">-->
+           <div id="logo-head">
+		   <br>
+                <strong>
+                    <a href="{{ url_for('conference_TEAMC2018_new') }}" style="text-decoration:none !important; color:inherit;">
+                        <!--<h2 id="logo-subhead">International Conference on </h2>-->
+                         <h3 id="logo-tophead"><i>The International Conference</i></h3>
+						<!-- <span class="logo-tophead"><font face="verdana" size="4">International Conference</font></span> -->
+                    </a>
+                    <a href="{{ url_for('conference_TEAMC2018_new') }}" target="_blank" style="text-decoration:none !important; color:inherit;">
+						<!-- <h3 id="logo-tophead"><font size="200%" color="#8A2BE2">T</font>owards Extensible and Adaptable Methods in Computing - TEAMC 2018</h3> -->
+						<h1 id="logo-tophead">Towards Extensible and Adaptable Methods in Computing</h1>
+                        <h2 id="logo-tophead"><font face="Garamond">TEAMC 2018</font></h2>
+						<h2 id="logo-tophead">26-28 March, 2018. New Delhi</h2>
+                    </a>
+                </strong>
+		<br>
+           </div>
+		   <img id="logo-header-right" src="{{ url_for('static', filename='images/nsit_logo2.png') }}" alt="NSIT" title="NSIT">			   
+				</div> 
+				
+
+				
+<div class="row">
+    <div class="col-sm-12" style="background-color:#0091e6;padding:3px;">
+      <!--<div class="container fullWidth">-->
+     <!--   <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>-->
+        <!-- Collect the nav links, forms, and other content for toggling -->
+       <!-- <div class="row">-->
+            <!-- <div class="collapse navbar-collapse top-menu" id="bs-example-navbar-collapse-1"> -->
+			<div class="top-menu">
+                <ul class="nav navbar-nav">
+				    
+					<li><a href="{{ url_for('Conference_TEAMC2018_Home') }}"><h4>Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></a></li></h3>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_CallforPapers') }}"><h4>Call for Papers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></a></li>
+					<li><a href="{{ url_for('Conference_TEAMC2018_Submission') }}"><h4>Submission&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></a></li>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_Registration') }}"><h4>Registration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></a></li>
+					<li><a href="{{ url_for('Conference_TEAMC2018_Program') }}"><h4>Program&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></a></li>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_Committees') }}"><h4>Committees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></a></li>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_Sponsorship') }}"><h4>Sponsorship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></a></li>
+                    <li><a href="{{ url_for('Conference_TEAMC2018_HotelTravelVisa') }}"><h4>Information&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></a></li>
+                    <!-- li><a href="{{ url_for('Conference_TEAMC2018_new_ContactUs') }}"><h4>Contact Us</h4></a></li> -->
+					<br>
+					<br>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+       <!-- </div>-->
+   <!-- </div>-->
+    </div>
+  </div>		
+				{% block content %}
+				{% endblock content %}
+
+</div>				
+<div class="col-sm-10 col-sm-offset-1" style="padding:2px";>	
+	<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+ <!--  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol> -->
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img1.jpg') }}" alt="New Delhi">
+    </div>
+
+    <div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img2.jpg') }}" alt="New Delhi">
+    </div>
+
+    <div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img3.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img4.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img5.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img6.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img7.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img8.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img9.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img10.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img11.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img12.jpg') }}" alt="New Delhi">
+    </div>
+	<div class="item">
+      <img src="{{ url_for('static', filename='images/TEAMC2018/img13.jpg') }}" alt="New Delhi">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+
+
+<div class="clearfix"></div>
+<footer class="nsit-footer">
+  <div class="copyright">
+    <div class="container">
+     <p style="display:inline-block;">Copyright &copy; 2017 Netaji Subhas Institute of Technology. All Rights Reserved.</p>
+    </div>
+  </div>
+</footer>
+</body>
+{% assets "template_js" %}
+    <script type="text/javascript" src="{{ ASSET_URL }}"></script>
+{% endassets %}
+<script type="text/javascript">
+// $(document).ready(function(){
+//   $('.bxslider').bxSlider();
+//   $("#homeslider").css("visibility", "visible");
+// });
+
+// $(document).ready(function(){
+//   $('.slider1').bxSlider({
+//     slideWidth: 330,
+//     minSlides: 1,
+//     maxSlides: 2,
+//     slideMargin: 20
+//   });
+// });
+</script>
+
+{% block js %}
+{% endblock js %}
+</html>
