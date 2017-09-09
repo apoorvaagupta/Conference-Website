@@ -1,9 +1,9 @@
-*{
+* {
     font-family: 'Roboto', sans-serif;
 }
 
 html, body {
-    background-color: #f4f6f9!important;
+    background-color: #f4f6f9 !important;
     height: 100%;
 !important;
 }
@@ -25,19 +25,20 @@ html, body {
     padding-bottom: 10px;
 }
 
-.header-logo{
+.header-logo {
     height: 40px;
     padding-left: 30px;
 }
 
-.header-links-div{
+.header-links-div {
     padding-top: 5px;
     padding-bottom: 5px;
 }
 
-.header-links{
+.header-links {
     text-align: center;
-    color: #999;!important;
+    color: #999;
+!important;
 }
 
 .header-links:hover {
@@ -50,20 +51,20 @@ html, body {
     text-decoration: none;
 }
 
-.header-dropdown{
+.header-dropdown {
     padding-top: 5px;
     padding-bottom: 5px;
 }
 
-.header-profile-img{
+.header-profile-img {
     height: 30px;
     border-radius: 50%;
     border: solid 1px gray;
 }
 
-.header-dropdown-menu{
+.header-dropdown-menu {
     padding: 0;
-    margin-top:10px;
+    margin-top: 10px;
     border: none;
     border-radius: 0;
     border-bottom-right-radius: .25rem;
@@ -71,34 +72,32 @@ html, body {
     background-color: #FFF;
 }
 
-.header-dropdown-menu-li{
+.header-dropdown-menu-li {
     padding: 10px;
     padding-left: 20px;
     border-bottom: solid 1px #DDD;
 }
 
-.header-dropdown-menu-li-a{
-    color:#666;
+.header-dropdown-menu-li-a {
+    color: #666;
 }
 
-
-.header-jumbotron{
+.header-jumbotron {
     margin-bottom: 0;
-    background: linear-gradient(to bottom,#33b4ff 0,#e6f6ff 100%);
+    background: linear-gradient(to bottom, #33b4ff 0, #e6f6ff 100%);
 }
 
-.jumbotron-title{
+.jumbotron-title {
     color: floralwhite;
 }
 
-.jumbotron-description{
+.jumbotron-description {
     color: floralwhite;
     font-size: x-large;
 }
 
-
 .dropdown-menu {
-    left: 10%!important;
+    left: 10% !important;
 }
 
 .jumbotron {
@@ -141,29 +140,66 @@ html, body {
 }
 
 /*.col-sm-8 > .row, .col-sm-2 > .row {*/
-    /*background-color: black;*/
+/*background-color: black;*/
 /*}*/
 
 .nav-item > a {
-    color: white!important;
+    color: white !important;
     font-size: 16px;
 }
 
-.nav-item:hover{
+.nav-item:hover {
     cursor: pointer;
 }
 
-.nav-item:hover > a{
-    color: black!important;
+.nav-item:hover > a {
+    color: black !important;
 }
 
-#main-content > div > div.row{
+#main-content > div > div.row {
     margin-top: 26px;
     background-color: white;
     box-shadow: #DDD 0 0 8px 1px;
     border-radius: 0.25rem;
+    /*padding-top: 10px;*/
 }
 
-.jumbotron-description{
+.jumbotron-description {
     margin-bottom: 0px;
+}
+
+@keyframes moveLeftRight {
+    0% {
+        margin-left: 0;
+    }
+    50% {
+        margin-left: 66%;
+    }
+    100% {
+        margin-left: 0;
+    }
+}
+
+#yo {
+    animation-name: moveLeftRight;
+    /*position: absolute;*/
+    left: 0;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 8s;
+}
+
+#main-content > div > div.row > div {
+    margin-top: 10px;
+}
+
+.important-date-description{
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 4px;
+}
+
+.important-date{
+    color: blue;
+    display: block;
 }
