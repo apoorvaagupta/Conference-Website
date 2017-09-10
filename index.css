@@ -144,7 +144,7 @@ html, body {
 /*}*/
 
 .nav-item > a {
-    color: white !important;
+
     font-size: 16px;
 }
 
@@ -202,4 +202,8 @@ html, body {
 .important-date{
     color: blue;
     display: block;
+}
+
+.nav-item{
+    font-family: 'Roboto Condensed', sans-serif;
 }
