@@ -161,7 +161,297 @@ Extensible and adaptable computing refers to the array of methods and techniques
 
   $('#copButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append();
+    mainWrapper.append(`            <div style="background-color: white;width: 100%">
+
+                <div style="width: 100%; padding: 30px; font-size: 14pt; color: #999">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        Call For Papers</h1>
+
+                    <span>We invite authors to submit their papers under the tracks given below. Each track includes several topics listed below,  but is not necessarily limited to them.
+                        <br><br></span>
+                    <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab"
+                                   href="#track1">TRACK 1</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track2">TRACK 2</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track3">TRACK 3</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track4">TRACK 4</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track5">TRACK 5</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                        <div class="tab-pane fade show active" id="track1" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                    <br>
+                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
+                                    <div>
+                                        <p style="color: #666">Track Co-chairs</p>
+                                        <div class="row">
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Rashina Hoda<br>
+                                                University of Auckland<br>
+                                                New Zealand<br>
+                                            </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Ritu Sibal,<br>
+                                                Netaji Subhas Institute of Technology<br>
+                                                India
+                                            </div>
+                                        </div>
+                                        <br>
+                                        <p style="color: #666">Topics</p>
+                                        <ul class="list-group">
+                                            <li class="list-group-item
+">Agile software processes and methodologies
+                                            </li>
+                                            <li class="list-group-item
+">Agile approaches to requirements engineering
+                                            </li>
+                                            <li class="list-group-item
+">Testing in agile environment
+                                            </li>
+                                            <li class="list-group-item
+">Agile project management
+                                            </li>
+                                            <li class="list-group-item
+">Agile methodologies for web development
+                                            </li>
+                                            <li class="list-group-item
+">Agile methodologies for developing embedded software
+                                            </li>
+                                            <li class="list-group-item
+">Design and architectural patterns
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="track2" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                    <br>
+                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
+                                    <div>
+                                        <p style="color: #666">Track Co-chairs</p>
+                                        <div class="row">
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Rashina Hoda<br>
+                                                University of Auckland<br>
+                                                New Zealand<br>
+                                            </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Ritu Sibal,<br>
+                                                Netaji Subhas Institute of Technology<br>
+                                                India
+                                            </div>
+                                        </div>
+                                        <br>
+                                        <p style="color: #666">Topics</p>
+                                        <ul class="list-group">
+                                            <li class="list-group-item">Agile software processes and methodologies
+                                            </li>
+                                            <li class="list-group-item">Agile approaches to requirements engineering
+                                            </li>
+                                            <li class="list-group-item">Testing in agile environment
+                                            </li>
+                                            <li class="list-group-item">Agile project management
+                                            </li>
+                                            <li class="list-group-item">Agile methodologies for web development
+                                            </li>
+                                            <li class="list-group-item">Agile methodologies for developing embedded software
+                                            </li>
+                                            <li class="list-group-item">Design and architectural patterns
+                                            </li>
+                                            <li class="list-group-item">Aspect oriented programming
+                                            </li>
+                                            <li class="list-group-item">Agile model driven design
+                                            </li>
+                                            <li class="list-group-item">Agile practices for component based software development
+                                            </li>
+                                            <li class="list-group-item">Tools and techniques for agile development
+                                            </li>
+                                            <li class="list-group-item">Risk assessment in agile environment
+                                            </li>
+                                            <li class="list-group-item">Estimation in agile software development
+                                            </li>
+                                            <li class="list-group-item">Adopting agile and lean practices in large projects
+                                            </li>
+                                            <li class="list-group-item">Software metrics for agile projects, agile processes, agile teams
+                                            </li>
+                                            <li class="list-group-item">Agile methods in education, pedagogy and research
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="track3" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                    <br>
+                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
+                                    <div>
+                                        <p style="color: #666">Track Co-chairs</p>
+                                        <div class="row">
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Rashina Hoda<br>
+                                                University of Auckland<br>
+                                                New Zealand<br>
+                                            </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Ritu Sibal,<br>
+                                                Netaji Subhas Institute of Technology<br>
+                                                India
+                                            </div>
+                                        </div>
+                                        <br>
+                                        <p style="color: #666">Topics</p>
+                                        <ul class="list-group">
+                                            <li class="list-group-item
+">Agile software processes and methodologies
+                                            </li>
+                                            <li class="list-group-item
+">Agile approaches to requirements engineering
+                                            </li>
+                                            <li class="list-group-item
+">Testing in agile environment
+                                            </li>
+                                            <li class="list-group-item
+">Agile project management
+                                            </li>
+                                            <li class="list-group-item
+">Agile methodologies for web development
+                                            </li>
+                                            <li class="list-group-item
+">Agile methodologies for developing embedded software
+                                            </li>
+                                            <li class="list-group-item
+">Design and architectural patterns
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="track4" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                    <br>
+                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
+                                    <div>
+                                        <p style="color: #666">Track Co-chairs</p>
+                                        <div class="row">
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Rashina Hoda<br>
+                                                University of Auckland<br>
+                                                New Zealand<br>
+                                            </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Ritu Sibal,<br>
+                                                Netaji Subhas Institute of Technology<br>
+                                                India
+                                            </div>
+                                        </div>
+                                        <br>
+                                        <p style="color: #666">Topics</p>
+                                        <ul class="list-group">
+                                            <li class="list-group-item
+">Agile software processes and methodologies
+                                            </li>
+                                            <li class="list-group-item
+">Agile approaches to requirements engineering
+                                            </li>
+                                            <li class="list-group-item
+">Testing in agile environment
+                                            </li>
+                                            <li class="list-group-item
+">Agile project management
+                                            </li>
+                                            <li class="list-group-item
+">Agile methodologies for web development
+                                            </li>
+                                            <li class="list-group-item
+">Agile methodologies for developing embedded software
+                                            </li>
+                                            <li class="list-group-item
+">Design and architectural patterns
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="track5" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                    <br>
+                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
+                                    <div>
+                                        <p style="color: #666">Track Co-chairs</p>
+                                        <div class="row">
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Rashina Hoda<br>
+                                                University of Auckland<br>
+                                                New Zealand<br>
+                                            </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Ritu Sibal,<br>
+                                                Netaji Subhas Institute of Technology<br>
+                                                India
+                                            </div>
+                                        </div>
+                                        <br>
+                                        <p style="color: #666">Topics</p>
+                                        <ul class="list-group">
+                                            <li class="list-group-item
+">Agile software processes and methodologies
+                                            </li>
+                                            <li class="list-group-item
+">Agile approaches to requirements engineering
+                                            </li>
+                                            <li class="list-group-item
+">Testing in agile environment
+                                            </li>
+                                            <li class="list-group-item
+">Agile project management
+                                            </li>
+                                            <li class="list-group-item
+">Agile methodologies for web development
+                                            </li>
+                                            <li class="list-group-item
+">Agile methodologies for developing embedded software
+                                            </li>
+                                            <li class="list-group-item
+">Design and architectural patterns
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+`);
   })
 
   $('#subButton').click(function () {
