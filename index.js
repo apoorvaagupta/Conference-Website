@@ -6,6 +6,7 @@ $(document).ready(function () {
 
   $('#homeButton').click(function () {
     console.log(1)
+    $('#main-wrapper').empty();
     $('#main-wrapper').append(`<div style="background-color: white;">
                 <div class="row">
                     <div class="col-md-12" style="padding: 30px;">
