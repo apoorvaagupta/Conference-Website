@@ -193,13 +193,21 @@ html, body {
     margin-top: 10px;
 }
 
-.important-date-description{
+.important-date-description {
     font-size: 14px;
     color: #777;
     margin-bottom: 4px;
 }
 
-.important-date{
+.important-date {
     color: blue;
     display: block;
+}
+
+div.carousel-item > img {
+}
+
+div.carousel-inner img {
+    height: 100%;
+    width: 100%;
 }
