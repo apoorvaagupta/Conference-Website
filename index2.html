@@ -91,7 +91,156 @@
 <div class="container-fluid" style="padding-top: 20px; padding-left: 75px; padding-right: 75px">
     <div class="row">
         <div class="col-md-8" style="height: 500px;padding: 15px">
-            <div style="background-color: white; height: 100%; width: 100%"></div>
+            <div style="background-color: white; height: auto; width: 100%">
+                <div style="width: 100%;height: 100%; padding: 30px; font-size: 14pt; color: #999">
+
+                    We invite authors to submit their papers under the tracks given below. Each track includes several topics listed below,  but is not necessarily limited to them.
+                    <br><br>
+                    <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active nav-style a-style" data-toggle="tab"
+                                   href="#registerTab">TRACK 1</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#loginTab">TRACK 2</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#loginTab">TRACK 3</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#loginTab">TRACK 4</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#loginTab">TRACK 5</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                        <div class="tab-pane fade show active" id="registerTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-10">
+                                    <br>
+                                    <br>
+                                    <form id="registerForm">
+                                        <div class="form-group">
+                                            <input id="registerName" required type="text" class="form-control input"
+                                                   placeholder="Full Name">
+                                        </div>
+                                        <div class="form-group">
+                                            <input id="registerEmail" required type="email" class="form-control input"
+                                                   placeholder="Email">
+                                        </div>
+                                        <div class="form-group">
+                                            <input id="registerPassword" required type="password" class="form-control input"
+                                                   placeholder="Password">
+                                        </div>
+                                        <div class="form-group">
+                                            <input id="registerContact" required type="tel" class="form-control input"
+                                                   placeholder="Contact">
+                                        </div>
+                                        <div class="form-group">
+                                            <input id="registerPincode" required type="text" class="form-control input"
+                                                   placeholder="Pincode">
+                                        </div>
+                                        <div class="form-group">
+
+                                            <label class="mr-3" for="class" style="color: #D3D3D3; font-size: 1rem">Class
+                                                : </label>
+                                            <select id="class" class="custom-select mb-2">
+                                                <option selected>Choose...</option>
+                                                <option value="VIII">VIII</option>
+                                                <option value="IX">IX</option>
+                                                <option value="X">X</option>
+                                                <option value="XI">XI</option>
+                                                <option value="XII">XII</option>
+                                                <option value="XII Pass">XII Pass</option>
+                                            </select>
+
+
+                                            <!--<label class="radio-inline input-class">Class:</label>-->
+                                            <!--<select class="form-control custom-select btn-outline-info">-->
+                                            <!--<option selected>Class</option>-->
+                                            <!--<option>VIII</option>-->
+                                            <!--<option>IX</option>-->
+                                            <!--<option>X</option>-->
+                                            <!--<option>XI</option>-->
+                                            <!--<option>XII</option>-->
+                                            <!--<option>XII+</option>-->
+                                            <!--</select>-->
+                                            <!--<label class="radio-inline label-style">-->
+                                            <!--<input type="radio" name="class" value="8">&nbsp;VIII-->
+                                            <!--</label>-->
+                                            <!--<label class="radio-inline label-style">-->
+                                            <!--<input type="radio" name="class" value="9">&nbsp;IX-->
+                                            <!--</label>-->
+                                            <!--<label class="radio-inline label-style">-->
+                                            <!--<input type="radio" name="class" value="10">&nbsp;X-->
+                                            <!--</label>-->
+                                            <!--<label class="radio-inline label-style">-->
+                                            <!--<input type="radio" name="class" value="11">&nbsp;XI-->
+                                            <!--</label>-->
+                                            <!--<label class="radio-inline label-style">-->
+                                            <!--<input type="radio" name="class" value="12">&nbsp;XII-->
+                                            <!--</label>-->
+                                            <!--<label class="radio-inline label-style">-->
+                                            <!--<input type="radio" name="class" value="13">&nbsp;XII Pass-->
+                                            <!--</label>-->
+                                            <!--&lt;!&ndash;<label class="mr-2" for="class">Class : </label>&ndash;&gt;-->
+                                            <!--<select id="class" class="custom-select mb-2">-->
+                                            <!--<option selected>Choose...</option>-->
+                                            <!--<option value="8">VIII</option>-->
+                                            <!--<option value="9">IX</option>-->
+                                            <!--<option value="10">X</option>-->
+                                            <!--<option value="11">XI</option>-->
+                                            <!--<option value="12">XII</option>-->
+                                            <!--<option value="13">XII Pass</option>-->
+                                            <!--</select>-->
+                                        </div>
+                                        <div id="errorRegister" class="text-danger">
+                                        </div>
+                                        <div class="form-group">
+                                            <button id="registerButton" class="btn btn-lg btn-block btn-info btn-style">
+                                                Register
+                                            </button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="loginTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-10">
+                                    <br>
+                                    <br>
+                                    <form id="loginForm">
+                                        <div class="form-group">
+                                            <input id="loginEmail" type="email" class="form-control input"
+                                                   placeholder="Email">
+                                        </div>
+                                        <div class="form-group">
+                                            <input id="loginPassword" type="password" class="form-control input"
+                                                   placeholder="Password">
+                                        </div>
+                                        <div id="errorLogin" class="text-danger">
+                                        </div>
+                                        <div id="error" class="text-danger">
+
+                                        </div>
+                                        <div class="form-group">
+                                            <button id="loginButton" class="btn btn-info btn-block btn-lg btn-style">Login
+                                            </button>
+                                        </div>
+                                    </form>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
         </div>
         <div class="col-md-4" style=" height: 500px; padding: 15px">
             <div style="background-color: white; height: 100%; width: 100%"></div>
