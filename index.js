@@ -157,5 +157,40 @@ Extensible and adaptable computing refers to the array of methods and techniques
                     </div>
                 </div>
             </div>`)
+  });
+
+  $('#copButton').click(function () {
+    mainWrapper.empty();
+    mainWrapper.append();
+  })
+
+  $('#subButton').click(function () {
+    mainWrapper.empty();
+    mainWrapper.append();
+  })
+
+  $('#regButton').click(function () {
+    mainWrapper.empty();
+    mainWrapper.append();
+  })
+
+  $('#programButton').click(function () {
+    mainWrapper.empty();
+    mainWrapper.append();
+  })
+
+  $('#committeeButton').click(function () {
+    mainWrapper.empty();
+    mainWrapper.append();
+  })
+
+  $('#sponsorButton').click(function () {
+    mainWrapper.empty();
+    mainWrapper.append();
+  })
+
+  $('#infoButton').click(function () {
+    mainWrapper.empty();
+    mainWrapper.append();
   })
 });
