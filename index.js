@@ -4,10 +4,12 @@
 
 $(document).ready(function () {
 
+  const mainWrapper = $('#main-wrapper');
+
   $('#homeButton').click(function () {
     console.log(1)
-    $('#main-wrapper').empty();
-    $('#main-wrapper').append(`<div style="background-color: white;">
+    mainWrapper.empty();
+    mainWrapper.append(`<div style="background-color: white;">
                 <div class="row">
                     <div class="col-md-12" style="padding: 30px;">
                         <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
