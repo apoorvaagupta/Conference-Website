@@ -279,3 +279,13 @@ div.home-list > ul > li {
     font-weight: 500;
 }
 
+.sponsorshipList {
+    list-style-type: square;
+
+}
+
+.sponsorshipList > li {
+    color: #999999;
+    font-size: 14pt;
+    font-family: Lato, sans-serif;
+}

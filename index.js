@@ -166,17 +166,246 @@ Extensible and adaptable computing refers to the array of methods and techniques
 
   $('#subButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append();
+    mainWrapper.append(`
+    <div style="background-color: white;">
+                <div style="padding: 30px; font-size: 14pt; color: #999">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        Submission</h1>
+
+                    <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active nav-style a-style pl-0 pr-0" data-toggle="tab"
+                                   href="#submissionMethodTab">SUBMISSION METHOD</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#academicEthicsTab">ACADEMIC
+                                    ETHICS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab"
+                                   href="#registrationRequirementTab">REGISTRATION
+                                    REQUIREMENT</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#awardsTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    AWARDS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#publishingTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    PUBLISHING</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                        <div class="tab-pane fade show active" id="submissionMethodTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format. Short papers of at most 8 pages will also be considered. Submissions should strictly adhere to the <a
+                                                href="http://www.springer.com/series/7899"> Springer Communications in Computer and Information Science (CCIS)</a> format. Submissions will be accepted through <a
+                                                href="https://ocs.springer.com/ocs/"> Springer Online Conference Service (OCS).</a>
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="academicEthicsTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals. All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality. Qualifying papers will undergo a double blind review process by at least three reviewers. Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution. Accepted papers must be presented at the conference.
+
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="registrationRequirementTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            At least one of the authors of each accepted paper must register by paying the full registration fee as applicable for the author, on or before the deadline for camera ready submission.
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="awardsTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            Best paper award will be presented to high quality papers.
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="publishingTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            Publishing
+We are in active engagement with Springer India for publishing accepted papers of the conference in the CCIS book series, subject to approval by CCIS Board. The publication will be indexed by ISI Proceedings, Ei – Compendex,  DBLP,  SCOPUS, Google Scholar and Springer link.
+We are also contacting other publishers for journal publications and will share emerging developments on this website.
+
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>`);
   })
 
   $('#regButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append();
+    mainWrapper.append(`            <div style="background-color: white;">
+                <div style="padding: 30px; font-size: 14pt; color: #999">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        REGISTRATION</h1>
+
+                    <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active nav-style a-style pl-0 pr-0" data-toggle="tab"
+                                   href="#onlineRegistrationTab">ONLINE REGISTRATION</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#visaSupportTab">VISA SUPPORT</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab"
+                                   href="#registrationRequirementTab">REGISTRATION
+                                    REQUIREMENT</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#awardsTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    AWARDS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#publishingTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    PUBLISHING</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                        <div class="tab-pane fade show active" id="onlineRegistrationTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format. Short papers of at most 8 pages will also be considered. Submissions should strictly adhere to the <a
+                                                href="http://www.springer.com/series/7899"> Springer Communications in Computer and Information Science (CCIS)</a> format. Submissions will be accepted through <a
+                                                href="https://ocs.springer.com/ocs/"> Springer Online Conference Service (OCS).</a>
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="visaSupportTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals. All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality. Qualifying papers will undergo a double blind review process by at least three reviewers. Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution. Accepted papers must be presented at the conference.
+
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="registrationRequirementTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            At least one of the authors of each accepted paper must register by paying the full registration fee as applicable for the author, on or before the deadline for camera ready submission.
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="awardsTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            Best paper award will be presented to high quality papers.
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="publishingTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                                        <span style="color: #999999; font-size: 14pt;">
+                                            Publishing
+We are in active engagement with Springer India for publishing accepted papers of the conference in the CCIS book series, subject to approval by CCIS Board. The publication will be indexed by ISI Proceedings, Ei – Compendex,  DBLP,  SCOPUS, Google Scholar and Springer link.
+We are also contacting other publishers for journal publications and will share emerging developments on this website.
+
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+`);
   })
 
   $('#programButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append();
+    mainWrapper.append(`
+    <div style="background-color: white;">
+                <div style="padding: 30px; font-size: 14pt; color: #999">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        PROGRAM</h1>
+
+                    <div class="overview-description"
+                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                        <span style="color: #999999; font-size: 14pt;">
+                            Program Will Be Announced Soon
+                        </span>
+                    </div>
+                </div>
+            </div>
+`);
   })
 
   $('#committeeButton').click(function () {
@@ -186,7 +415,95 @@ Extensible and adaptable computing refers to the array of methods and techniques
 
   $('#sponsorButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append();
+    mainWrapper.append(`
+                <div style="background-color: white;">
+                <div style="padding: 30px; font-size: 14pt; color: #999">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        SPONSORSHIP</h1>
+
+                    <div class="overview-description"
+                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                        <span style="color: #999999; font-size: 14pt;">
+                            Dear Technology Leader, <br/><br/>
+In the ongoing saga of the digital revolution, the new mantra - Extend and Adapt,  has produced ripples of excitement in the industry and academia! Indeed, there is a fresh lease of energy enthusing technology drivers as they take every possible step to equip more and more people with the technological means to take new initiatives and learn continuously, to reach out and connect, and to realize their full potential at all times. And thereby, stands the fresh challenge for today - build applications and systems that recognize this core element of change - in requirements, data, surrounding context and user preferences; and adapt to the change gracefully, seamlessly.<br/><br/>
+The International Conference Towards Extensible and Adaptable Methods in Computing -TEAMC-2018, aims to bring together professionals and students from all parts of the globe on a common platform to address different aspects of this very challenge of creating extensible and adaptable systems and applications:<br/><br/>
+
+                        </span>
+                    </div>
+
+                    <ul class="sponsorshipList">
+                        <li>There is an ever-exploding nebula of data in the cyberspace that must crystallize into
+                            meaningful compendiums of knowledge backing myriad applications.
+                        </li>
+                        <li>
+                            Software development processes must be flexible enough to adapt quickly to the changing
+                            expectations and scales of businesses.
+                        </li>
+                        <li>
+                            Applications such as e-learning must offer personalized features and adapt to the changing
+                            preferences and capabilities of users.
+                        </li>
+                        <li>
+                            The web, rife with textual and multimedia content, must be harnessed to gather cogent
+                            information.
+                        </li>
+                        <li>
+                            Indeed, the world of computing must evolve and learn to sync with human intelligence.
+                        </li>
+                    </ul>
+
+                    <div class="overview-description"
+                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                        <span style="color: #999999; font-size: 14pt;">
+                            TEAMC-2018 will be hosted by Netaji Subhas Institute of Technology, a premier seat of higher learning in technology that attracts the best students to pursue its UG, PG and Doctoral programs. It is spread over a beautifully landscaped campus of 145 acres that houses all facilities to create an excellent academic environment. The committee of professionals dedicated towards the conference is striving to achieve a high quality technical program with Tracks on <b>Data management, Agile software development, Web intelligence, Computing in education, and Machine learning.</b> It will feature the following components:
+                        <br/><br/>
+                        </span>
+                    </div>
+
+                    <ul class="sponsorshipList">
+                        <li>
+                            Regular Technical Sessions
+                        </li>
+                        <li>
+                            Keynote speeches
+                        </li>
+                        <li>
+                            Workshops
+                        </li>
+                        <li>
+                            Panel discussions
+                        </li>
+                        <li>
+                            Design contest
+                        </li>
+                        <li>
+                            Exhibits
+                        </li>
+                    </ul>
+
+                    <div class="overview-description"
+                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                        <span style="color: #999999; font-size: 14pt;"><br></span>
+                        <span style="color: #999999; font-size: 14pt;">
+                            As a spearheading force in the industry driving forward this revolution, TEAMC-2018 provides just the right platform and visibility to showcase your company, its vision and its technological offerings to a wide spectrum of professionals. Your participation will give an opportunity to nurture the talent pool and spur a collaborative atmosphere necessary for progress.<br/><br/>
+Kindly see the various sponsorship packages and offers and give us an opportunity to collaborate on this initiative and work together for its success right from the outset.<br/><br/>
+Yours sincerely<br/><br/>
+General Chair<br/><br/>
+Sponsorship Chairs<br/><br/>
+Industry Liaison Chair<br/><br/>
+Finance Chair<br/><br/>
+                        </span>
+                    </div>
+
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.1;margin-bottom: 15px;font-size: 22px;text-transform: uppercase;">
+                        For detailed information, <a href="http://www.nsit.ac.in/sponsorships">please see here.</a>
+                    </h1>
+
+                </div>
+            </div>
+`);
   })
 
   $('#infoButton').click(function () {
