@@ -1,13 +1,9 @@
-/**
- * Created by bhavyaagg on 08/9/17.
- */
-
 $(document).ready(function () {
 
   const mainWrapper = $('#main-wrapper');
 
   $('#homeButton').click(function () {
-    console.log(1)
+    console.log(1);
     mainWrapper.empty();
     mainWrapper.append(`<div style="background-color: white;">
                 <div class="row">
@@ -156,7 +152,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                     </div>
                 </div>
-            </div>`)
+            </div>`);
   });
 
   $('#copButton').click(function () {
@@ -452,7 +448,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                 </div>
             </div>
 `);
-  })
+  });
 
   $('#subButton').click(function () {
     mainWrapper.empty();
@@ -564,7 +560,7 @@ We are also contacting other publishers for journal publications and will share 
 
                 </div>
             </div>`);
-  })
+  });
 
   $('#regButton').click(function () {
     mainWrapper.empty();
@@ -676,7 +672,7 @@ We are also contacting other publishers for journal publications and will share 
             </div>
 
 `);
-  })
+  });
 
   $('#programButton').click(function () {
     mainWrapper.empty();
@@ -696,12 +692,12 @@ We are also contacting other publishers for journal publications and will share 
                 </div>
             </div>
 `);
-  })
+  });
 
   $('#committeeButton').click(function () {
     mainWrapper.empty();
     mainWrapper.append();
-  })
+  });
 
   $('#sponsorButton').click(function () {
     mainWrapper.empty();
@@ -794,10 +790,28 @@ Finance Chair<br/><br/>
                 </div>
             </div>
 `);
-  })
+  });
 
   $('#infoButton').click(function () {
-    mainWrapper.empty();
-    mainWrapper.append();
-  })
+
+    // AIzaSyDBqAJQ9d0sn9iRRrjJjjUtRbbAsBS-0uU
+    $("#inner-wrapper").empty();
+      $("#inner-wrapper").append(`
+      <div style="background-color: white;">
+        <div style="padding: 30px; font-size: 14pt; color: #999">
+          <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+               INFORMATION</h1>
+                  
+            <div class="overview-description" style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+              
+            </div>
+          </div>    
+      </div>    
+    `);
+
+      $("#map").css('visibility', 'visible');
+      $("#map").css('height', '400px');
+      // $("#map").css('width', '100%');
+  });
+    
 });

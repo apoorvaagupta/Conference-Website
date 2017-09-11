@@ -5,16 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>TEAMC18</title>
 
+    <!-- Google Analytics -->
+    <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', 'UA-XXXXX-Y', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    <!-- End Google Analytics -->
+
     <link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet">
     <link rel="stylesheet" href="index.css">
     <link href="./font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet">
-
-    <script src="./bower_components/jquery/dist/jquery.js"></script>
-    <script src="./bower_components/popper.js/dist/umd/popper.js"></script>
-    <script src="./bower_components/bootstrap/dist/js/bootstrap.js"></script>
-    <script src="index.js"></script>
-
 </head>
 <body>
 
@@ -93,7 +96,7 @@
 <div class="container-fluid" style="padding-top: 20px; padding-left: 75px; padding-right: 75px">
     <div class="row">
         <div id="main-wrapper" class="col-md-8" style="padding: 15px">
-            <div style="background-color: white;">
+            <div id="inner-wrapper" style="background-color: white;">
                 <div class="row">
                     <div class="col-md-12" style="padding: 30px;">
                         <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -239,7 +242,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                             </div>
                             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"
                                data-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                s <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                 <span class="sr-only">Previous</span>
                             </a>
                             <a class="carousel-control-next" href="#carouselExampleIndicators" role="button"
@@ -251,6 +254,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                     </div>
                 </div>
             </div>
+            <div id="map"></div>
         </div>
         <div class="col-md-4" style="height: 500px;padding: 15px">
             <div style="background-color: white;height: 100%;"></div>
@@ -259,5 +263,13 @@ Extensible and adaptable computing refers to the array of methods and techniques
 </div>
 
 <br><br><br><br><br><br><br>
+<script src="./bower_components/jquery/dist/jquery.js"></script>
+<script src="./bower_components/popper.js/dist/umd/popper.js"></script>
+<script src="./bower_components/bootstrap/dist/js/bootstrap.js"></script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDBqAJQ9d0sn9iRRrjJjjUtRbbAsBS-0uU&callback=initMap">
+</script>
+<script src="google_apis.js"></script>
+<script src="index.js"></script>
 </body>
 </html>
