@@ -5,7 +5,7 @@ $(document).ready(function () {
   $('#homeButton').click(function () {
     console.log(1);
     mainWrapper.empty();
-    mainWrapper.append(`<div style="background-color: white;">
+    mainWrapper.append(`<div style="background-color: white; border: solid 1px black; ">
                 <div class="row">
                     <div class="col-md-12" style="padding: 30px;">
                         <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -156,7 +156,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
 
   $('#copButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white;width: 100%">
+    mainWrapper.append(`            <div style="background-color: white;width: 100%; border: solid 1px black; ">
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -452,7 +452,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
   $('#subButton').click(function () {
     mainWrapper.empty();
     mainWrapper.append(`
-    <div style="background-color: white;">
+    <div style="background-color: white; border: solid 1px black; ">
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         Submission</h1>
@@ -563,7 +563,7 @@ We are also contacting other publishers for journal publications and will share 
 
   $('#regButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white;">
+    mainWrapper.append(`            <div style="background-color: white; border: solid 1px black; ">
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         REGISTRATION</h1>
@@ -676,7 +676,7 @@ We are also contacting other publishers for journal publications and will share 
   $('#programButton').click(function () {
     mainWrapper.empty();
     mainWrapper.append(`
-    <div style="background-color: white;">
+    <div style="background-color: white; border: solid 1px black; ">
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         PROGRAM</h1>
@@ -701,7 +701,7 @@ We are also contacting other publishers for journal publications and will share 
   $('#sponsorButton').click(function () {
     mainWrapper.empty();
     mainWrapper.append(`
-                <div style="background-color: white;">
+                <div style="background-color: white; border: solid 1px black; ">
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         SPONSORSHIP</h1>
