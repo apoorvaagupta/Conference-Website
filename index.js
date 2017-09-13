@@ -178,7 +178,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                     <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab"
+                                <a class="nav-link nav-style a-style active" data-toggle="tab"
                                    href="#track1">TRACK 1 - ASD</a>
                             </li>
                             <li class="nav-item">
@@ -649,7 +649,7 @@ The registration will not refundable once the VISA process starts.
                         <div class="tab-pane fade" id="registrationFeesTab" role="tabpanel">
                             <div class="row justify-content-center">
                                 <div class="col-sm-12 col-md-10 pt-4 text-center">
-                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
+                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #177731;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
                                         Registration fees for Indian delegates
                                     </h1>
                                     <table class="table table-bordered table-responsive">
@@ -688,7 +688,7 @@ The registration will not refundable once the VISA process starts.
                                     </table>
                                 </div>
                                 <div class="col-sm-12 col-md-10 pt-4 text-center">
-                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
+                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #177731;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
                                         Registration fees for Foreign delegates
                                     </h1>
                                     <table class="table table-bordered table-responsive">
@@ -787,18 +787,18 @@ The registration will not refundable once the VISA process starts.
                   <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab"
-                                   href="#conCom">Conference Committee</a>
+                                <a class="nav-link nav-style a-style active" data-toggle="tab"
+                                   href="#conCom">CONFERENCE COMMITTEE</a>
                             </li>
                             <li class="nav-item">
 
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#adBoard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisory Board</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#adBoard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ADVISORY BOARD</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#techCom">Technical Program Committee</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#techCom">TECHNICAL PROGRAM COMMITTEE</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#orgCom">&nbsp; Organizing &nbsp; Committee</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#orgCom">&nbsp; ORGANISING &nbsp; COMMITTEE</a>
                             </li>
                         </ul>
                     </div>
@@ -1103,17 +1103,17 @@ Finance Chair<br/><br/>
                   <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab"
-                                   href="#contactUS">Contact US</a>
+                                <a class="nav-link nav-style a-style active" data-toggle="tab"
+                                   href="#contactUS">CONTACT US</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#accommodation">Accommodation</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#accommodation">ACCOMODATION</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#localGuide">Local guide</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#localGuide">LOCAL GUIDE</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#reachUS">How to reach</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#reachUS">HOW TO REACH</a>
                             </li>
                         </ul>
                     </div>
