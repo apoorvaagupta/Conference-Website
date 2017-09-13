@@ -3,7 +3,6 @@ $(document).ready(function () {
   const mainWrapper = $('#main-wrapper');
 
   $('#toggleNav').click(function () {
-    console.log(2);
     const $jumbotron = $('#jumbotron');
     if ($jumbotron.css('margin-top') == '80px') {
       $jumbotron.css('margin-top', 375);
@@ -13,12 +12,13 @@ $(document).ready(function () {
   });
 
   $('#homeButton').click(function () {
-    console.log(1);
     mainWrapper.empty();
-    mainWrapper.append(`<div style="background-color: white; border: solid 1px black; ">
+    mainWrapper.append(`
+                    <div style="background-color: white;">
+
                 <div class="row">
-                    <div class="col-sm-12 col-md-12" style="padding: 30px;">
-                        <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <div class="col-md-12" style="padding: 30px;">
+                        <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Overview</h1>
 
                         <div class="overview-description" style="text-align: center;">
@@ -166,10 +166,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
 
   $('#copButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white;width: 100%; border: solid 1px black; ">
+    mainWrapper.append(`            <div style="background-color: white;width: 100%; ">
+
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         Call For Papers</h1>
 
                     <span>We invite authors to submit their papers under the tracks given below. Each track includes several topics listed below,  but is not necessarily limited to them.
@@ -200,9 +201,9 @@ Extensible and adaptable computing refers to the array of methods and techniques
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                     <br>
-                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
+                                    <h3 style="padding-bottom: 10px; color:#177731;"> Agile Software Development</h3>
                                     <div>
-                                        <p style="color: #666">Track Co-chairs</p>
+                                        <p style="color: #444">Track Co-chairs</p>
                                         <div class="row">
                                             <div class="col" style="color: red; font-size: 18px">
                                                 Dr Rashina Hoda<br>
@@ -216,56 +217,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             </div>
                                         </div>
                                         <br>
-                                        <p style="color: #666">Topics</p>
-                                        <ul class="list-group">
-                                            <li class="list-group-item
-">Agile software processes and methodologies
-                                            </li>
-                                            <li class="list-group-item
-">Agile approaches to requirements engineering
-                                            </li>
-                                            <li class="list-group-item
-">Testing in agile environment
-                                            </li>
-                                            <li class="list-group-item
-">Agile project management
-                                            </li>
-                                            <li class="list-group-item
-">Agile methodologies for web development
-                                            </li>
-                                            <li class="list-group-item
-">Agile methodologies for developing embedded software
-                                            </li>
-                                            <li class="list-group-item
-">Design and architectural patterns
-                                            </li>
-
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="track2" role="tabpanel">
-                            <div class="row justify-content-center">
-                                <div class="col-sm-12">
-                                    <br>
-                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
-                                    <div>
-                                        <p style="color: #666">Track Co-chairs</p>
-                                        <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr Rashina Hoda<br>
-                                                University of Auckland<br>
-                                                New Zealand<br>
-                                            </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr Ritu Sibal,<br>
-                                                Netaji Subhas Institute of Technology<br>
-                                                India
-                                            </div>
-                                        </div>
-                                        <br>
-                                        <p style="color: #666">Topics</p>
+                                        <p style="color: #444">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item">Agile software processes and methodologies
                                             </li>
@@ -305,48 +257,103 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="track3" role="tabpanel">
+                        <div class="tab-pane fade" id="track2" role="tabpanel">
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                     <br>
-                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
+                                    <h3 style="padding-bottom: 10px; color:#177731;">  Data Management</h3>
                                     <div>
-                                        <p style="color: #666">Track Co-chairs</p>
+                                        <p style="color: #444">Track Co-chairs</p>
                                         <div class="row">
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Rashina Hoda<br>
-                                                University of Auckland<br>
-                                                New Zealand<br>
+                                                Prof Sumit Dua<br>
+                                                Louisiana Tech. University<br>
+                                                United States of America<br>
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Ritu Sibal,<br>
+                                                Dr Anand Gupta, <br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
                                         </div>
                                         <br>
-                                        <p style="color: #666">Topics</p>
+                                        <p style="color: #444">Topics</p>
+                                        <ul class="list-group">
+                                            <li class="list-group-item">Data interoperability in emerging applications
+                                            </li>
+                                            <li class="list-group-item">Metadata management
+                                            </li>
+                                            <li class="list-group-item">Data models and frameworks for Big Data
+                                            </li>
+                                            <li class="list-group-item">Web data management
+                                            </li>
+                                            <li class="list-group-item">Mobile data management
+                                            </li>
+                                            <li class="list-group-item">Migration to cloud and integration of legacy databases
+                                            </li>
+                                            <li class="list-group-item">Agile data management with No-SQL
+                                            </li>
+                                            <li class="list-group-item">Spatio-temporal databases
+                                            </li>
+                                            <li class="list-group-item">Distributed databases
+                                            </li>
+                                            <li class="list-group-item">Adaptable data security
+                                            </li>
+                                            
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="track3" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                    <br>
+                                    <h3 style="padding-bottom: 10px; color:#177731;"> Web Intelligence</h3>
+                                    <div>
+                                        <p style="color: #444">Track Co-chairs</p>
+                                        <div class="row">
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Prof Sanjay Mishra<br>
+                                                Covenant University, OTA<br>
+                                                Nigeria<br>
+                                            </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Dr Sushma Nagpal,<br>
+                                                Netaji Subhas Institute of Technology<br>
+                                                India
+                                            </div>
+                                        </div>
+                                        <br>
+                                        <p style="color: #444">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item
-">Agile software processes and methodologies
+">Adaptive and context-aware web applications
                                             </li>
                                             <li class="list-group-item
-">Agile approaches to requirements engineering
+">Collective intelligence
                                             </li>
                                             <li class="list-group-item
-">Testing in agile environment
+">Ontology discovery and management
                                             </li>
                                             <li class="list-group-item
-">Agile project management
+">Web personalization
                                             </li>
                                             <li class="list-group-item
-">Agile methodologies for web development
+">Agent based web systems
                                             </li>
                                             <li class="list-group-item
-">Agile methodologies for developing embedded software
+">Context aware recommender systems
                                             </li>
                                             <li class="list-group-item
-">Design and architectural patterns
+">Web analytics
+                                            </li>
+                                            <li class="list-group-item
+">Opinion mining and sentiment analysis
+                                            </li>
+                                            <li class="list-group-item
+">Social network analysis
                                             </li>
 
                                         </ul>
@@ -358,44 +365,41 @@ Extensible and adaptable computing refers to the array of methods and techniques
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                     <br>
-                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
+                                    <h3 style="padding-bottom: 10px; color:#177731;"> Computing in Education</h3>
                                     <div>
-                                        <p style="color: #666">Track Co-chairs</p>
+                                        <p style="color: #444">Track Co-chairs</p>
                                         <div class="row">
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Rashina Hoda<br>
-                                                University of Auckland<br>
-                                                New Zealand<br>
+                                                Ms Rashmi Dravid<br>
+                                                University of Northampton<br>
+                                                United Kingdom<br>
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Ritu Sibal,<br>
+                                                Dr Pinaki Chakraborty,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
                                         </div>
                                         <br>
-                                        <p style="color: #666">Topics</p>
+                                        <p style="color: #444">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item
-">Agile software processes and methodologies
+">Personalized and adaptive e-learning
                                             </li>
                                             <li class="list-group-item
-">Agile approaches to requirements engineering
+">Mobile technologies for education
                                             </li>
                                             <li class="list-group-item
-">Testing in agile environment
+">Case studies on computer-aided education in developed and developing countries
                                             </li>
                                             <li class="list-group-item
-">Agile project management
+">Learning analytics
                                             </li>
                                             <li class="list-group-item
-">Agile methodologies for web development
+">Collaborative and social networks based learning approaches
                                             </li>
                                             <li class="list-group-item
-">Agile methodologies for developing embedded software
-                                            </li>
-                                            <li class="list-group-item
-">Design and architectural patterns
+">Computing methods for constructivist learning
                                             </li>
 
                                         </ul>
@@ -407,44 +411,47 @@ Extensible and adaptable computing refers to the array of methods and techniques
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                     <br>
-                                    <h3 style="padding-bottom: 10px; color:#555;"> Agile Software Development</h3>
+                                    <h3 style="padding-bottom: 10px; color:#177731;">Machine Learning</h3>
                                     <div>
-                                        <p style="color: #666">Track Co-chairs</p>
+                                        <p style="color: #444">Track Co-chairs</p>
                                         <div class="row">
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Rashina Hoda<br>
-                                                University of Auckland<br>
-                                                New Zealand<br>
+                                                Dr Raman Arora<br>
+                                                John Hopkins University<br>
+                                                United States of America<br>
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Ritu Sibal,<br>
+                                                Dr Swati Aggarwal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
                                         </div>
                                         <br>
-                                        <p style="color: #666">Topics</p>
+                                        <p style="color: #444">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item
-">Agile software processes and methodologies
+">Rough, fuzzy and neuro computing
                                             </li>
                                             <li class="list-group-item
-">Agile approaches to requirements engineering
+">Cognitive systems
                                             </li>
                                             <li class="list-group-item
-">Testing in agile environment
+">Deep learning applications
                                             </li>
                                             <li class="list-group-item
-">Agile project management
+">ML driven adaptive applications
                                             </li>
                                             <li class="list-group-item
-">Agile methodologies for web development
+">Evolutionary and nature inspired techniques
                                             </li>
                                             <li class="list-group-item
-">Agile methodologies for developing embedded software
+">Multi-lingual knowledge Acquisition
                                             </li>
                                             <li class="list-group-item
-">Design and architectural patterns
+">Adaptive Natural Language Processing
+                                            </li>
+                                            <li class="list-group-item
+">Ontology engineering and applications
                                             </li>
 
                                         </ul>
@@ -462,9 +469,10 @@ Extensible and adaptable computing refers to the array of methods and techniques
   $('#subButton').click(function () {
     mainWrapper.empty();
     mainWrapper.append(`
-    <div style="background-color: white; border: solid 1px black; ">
+    <div style="background-color: white; ">
+
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         Submission</h1>
 
                     <div style="padding: 0; width: 100%">
@@ -573,9 +581,10 @@ We are also contacting other publishers for journal publications and will share 
 
   $('#regButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white; border: solid 1px black; ">
+    mainWrapper.append(`            <div style="background-color: white; ">
+
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         REGISTRATION</h1>
 
                     <div style="padding: 0; width: 100%">
@@ -749,9 +758,10 @@ The registration will not refundable once the VISA process starts.
   $('#programButton').click(function () {
     mainWrapper.empty();
     mainWrapper.append(`
-    <div style="background-color: white; border: solid 1px black; ">
+    <div style="background-color: white;">
+
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         PROGRAM</h1>
 
                     <div class="overview-description"
@@ -768,10 +778,12 @@ The registration will not refundable once the VISA process starts.
 
   $('#committeeButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`<div style="background-color: white;width: 100%; border: solid 1px black; ">
+    mainWrapper.append(`<div style="background-color: white;width: 100%; ">
+
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
-                    
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                            Committees</h1>
                   <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
                             <li class="nav-item">
@@ -779,6 +791,7 @@ The registration will not refundable once the VISA process starts.
                                    href="#conCom">Conference Committee</a>
                             </li>
                             <li class="nav-item">
+
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#adBoard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisory Board</a>
                             </li>
                             <li class="nav-item">
@@ -985,9 +998,10 @@ The registration will not refundable once the VISA process starts.
   $('#sponsorButton').click(function () {
     mainWrapper.empty();
     mainWrapper.append(`
-                <div style="background-color: white; border: solid 1px black; ">
+                <div style="background-color: white; ">
+
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         SPONSORSHIP</h1>
 
                     <div class="overview-description"
@@ -1077,13 +1091,15 @@ Finance Chair<br/><br/>
 
   $('#infoButton').click(function () {
 
+
     // AIzaSyDBqAJQ9d0sn9iRRrjJjjUtRbbAsBS-0uU
     mainWrapper.empty();
     mainWrapper.append(`
-        <div style="background-color: white;width: 100%; border: solid 1px black; ">
+        <div style="background-color: white;width: 100%;">
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
-                    
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                            Information</h1>
                   <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
                             <li class="nav-item">
@@ -1286,13 +1302,6 @@ Finance Chair<br/><br/>
     // $("#map").css('width', '100%');
 
 
-  });
-
-  $(window).scroll(function () {
-
-    if ($(window).scrollTop() > $('.header-jumbotron').height())
-      $('.navbarTots').addClass('altNav');
-    else $('.navbarTots').removeClass('altNav');
   });
 
 });

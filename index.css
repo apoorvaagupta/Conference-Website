@@ -312,6 +312,7 @@ ul.list-group > li {
 .navbarTots
 {
     background-color: white;
+    box-shadow: #DDD 0 0 8px 1px;
 }
 
 .altNav
