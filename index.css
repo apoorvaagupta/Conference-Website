@@ -308,3 +308,40 @@ ul.list-group > li {
     font-size: 14pt;
     font-family: Lato, sans-serif;
 }
+
+.navbarTots
+{
+    background-color: white;
+}
+
+.altNav
+{
+    box-shadow: 0 3px 3px lightgrey;
+    background-color: #fafafa;
+}
+
+.navbar-expand-md .navbar-nav .nav-link
+{
+    color:black;
+}
+
+.nav-tabs > li > a:hover
+{
+    background-color: aliceblue;
+}
+
+
+.nav-tabs .nav-link.active
+{
+    color: #007bff;
+}
+
+.sponsorshipList > li
+{
+    color: black;
+}
+
+.a-style
+{
+    color: black;
+}
