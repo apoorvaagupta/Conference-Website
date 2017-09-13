@@ -4,6 +4,8 @@
 
 $(document).ready(function () {
 
+  
+
   const mainWrapper = $('#main-wrapper');
 
   $('#homeButton').click(function () {
