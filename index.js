@@ -1005,8 +1005,8 @@ Finance Chair<br/><br/>
     $('#infoButton').click(function () {
 
         // AIzaSyDBqAJQ9d0sn9iRRrjJjjUtRbbAsBS-0uU
-        mainWrapper.empty();
-        mainWrapper.append(`<div style="background-color: white;width: 100%; border: solid 1px black; ">
+        $("#inner-wrapper").empty();
+        $("#inner-wrapper").append(`<div style="background-color: white;width: 100%; border: solid 1px black; ">
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
                     
