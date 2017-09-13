@@ -7,9 +7,12 @@
 
     <!-- Google Analytics -->
     <script>
-        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-        ga('create', 'UA-XXXXX-Y', 'auto');
-        ga('send', 'pageview');
+      window.ga = window.ga || function () {
+        (ga.q = ga.q || []).push(arguments)
+      };
+      ga.l = +new Date;
+      ga('create', 'UA-XXXXX-Y', 'auto');
+      ga('send', 'pageview');
     </script>
     <script async src='https://www.google-analytics.com/analytics.js'></script>
     <!-- End Google Analytics -->
@@ -25,14 +28,14 @@
 <div class="container-fluid">
 
     <div class="row navbarTots"
-         style="height: 80px;  padding: 0; position: fixed; width: 100%; left: 0; top: 0; opacity: 1; z-index: 999">
-        <div class="col-md-1">
-            <img src="images/teamc_logo.png" style="height: 100%">
+         style="min-height: 80px;  padding: 0; position: fixed; width: 100%; left: 0; top: 0; opacity: 1; z-index: 999">
+        <div id="leftSideLogo" class="col-md-1">
+            <img src="images/teamc_logo.png" style="height: 80px">
         </div>
-        <div class="col-md-9">
-            <nav class="navbar navbar-expand-md navbarTots"
-                 style=" height: 80px; padding: 0; font-family: 'Roboto Condensed', sans-serif">
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+        <div class="col-sm-12 col-md-9">
+            <nav id="navBar" class="navbar navbar-toggleable-md navbar-expand-md navbarTots"
+                 style=" min-height: 80px; padding: 0; font-family: 'Roboto Condensed', sans-serif">
+                <button id="toggleNav" class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -74,11 +77,13 @@
         <div class="col-md-2" id="rightSideLogo"></div>
     </div>
 
-    <header class="jumbotron header-jumbotron" style="margin-top: 80px; border-bottom: solid 1px blue; border-top: solid 1px blue;">
+    <header id="jumbotron" class="jumbotron header-jumbotron"
+            style="margin-top: 80px; border-bottom: solid 1px blue; border-top: solid 1px blue;">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <p class="jumbotron-description" style="color: floralwhite; font-size: 26px; font-family: 'Raleway', sans-serif;">
+                    <p class="jumbotron-description"
+                       style="color: floralwhite; font-size: 26px; font-family: 'Raleway', sans-serif;">
                         The International Conference</p>
 
 
@@ -86,7 +91,8 @@
                         Adaptable Methods in Computing</h1>
                     <h2 style="color: floralwhite;font-size: 40px" class="jumbotron-title">TEAMC 2018</h2>
 
-                    <p class="jumbotron-description" style="color: floralwhite; font-size: 26px; font-family: 'Raleway', sans-serif;">
+                    <p class="jumbotron-description"
+                       style="color: floralwhite; font-size: 26px; font-family: 'Raleway', sans-serif;">
                         26-28 March, 2018
                         <br>New Delhi</p>
                 </div>
@@ -99,10 +105,10 @@
 
 <div class="container-fluid" style="padding-top: 20px; padding-left: 75px; padding-right: 75px">
     <div class="row">
-        <div id="main-wrapper" class="col-md-8" style="padding: 15px;   ">
+        <div id="main-wrapper" class="col-sm-12 col-md-8" style="padding: 15px;   ">
             <div style="background-color: white; border: solid 1px black; ">
                 <div class="row">
-                    <div class="col-md-12" style="padding: 30px;">
+                    <div class="col-sm-12 col-md-12" style="padding: 30px;">
                         <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Overview</h1>
 
@@ -167,7 +173,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12" style="padding: 30px;">
+                    <div class="col-sm-12 col-md-12" style="padding: 30px;">
                         <div id="carouselExampleIndicators" style="width: 100%;" class="carousel slide" data-ride="carousel" data-interval="2000">
                             <ol class="carousel-indicators">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -246,10 +252,66 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                     </div>
                 </div>
-            </div>`
-        </div>
-        <div class="col-md-4" style="padding: 15px">
-            <div style="background-color: white;height: 100%;"></div>
+            </div>        </div>
+        <div class="col-sm-12 col-md-4" style="padding: 15px">
+            <!--<div style="background-color: white;height: 100%;">-->
+            <!---->
+            <!--</div>-->
+
+            <div class="row" style="background-color: white;padding: 30px">
+                <div class="col-sm-12 text-center">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        Important Dates</h1>
+                </div>
+                <div class="col-sm-12">
+                    <p class="text-center important-date-description">
+                        Last Date for Submission
+                    </p>
+                    <p class="text-center important-date">
+                        15 November, 2017
+                    </p>
+                    <p class="text-center important-date-description">
+                        Notification of Acceptance
+                    </p>
+                    <p class="text-center important-date">
+                        20 January, 2018
+                    </p>
+                    <p class="text-center important-date-description">
+                        Camera Ready Submission
+                    </p>
+                    <p class="text-center important-date">
+                        15 February, 2018
+                    </p>
+                    <p class="text-center important-date-description">
+                        Early Bird Registration
+                    </p>
+                    <p class="text-center important-date">
+                        15 February, 2018
+                    </p>
+                    <p class="text-center important-date-description">
+                        Standard Registration
+                    </p>
+                    <p class="text-center important-date">
+                        10 March, 2018
+                    </p>
+
+                    <a href="ftp://ftp.springer.de/pub/tex/latex/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf"
+                       target="_blank" class="text-center important-date">
+                        See Submission guidelines
+                    </a>
+                    <a href="#" class="text-center important-date">
+                        Submit your paper here
+                    </a>
+                    <a href="#" class="text-center important-date">
+                        See Registration guidelines
+                    </a>
+                    <a href="#" class="text-center important-date">
+                        Register here
+                    </a>
+
+                </div>
+            </div>
+
         </div>
     </div>
 </div>

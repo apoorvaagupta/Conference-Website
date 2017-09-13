@@ -2,12 +2,22 @@ $(document).ready(function () {
 
   const mainWrapper = $('#main-wrapper');
 
+  $('#toggleNav').click(function () {
+    console.log(2);
+    const $jumbotron = $('#jumbotron');
+    if ($jumbotron.css('margin-top') == '80px') {
+      $jumbotron.css('margin-top', 375);
+    } else {
+      $jumbotron.css('margin-top', 80);
+    }
+  });
+
   $('#homeButton').click(function () {
     console.log(1);
     mainWrapper.empty();
     mainWrapper.append(`<div style="background-color: white; border: solid 1px black; ">
                 <div class="row">
-                    <div class="col-md-12" style="padding: 30px;">
+                    <div class="col-sm-12 col-md-12" style="padding: 30px;">
                         <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Overview</h1>
 
@@ -72,7 +82,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12" style="padding: 30px;">
+                    <div class="col-sm-12 col-md-12" style="padding: 30px;">
                         <div id="carouselExampleIndicators" style="width: 100%;" class="carousel slide" data-ride="carousel" data-interval="2000">
                             <ol class="carousel-indicators">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -486,7 +496,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                     <div class="tab-content">
                         <div class="tab-pane fade show active" id="submissionMethodTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-md-10">
+                                <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
@@ -501,7 +511,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                         <div class="tab-pane fade" id="academicEthicsTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-md-10">
+                                <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
@@ -515,7 +525,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                         <div class="tab-pane fade" id="registrationRequirementTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-md-10">
+                                <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
@@ -528,7 +538,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                         <div class="tab-pane fade" id="awardsTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-md-10">
+                                <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
@@ -541,7 +551,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                         <div class="tab-pane fade" id="publishingTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-md-10">
+                                <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
@@ -572,38 +582,40 @@ We are also contacting other publishers for journal publications and will share 
                         <ul class="nav nav-tabs nav-justified " role="tablist">
                             <li class="nav-item">
                                 <a class="nav-link active nav-style a-style pl-0 pr-0" data-toggle="tab"
-                                   href="#onlineRegistrationTab">ONLINE REGISTRATION</a>
+                                   href="#onlineRegistrationTab">&nbsp;&nbsp; ONLINE &nbsp;&nbsp;&nbsp;&nbsp;
+                                    REGISTRATION</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#visaSupportTab">VISA SUPPORT</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#visaSupportTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    VISA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SUPPORT</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link nav-style a-style" data-toggle="tab"
-                                   href="#registrationRequirementTab">REGISTRATION
-                                    REQUIREMENT</a>
+                                   href="#registrationFeesTab">&nbsp;&nbsp; REGISTRATION &nbsp; FEES</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#awardsTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    AWARDS</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#studentRegistrationTab">
+                                    STUDENT
+                                    REGISTRATION</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#publishingTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    PUBLISHING</a>
-                            </li>
+
                         </ul>
                     </div>
 
                     <div class="tab-content">
                         <div class="tab-pane fade show active" id="onlineRegistrationTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-md-10">
+                                <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format. Short papers of at most 8 pages will also be considered. Submissions should strictly adhere to the <a
-                                                href="http://www.springer.com/series/7899"> Springer Communications in Computer and Information Science (CCIS)</a> format. Submissions will be accepted through <a
-                                                href="https://ocs.springer.com/ocs/"> Springer Online Conference Service (OCS).</a>
+                                            Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
+<br/><br/>
+Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable. If an author has got more than one accepted papers, each paper has to be registered separately. Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.
+
+The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
+
                             </span>
                                     </div>
                                 </div>
@@ -611,55 +623,117 @@ We are also contacting other publishers for journal publications and will share 
                         </div>
                         <div class="tab-pane fade" id="visaSupportTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-md-10">
+                                <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals. All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality. Qualifying papers will undergo a double blind review process by at least three reviewers. Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution. Accepted papers must be presented at the conference.
+                                            Only registered authors who have paid the full registration fees will be provided VISA  letters upon request. After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.
+<br/><br/>
+The registration will not refundable once the VISA process starts.
 
                             </span>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="registrationRequirementTab" role="tabpanel">
+                        <div class="tab-pane fade" id="registrationFeesTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-md-10">
-                                    <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
-                                        <span style="color: black; font-size: 14pt;"><br></span>
-                                        <span style="color: black; font-size: 14pt;">
-                                            At least one of the authors of each accepted paper must register by paying the full registration fee as applicable for the author, on or before the deadline for camera ready submission.
-                            </span>
-                                    </div>
+                                <div class="col-sm-12 col-md-10 pt-4 text-center">
+                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
+                                        Registration fees for Indian delegates
+                                    </h1>
+                                    <table class="table table-bordered table-responsive">
+                                        <thead class="thead-default">
+                                        <tr>
+                                            <th>Delegate Category</th>
+                                            <th>Early Bird</th>
+                                            <th>Standard</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <th scope="row">Faculty/Industry authors</th>
+                                            <td>Rs 6000</td>
+                                            <td>Rs 7000</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Students</th>
+                                            <td>
+                                                Rs 4000
+                                            </td>
+                                            <td>
+                                                Rs 5000
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Others</th>
+                                            <td>
+                                                Rs 4000
+                                            </td>
+                                            <td>
+                                                Rs 5000
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
+                                <div class="col-sm-12 col-md-10 pt-4 text-center">
+                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
+                                        Registration fees for Foreign delegates
+                                    </h1>
+                                    <table class="table table-bordered table-responsive">
+                                        <thead class="thead-default">
+                                        <tr>
+                                            <th>Delegate Category</th>
+                                            <th>Early Bird</th>
+                                            <th>Standard</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <th scope="row">Faculty/Industry authors</th>
+                                            <td>
+                                                $300
+                                            </td>
+                                            <td>
+                                                $350
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Students</th>
+                                            <td>
+                                                $250
+                                            </td>
+                                            <td>
+                                                $300
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Others</th>
+                                            <td>
+                                                $250
+                                            </td>
+                                            <td>
+                                                $300
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <h3 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 18px;text-transform: uppercase;">
+                                    *CSI, ACM and IEEE Members will be given a discount of 15%
+                                </h3>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="awardsTab" role="tabpanel">
+                        <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-md-10">
+                                <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Best paper award will be presented to high quality papers.
-                            </span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="publishingTab" role="tabpanel">
-                            <div class="row justify-content-center">
-                                <div class="col-md-10">
-                                    <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
-                                        <span style="color: black; font-size: 14pt;"><br></span>
-                                        <span style="color: black; font-size: 14pt;">
-                                            Publishing
-We are in active engagement with Springer India for publishing accepted papers of the conference in the CCIS book series, subject to approval by CCIS Board. The publication will be indexed by ISI Proceedings, Ei – Compendex,  DBLP,  SCOPUS, Google Scholar and Springer link.
-We are also contacting other publishers for journal publications and will share emerging developments on this website.
-
+                                            Students must submit a scanned copy of their Institute identity card at the time of registration and produce their original Identity card and a bonafide certificate from the Head of Institution/Department upon arrival at the conference reception desk.
                             </span>
                                     </div>
                                 </div>
@@ -669,7 +743,6 @@ We are also contacting other publishers for journal publications and will share 
 
                 </div>
             </div>
-
 `);
   });
 
@@ -712,7 +785,7 @@ We are also contacting other publishers for journal publications and will share 
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#techCom">Technical Program Committee</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#orgCom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organizing Committee</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#orgCom">&nbsp; Organizing &nbsp; Committee</a>
                             </li>
                         </ul>
                     </div>
