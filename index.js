@@ -170,19 +170,19 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         <ul class="nav nav-tabs nav-justified " role="tablist">
                             <li class="nav-item">
                                 <a class="nav-link nav-style a-style" data-toggle="tab"
-                                   href="#track1">TRACK 1</a>
+                                   href="#track1">TRACK 1 - ASD</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track2">TRACK 2</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track2">TRACK 2 - DM</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track3">TRACK 3</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track3">TRACK 3 - WI</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track4">TRACK 4</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track4">TRACK 4 - CiE</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track5">TRACK 5</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track5">TRACK 5 - ML</a>
                             </li>
                         </ul>
                     </div>
