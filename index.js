@@ -695,7 +695,218 @@ We are also contacting other publishers for journal publications and will share 
 
     $('#committeeButton').click(function () {
         mainWrapper.empty();
-        mainWrapper.append();
+        mainWrapper.append(`<div style="background-color: white;width: 100%; border: solid 1px black; ">
+
+                <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
+                    
+                  <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab"
+                                   href="#conCom">Conference Committee</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#adBoard">Advisory Board</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#techCom">Technical Program Committee</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#orgCom">Organizing Committee</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                          <div class="tab-pane fade show active" id="conCom" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12" style="color : black;">
+                                    <br>
+                                    <h3 style=" color:#EA4335;"> Honorary Conference Chair</h3>
+                                    Prof. J.P. Saini, Director NSIT 
+                                    <br>
+                                    </div>
+                            </div>
+                        </div>
+                        
+                      
+                        
+                           
+                        <div class="tab-pane fade" id="adBoard" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                <br>
+                                <ul>
+                                <li>Prof. Anshul Kumar, Indian Institute of Technology-Delhi</li>
+                                <li>Prof Saroj Kaushik,  Indian Institute of Technology Delhi</li>
+                                <li>Prof K.K.Biswas, Indraprastha Institute of Information Technology,  New Delhi</li>
+                                <li>Prof S.S. Mantha, All India Council for Technical Education</li>
+                                <li> Prof Anjali Agarwal, Concordia University, Canada</li>
+                                <li>Prof. Yenumula B. Reddy, Grambling State University, LA, USA</li>
+                                <li>Prof Sumit Dua, Louisiana Tech University, USA</li>
+                                <li>Prof. M. N. Hoda, BVICAM, New Delhi</li>
+                                 <li> Prof. M. P. Pooniya, All India Council for Technical Education</li>
+                                  <li>  Dr. Anil Goel, Hana Data Platform, SAP, USA</li>
+                                   <li> Prof. P. C. Saxena, Jawaharlal Nehru University</li>
+                                </ul>                                                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                     
+                        
+                        
+                         <div class="tab-pane fade" id="techCom" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                  <br>
+                                  
+                                  <ul>
+                                 <li> Prof Pradeep Atrey,State University of New York, Albany, NY, USA</li>
+                                  <li>   Prof Sumeet Dua, Louisiana Tech University, USA</li>
+                                  <li>Prof. Yenumula B. Reddy, Grambling State University, LA, USA</li>
+                                  <li>Dr. Anil Goel, Hana Data Platform, SAP, USA</li>
+                                  <li>Prof. P. C. Saxena, Jawaharlal Nehru University, New Delhi</li>
+                                  <li>Prof Sanjay Misra, Covenant University, OTA, Nigeria</li>
+                                  <li>Dr. Rashina Hoda, University of Auckland, New Zealand</li>
+                                  <li>Dr Atul Jain, Texas Instruments, Dallas, USA</li>
+                                  <li>Dr Rajiv Jain, Wells Fargo, USA</li>
+                                  <li>Dr Himanshu Bhatnagar, HB Software Solutions, USA</li>
+                                  <li>Dr Anil Goel, Hana Data Platform, SAP, USA</li>
+                                  <li>Ms Rashmi Dravid, University of Northampton, UK</li>
+                                  <li>Dr. Lalit Garg, University of Malta, Malta</li>
+                                  <li>Prof Sonajharia Minz, JNU</li>
+                                  <li>Prof Sangeeta Sabharwal, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Prof K.K.Biswas, Indraprastha Institute of Information Technology,  New Delhi</li>
+                                  <li>Prof Poonam Bedi, Delhi University</li>
+                                  <li>Prof Anjana Gosain, Guru Govind Indrapratstha Univ</li>
+                                  <li>Dr Anil Kumar, Samsung</li>
+                                  <li>Prof. M.P.S. Bhatia, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Mr Vaibhav Mittal, Facebook USA</li>
+                                  <li>Prof. Manoj Gaur, Indian Institute of Technology-Jammu</li>
+                                  <li>Prof Shampa Chakraverty, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Prof Daya Gupta, Delhi Technical University</li>
+                                  <li>Prof. B.K. Singh, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Mr Animesh Mishra, Principal Engineer, Intel Corp., USA</li>
+                                  <li>Prof Satbir Jain, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Dr Anubhav Mathur, Million Sparks Foundation,</li>
+                                  <li>Dr Naveen Kumar, Delhi University</li>
+                                  <li>Dr Syed Akhtar Hossain, Daffodil University, Bangladesh</li>
+                                  <li>Prof. Jitender Kumar Chhabra, NIT Kurukshetra</li>
+                                  <li>Dr Sushil Kumar Azad, Delhi University</li>
+                                  <li>Dr Mona Mathur, Million Sparks Foundation</li>
+                                  <li>Mr Chetan Oberoi, CEO MphRx</li>
+                                  <li>Dr. Ritu Sibal, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Dr. Anand Gupta, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Dr Krishnan Seetharaman, University of Massachusetts Lowell, USA</li>
+                                  <li>Dr Dilip Kumar Yadav, NIT Jamshedpur</li>
+                                  <li>Dr. Sushma Nagpal, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Prof Tarun Kumar Singhal, Symbiosis</li>
+                                  <li>Dr. Swati Agarwal, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Dr Suresh P.V., IGNOU</li>
+                                  <li>Dr. Pinaki Chakrabarti, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Prof Amit Prakash, Guru Govind Indrapratstha Univ, India</li>
+                                  <li>Dr. Vasudha Bhatnagar, Delhi University</li>
+                                  <li>Dr. Naveen Kumar,Delhi University</li>
+                                  <li>Ms Monadhika, Pinterest, USA</li>
+                                  <li>Prof Lalit Sensharma, Jammu University</li>
+                                  <li>Prof Goldie Gabrani, BML, Munjal University</li>
+                                  <li>Prof. S.K. Dhurandhar, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Dr Vikash Mashelkar, Netaji Subhas Inst of Technology, New Delhi</li>
+                                  <li>Dr Latesh Mallick, Raisoni College of Engineering, Nagpur</li>
+                                  <li>Prof. Rajeev Srivastava, Indian Institute of Technology Banaras Hindu University, Varanasi</li>
+                                  <li>Prof. O.P. Verma, Delhi Technological University</li>
+                                  <li>Ms Rakshita, Microsoft, USA</li>
+                                  <li>Dr. D.K. Tayal, Indira Gandhi Delhi Technical Univ. for Women, New Delhi</li>
+                                  <li>Prof Manu Sood, Himachal Pradesh University , Shimla</li>
+                                  <li>Prof. Arvinder Kaur, USICT</li>
+                                  <li>Dr. Anju Saha, USICT, Guru Govind Singh Indraprastha University, New Delhi</li>
+                                  <li>Dr Akshi Kumar, Delhi Technological University</li>
+                                  <li>Dr Bharti Suri, USICT, Guru Govind Singh Indraprastha University, New Delhi</li>
+                                  <li>Dr Vishal Jain, Bhartiya Vidyapeeth Inst of Computer Applications and Management</li>
+                                  <li>Prof Amita Dev, Bhai Parmanand Inst of Business Studies, Guru Govind Singh Indraprasth University, New Delhi</li>
+                                  <li>Dr. Rajni Jindal, Delhi Technological University</li>
+                                  <li>Dr. Sandeep Kumar Garg, Indian Institute of Technology Roorkee</li>
+                                  <li>Dr. Ritu Garg, NIT kurukshetra</li>
+                                  <li>Dr. Ankita Bansal, Netaji Subhas Inst of Technology</li>
+                                  <li>Dr. Seema Bawa, Thapar Univ, Patiala</li>
+                                  <li>Dr. Naresh Chauhan, YMCA Univ. of Science and Technology, Faridabad</li>
+                                  <li>Dr Deepali Virmani, Guru Govind Singh Indraprasth University, New Delhi</li>
+                                  <li>Prof Payal Pahwa, Guru Govind Singh Indraprasth University, New Delhi</li>
+                                  <li>Mr Manusheel Gupta, CEO Aspiring Investments, India</li>
+                                  <li>Dr. Namita Mittal, Malviya National Inst. of Technology, Jaipur</li>
+                                  <li>Dr Nand Kumar, Manav Rachna University</li>
+                                  <li>Prof Poonam Bansal, Maharaja Surajmal Institute of Technology</li>
+                                  <li>Dr H.M.N. Dilum Bandara,University of Moratuwa</li>
+                                  <li>Dr. Rajesh Purohit, J.N.V. Univ., Jodhpur</li>
+                                  <li>Dr Amritanjali</li>
+                                  <li>Dr. Priyank Thakkar, Nirma University</li>
+                                  <li>Dr Rama Krishnan</li>
+                                  <li>Dr Maitreyee Dutta,</li>
+                                  <li>Dr Shruti Garg</li>
+                                  <li>Dr. Sangeeta Srivastava, Bhaskaracharya College of Applied Sciences</li>
+                                  <li>Dr. Savita Gupta, UIET, Punjab Univ.</li>
+                                  </ul>
+                                  
+                                  
+                                </div>
+                            </div>
+                        </div>
+                        
+                    
+                     
+                       
+                        <div class="tab-pane fade" id="orgCom" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                  
+               
+                                   <h3 style=" color:#EA4335; padding-top:25px;">General Chair </h3>
+                                   Prof. Shampa Chakraverty, NSIT
+                                   <br><br>
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Organizing Co-Chairs </h3>
+                                   Prof. M. P. S. Bhatia, NSIT<br>
+                                    Dr Ritu Sibal, NSIT<br><br>
+                                     <h3 style=" color:#EA4335; padding-top:25px;">TPC Co-Chairs</h3>
+                                     Dr Anil Kumar Goel, SAP, USA<br>
+                                    Prof. Sangeeta Sabharwal, NSIT<br><br> 
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Publication Chair</h3>
+                                   Anand Gupta<br><br> 
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Design Contest Co-Chair</h3>
+                                  Manusheel Gupta<br>
+                                   Manusheel Gupta<br><br>
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Workshop Chair</h3>
+                                      Prof Bijender Kumar<br><br>
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Industry Liaison Co-Chairs</h3>
+                                   Industry Liaison Co-Chairs<br>
+                                   Rajeev Kumar<br><br>
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Sponsorship Chair</h3>
+                                   Prof M.P.S. Bhatia<br><br>   
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Publicity Co-chairs</h3>
+                                    Savita Yadav<br>
+                                   Poonam Rana
+                                   <br><br> 
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Finance Chair</h3>
+                                  V.P. Ranjan<br><br> 
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Website Chair</h3>
+                                   Khushil Saini<br><br> 
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Hospitality Co-Chairs</h3>
+                                   Preeti Kaur<br>
+                                   Aastha Singh
+                                   <br><br> 
+                                   <h3 style=" color:#EA4335; padding-top:25px;">Internal Arrangements Chair</h3>
+                                   Anil Arora<br><br>    
+                                                          
+                                </div>
+                            </div>
+                        </div>
+                      
+                     
+                     
+
+                </div>
+            </div>
+`);
     });
 
     $('#sponsorButton').click(function () {
