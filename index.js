@@ -1,11 +1,11 @@
 $(document).ready(function () {
 
-  const mainWrapper = $('#main-wrapper');
+    const mainWrapper = $('#main-wrapper');
 
-  $('#homeButton').click(function () {
-    console.log(1);
-    mainWrapper.empty();
-    mainWrapper.append(`<div style="background-color: white; border: solid 1px black; ">
+    $('#homeButton').click(function () {
+        console.log(1);
+        mainWrapper.empty();
+        mainWrapper.append(`<div style="background-color: white; border: solid 1px black; ">
                 <div class="row">
                     <div class="col-md-12" style="padding: 30px;">
                         <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -152,11 +152,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                     </div>
                 </div>
             </div>`);
-  });
+    });
 
-  $('#copButton').click(function () {
-    mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white;width: 100%; border: solid 1px black; ">
+    $('#copButton').click(function () {
+        mainWrapper.empty();
+        mainWrapper.append(`            <div style="background-color: white;width: 100%; border: solid 1px black; ">
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -447,11 +447,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                 </div>
             </div>
 `);
-  });
+    });
 
-  $('#subButton').click(function () {
-    mainWrapper.empty();
-    mainWrapper.append(`
+    $('#subButton').click(function () {
+        mainWrapper.empty();
+        mainWrapper.append(`
     <div style="background-color: white; border: solid 1px black; ">
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -559,11 +559,11 @@ We are also contacting other publishers for journal publications and will share 
 
                 </div>
             </div>`);
-  });
+    });
 
-  $('#regButton').click(function () {
-    mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white; border: solid 1px black; ">
+    $('#regButton').click(function () {
+        mainWrapper.empty();
+        mainWrapper.append(`            <div style="background-color: white; border: solid 1px black; ">
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         REGISTRATION</h1>
@@ -671,11 +671,11 @@ We are also contacting other publishers for journal publications and will share 
             </div>
 
 `);
-  });
+    });
 
-  $('#programButton').click(function () {
-    mainWrapper.empty();
-    mainWrapper.append(`
+    $('#programButton').click(function () {
+        mainWrapper.empty();
+        mainWrapper.append(`
     <div style="background-color: white; border: solid 1px black; ">
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -691,16 +691,16 @@ We are also contacting other publishers for journal publications and will share 
                 </div>
             </div>
 `);
-  });
+    });
 
-  $('#committeeButton').click(function () {
-    mainWrapper.empty();
-    mainWrapper.append();
-  });
+    $('#committeeButton').click(function () {
+        mainWrapper.empty();
+        mainWrapper.append();
+    });
 
-  $('#sponsorButton').click(function () {
-    mainWrapper.empty();
-    mainWrapper.append(`
+    $('#sponsorButton').click(function () {
+        mainWrapper.empty();
+        mainWrapper.append(`
                 <div style="background-color: white; border: solid 1px black; ">
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -789,39 +789,225 @@ Finance Chair<br/><br/>
                 </div>
             </div>
 `);
-  });
+    });
 
-  $('#infoButton').click(function () {
+    $('#infoButton').click(function () {
 
-    // AIzaSyDBqAJQ9d0sn9iRRrjJjjUtRbbAsBS-0uU
-    $("#inner-wrapper").empty();
-      $("#inner-wrapper").append(`
-      <div style="background-color: white;">
-        <div style="padding: 30px; font-size: 14pt; color: black">
-          <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
-               INFORMATION</h1>
-                  
-            <div class="overview-description" style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
-              
+        // AIzaSyDBqAJQ9d0sn9iRRrjJjjUtRbbAsBS-0uU
+        mainWrapper.empty();
+        mainWrapper.append(`<div style="background-color: white;width: 100%; border: solid 1px black; ">
+
+                <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
+                    
+                  <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab"
+                                   href="#contactUS">Contact US</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#accommodation">Accommodation</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#localGuide">Local guide</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#reachUS">How to reach</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                          <div class="tab-pane fade show active" id="contactUS" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12" style="color : black;">
+                                    <br>
+                                    <h3 style=" color:#EA4335;"> Website </h3>
+                                    www.nsit.ac.in/TEAMC2018
+                                    <br>
+                                    Email Id- teamc2018@nsit.ac.in
+                                    <div>
+                                       
+                                      <h3 style=" color:#EA4335; padding-top:25px;"> General Chair </h3>
+                                       
+                                        <div class="row"">
+                                            <div class="col" style="color: black; font-size: 18px">
+                                             <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Prof Shampa Chakraverty</b> </span>  <br>
+                                                Mobile: 9205475009<br>
+                                                Email: apmahs.nsit@nsit.ac.in<br>
+                                            </div>
+                                        </div>
+                                        
+                                        
+                                         <h3 style=" color:#EA4335; padding-top:25px;"> Organizing Co-Chairs </h3>
+                                        <div class="row">
+                                            <div class="col" style="color: black; font-size: 18px">
+                                               <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Prof MPS Bhatia</b> </span>  <br>
+                                                Mobile: 9205475008<br>
+                                                Email: bhatia.mps@gmail.com<br>
+                                            </div>
+                                            <div class="col" style="color: black; font-size: 18px">
+                                               <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Dr Ritu Sibal</b> </span>  <br>
+                                                Mobile: 9871598390<br>
+                                                Email: ritusib@hotmail.com<br>
+                                            </div>                                        </div>
+                                        
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                      
+                        
+                           
+                        <div class="tab-pane fade" id="accommodation" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                   
+                                   <p style="padding-top:5px;">
+                                   <br>
+                                   The conference venue, Netaji Subhas Institute of Technology, is located in Dwarka, New Delhi.
+                                    It is a sub-city in itself and has developed into an educational hub boasting many schools and Institutions of higher learning.<br>
+                                    <br>
+                                    Dwarka has many accommodation options to suit varied preferences and budgets which are within
+                                     5-10 minutes drive from the venue.
+                                      Online Taxi services are available round the clock. 
+                                      You can also search for other options using global search sites like 
+                                      <a href="https://www.tripadvisor.in/"> Tripadvisor.com</a> and 
+                                      <a href="https://www.booking.com/">Booking.com</a>. 
+                                  
+                                   </p>
+                                   
+                                   <p>
+                                    Some of the accommodation options in Dwarka are:<br>
+                                    <span style="color:#177731; "> <b>5 Star Hotels:</b></span>
+                                    Radisson Blu, Welcome Hotel, Vivanta by Taj
+                                    <br>
+                                    <span style="color:#177731; "><b> Budget Hotels:</b></span>
+                                    Shhaurya Hotel, La Wisteria Hotel, Royal Star Hotel
+                                    <br> 
+                                    For any assistance required on booking your accommodation or queries, please directly contact hotel
+                                   </p>
+                                   
+                                   <p>
+                                    <h3 style=" color:#EA4335; padding-top:25px;"> On Campus </h3>
+                                    <ul>
+                                      <li>
+                                      Limited number of hostel rooms can be made available upon request on single/double sharing, chargeable and first-come-first-served basis.
+                                      </li>
+                                      <li>
+                                      Hostel accommodation requests can be made at the time of registration.
+                                      </li>
+                                      <li>
+                                      The charges of accommodation are not included in the registration fee.
+                                      </li>
+                                    </ul>
+                                   </p>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                        
+                     
+                        
+                        
+                         <div class="tab-pane fade" id="localGuide" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                   <p>
+                                   <h3 style=" color:#EA4335; padding-top:25px;"> Venue </h3>
+                                   <address style="font-style: italic">Netaji Subhas Institute of Technology
+                                   <br> Dwarka, Sector 3
+                                   <br> New Delhi - 110078<br> India.</address>       
+                                   </p> 
+                                   
+                                   
+                                   <p>
+                                     <h3 style=" color:#EA4335; padding-top:25px;"> About NSIT </h3>
+                                     An autonomous institution under Govt. of NCT of Delhi and affiliated to University of Delhi,
+                                      Netaji Subhas Institute of Technology is a reputed seat of higher education in India.
+                                       Over a period of time, the institute has carved a niche for itself, both nationally and internationally, 
+                                       for excellence in engineering education and research.<br>
+
+                                        NSIT has a  145 acre, beautifully landscaped, sprawling campus. The campus life is always abuzz with
+                                        activity by a  number of societies and clubs. The campus houses the Main Administrative
+                                         block, Academic blocks, Central Library, Medical Center, Students’ Activity Center, 
+                                         Faculty and Staff residences, Student hostels, Banks, ATM, Post Office, Sports Complex 
+                                         and Shopping Complex.
+                                   </p>
+                                   
+                                   
+                                   <p>
+                                   <h3 style=" color:#EA4335; padding-top:25px;"> About Delhi </h3>
+                                   Delhi is not just a city – it is a universe of its own. Churned by a rich tapestry of historical 
+                                   events, Delhi vibrates today with cultures of diverse hues, architectural masterpieces, lush green
+                                    landscapes and lively hubs of eclectic activities. <br>
+                                    Delhi will never fail to surprise you with what it can offer. Seep in the aura of Mughal glory in 
+                                    Red Fort, view the majestic Rashtrapati Bhavan on Raisina Hills from the vantage point of India Gate,
+                                     embrace the iron tower in Qutub Minar complex to fulfil a wish, take a heritage walk in Lodhi Gardens,
+                                      marvel at the serene beauty of Lotus temple, Saint James Church, Akshardham temple and Bangla Sahib
+                                       Gurudwara, swing to the pulsating Qawwali beats in Nizamuddin Dargah, enjoy night street food in 
+                                       Chandni Chauk, or simply take a peaceful stroll in Connaught Place Central Park – every nook and
+                                        corner of the Capital city has a story to tell.
+                                   </p>
+                                 
+                                </div>
+                            </div>
+                        </div>
+                        
+                    
+                     
+                       
+                        <div class="tab-pane fade" id="reachUS" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                  
+                                  <p>
+                                   <h3 style=" color:#EA4335; padding-top:25px;">By air </h3>
+                                   Indira Gandhi International Airport (IGI) in Delhi serves both domestic and international
+                                    flights. There are frequent flights to Delhi from all metro cities. Situated in Palam, the
+                                     airport is about 20 kilometers away from the NSIT. While there are regular Delhi Transport 
+                                     Corporation buses (DTC) plying from outside the airport, one can take airport metro express
+                                      to Sector 21 dwarka and change there for blue line metro that drops you at Dwarka Mor 
+                                      station - closest to the campus. Along with Uber and Ola, government registered pre-paid
+                                       taxis can also be hired from the taxi counters at the airport to reach the venue.
+                                    </p>
+                                    
+                                    
+                                    <p>
+                                   <h3 style=" color:#EA4335; padding-top:25px;">By train </h3> 
+                                   The capital city Delhi is primarily served by four railway stations—New Delhi Railway Station (NDLS),
+                                    Old Delhi Railway Station (DLI), Hazrat Nizamuddin Railway Station (NZM) and Anand Vihar Railway Terminal (ANVT). 
+                                    All railway stations are well connected by metro stations and DTC buses to the venue. For more information visit   
+                                    <a href="http://www.delhimetrorail.com/"> Delhi metro website </a>.
+                                    </p>                          
+                                </div>
+                            </div>
+                        </div>
+                      
+                     
+                     
+
+                </div>
             </div>
-          </div>    
-      </div>    
-    `);
-
-      $("#map").css('visibility', 'visible');
-      $("#map").css('height', '400px');
-      // $("#map").css('width', '100%');
-  });
+`);
 
 
 
-  $(window).scroll(function () {
-
-      if( $(window).scrollTop()> $('.header-jumbotron').height() )
-             $('.navbarTots').addClass('altNav');
-      else  $('.navbarTots').removeClass('altNav');
-  });
+        $("#map").css('visibility', 'visible');
+        $("#map").css('height', '400px');
+        // $("#map").css('width', '100%');
 
 
-    
+    });
+
+    $(window).scroll(function () {
+
+        if( $(window).scrollTop()> $('.header-jumbotron').height() )
+            $('.navbarTots').addClass('altNav');
+        else  $('.navbarTots').removeClass('altNav');
+    });
+
 });
