@@ -3,11 +3,11 @@ $(document).ready(function () {
   const mainWrapper = $('#main-wrapper');
 
   $('#toggleNav').click(function () {
-    const $jumbotron = $('#jumbotron');
-    if ($jumbotron.css('margin-top') == '80px') {
-      $jumbotron.css('margin-top', 375);
+    const jumbotron = $('#jumbotron');
+    if (jumbotron.css('margin-top') == '80px') {
+      jumbotron.css('margin-top', 375);
     } else {
-      $jumbotron.css('margin-top', 80);
+      jumbotron.css('margin-top', 80);
     }
   });
 
