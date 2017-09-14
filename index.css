@@ -309,46 +309,42 @@ ul.list-group > li {
     font-family: Lato, sans-serif;
 }
 
-.navbarTots
-{
+.navbarTots {
     background-color: white;
     box-shadow: #DDD 0 0 8px 1px;
 }
 
-.altNav
-{
+.altNav {
     box-shadow: 0 3px 3px lightgrey;
     background-color: #fafafa;
 }
 
-.navbar-expand-md .navbar-nav .nav-link
-{
-    color:black;
+.navbar-expand-md .navbar-nav .nav-link {
+    color: black;
 }
 
-.nav-tabs > li > a:hover
-{
+.nav-tabs > li > a:hover {
     background-color: aliceblue;
 }
 
-
-.nav-tabs .nav-link.active
-{
+.nav-tabs .nav-link.active {
     color: #007bff;
 }
 
-.sponsorshipList > li
-{
+.sponsorshipList > li {
     color: black;
 }
 
-.a-style
-{
+.a-style {
     color: black;
 }
 
-@media  (min-width: 1200px){
-.container {
-    max-width: 1200px;
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+    }
 }
+
+#jumbotron{
+    transition: margin-top 0.5s;
 }
