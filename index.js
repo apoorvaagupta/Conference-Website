@@ -11,6 +11,8 @@ $(document).ready(function () {
     }
   });
 
+  $('#teamc18logo').css('height', $('#nsit-logo').height);
+
   $('#homeButton').click(function () {
     mainWrapper.empty();
     mainWrapper.append(`
@@ -179,7 +181,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         <ul class="nav nav-tabs nav-justified " role="tablist">
                             <li class="nav-item">
                                 <a class="nav-link nav-style a-style active" data-toggle="tab"
-                                   href="#track1">TRACK 1 - ASD</a>
+                                   href="#track1">TRACK 1 -ASD</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#track2">TRACK 2 - DM</a>
@@ -795,7 +797,7 @@ The registration will not refundable once the VISA process starts.
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#adBoard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ADVISORY BOARD</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#techCom">TECHNICAL PROGRAM COMMITTEE</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#techCom">TECHNICAL COMMITTEE</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#orgCom">&nbsp; ORGANISING &nbsp; COMMITTEE</a>
