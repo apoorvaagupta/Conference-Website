@@ -25,7 +25,7 @@ $(document).ready(function () {
                             &nbsp; &nbsp; &nbsp; &nbsp; <span
                                 style="background-color: white; color: black; font-size: 14pt;"><img src="images/springer-logo.jpg" height="50px">&nbsp;&nbsp;Welcome to the &nbsp;</span><br><b
                                 style="background-color: white; color: black; font-size: 14pt;"><span
-                                style="color: #385623; font-size: 15pt;">2018 International Conference <br> Towards Extensible and Adaptable Methods in Computing <br> TEAMC 2018 </span></b>
+                                style="color: #385623; font-size: 15pt;">2018 Springer International Conference <br> Towards Extensible and Adaptable Methods in Computing <br> TEAMC 2018 </span></b>
                             <!--<b style="background-color: white; color: black; font-size: 14pt;"></b><span-->
                                 <!--style="background-color: white; color: black; font-size: 14pt;">&nbsp; <br> organized by&nbsp;</span>-->
                         </div>
@@ -102,18 +102,18 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                 <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
-                                <li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
+
                             </ol>
                             <div class="carousel-inner" role="listbox">
                                 <div class="carousel-item active">
                                     <img class="d-block img-fluid" src="./images/5.jpg" alt="First slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/_MG_9209.JPG"
+                                    <img class="d-block img-fluid" src="images/_MG_9209.jpg"
                                          alt="Second slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/_MG_9377.JPG"
+                                    <img class="d-block img-fluid" src="images/_MG_9377.jpg"
                                          alt="Third slide">
                                 </div>
 
@@ -121,10 +121,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <img class="d-block img-fluid" src="./images/DSC06193.JPG"
                                          alt="Fourth slide">
                                 </div>
-                                <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/DSC_0408.jpg"
-                                         alt="Fifth slide">
-                                </div>
+
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/DSC_0441.jpg"
                                          alt="Sixth slide">
@@ -139,27 +136,27 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid"
-                                         src="./images/india%20gate%20with%20chatri.jpg" alt="Ninth slide">
+                                         src="./images/india-gate-night-hd-pictures.jpg" alt="Ninth slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/indiagate.jpg"
+                                    <img class="d-block img-fluid" src="./images/-77044_7004.jpg"
                                          alt="Tenth slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/jantar%20mantar.png"
+                                    <img class="d-block img-fluid" src="./images/Jama_Masjid_-_In_the_Noon.jpg"
                                          alt="Eleventh slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/lotus%20temple%20.jpg"
+                                    <img class="d-block img-fluid" src="./images/diwan-i-khas-inside-view-red-fort-delhi.jpg"
                                          alt="Twelveth slide">
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid"
-                                         src="./images/qutub%20minar%20slice%20of%20history.jpg"
+                                         src="./images/v__processed_original.jpg"
                                          alt="Thirteen slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/qutub%20minar%202.png"
+                                    <img class="d-block img-fluid" src="./images/Red_Fort_in_Delhi_03-2016_img3.jpg"
                                          alt="Fourteenth slide">
                                 </div>
                                 <div class="carousel-item">
