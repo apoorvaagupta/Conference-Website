@@ -885,11 +885,18 @@ We are also contacting other publishers for journal publications and will share 
                                 <h3 style="color:#EA4335;">Honorary Conference Chair</h3>
                                 <p>Prof. J.P. Saini, Director NSIT</p> 
                                 <br>
-                                <h3 style="color:#EA4335;">Members</h3>
-                                <ul class="list-group">
-                                <li class="list-group-item">Prof S.S. Mantha, All India Council for Technical Education</li><li class="list-group-item">Prof Sumit Dua, Louisiana Tech University, USA</li><li class="list-group-item">Prof Anshul Kumar, Indian Institute of Technology-Delhi</li><li class="list-group-item">Dr Anil Goel, Hana Data Platform, SAP, USA</li><li class="list-group-item">Prof K.K.Biswas, Indraprastha Institute of Information Technology, New Delhi</li><li class="list-group-item">Prof Anjali Agarwal, Concordia University, Canada</li><li class="list-group-item">Prof Yenumula B. Reddy, Grambling State University, LA, USA</li><li class="list-group-item">Prof Saroj Kaushik, Indian Institute of Technology Delhi</li>​<li class="list-group-item">Prof M. N. Hoda, BVICAM, New Delhi</li><li class="list-group-item">Prof M. P. Pooniya, All India Council for Technical Education</li><li class="list-group-item">Prof P. C. Saxena, Jawaharlal Nehru University</li>
-
-                                </ul>                                                                    
+                                <h3 style="color:#EA4335;">Members</h3>`+
+`<ul class="list-group">`+
+`<li class="list-group-item">Prof S.S. Mantha, All India Council for Technical Education</li>`
++`<li class="list-group-item">Prof Sumit Dua, Louisiana Tech University, USA</li>`
++`<li class="list-group-item">Prof Anshul Kumar, Indian Institute of Technology-Delhi</li>`+
+`<li class="list-group-item">Dr Anil Goel, Hana Data Platform, SAP, USA</li>`
++`<li class="list-group-item">Prof K.K.Biswas, Indraprastha Institute of Information Technology, New Delhi</li>`
++`<li class="list-group-item">Prof Anjali Agarwal, Concordia University, Canada</li>`
++'<li class="list-group-item">Prof Yenumula B. Reddy, Grambling State University, LA, USA</li>'+`<li class="list-group-item">Prof Saroj Kaushik, Indian Institute of Technology Delhi</li>`+'<li class="list-group-item">Prof M. N. Hoda, BVICAM, New Delhi</li>'
++'<li class="list-group-item">Prof M. P. Pooniya, All India Council for Technical Education</li>'+'<li class="list-group-item">Prof P. C. Saxena, Jawaharlal Nehru University</li>'
++
+    `</ul>                                                                    
                                 </div>
                               </div>
                             </div>
@@ -1040,8 +1047,7 @@ We are also contacting other publishers for journal publications and will share 
                      
 
                 </div>
-            </div>
-`);
+            </div>`);
   });
 
   $('#sponsorButton').click(function () {
