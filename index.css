@@ -348,3 +348,9 @@ ul.list-group > li {
 #jumbotron{
     transition: margin-top 0.5s;
 }
+
+.carousel-caption{
+    left: 2%;
+    right:2%;
+    text-align: left;
+}

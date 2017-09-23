@@ -84,7 +84,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                 <div class="row">
                     <div class="col-sm-12 col-md-12" style="padding: 30px;">
                         <div id="carouselExampleIndicators" style="width: 100%;" class="carousel slide"
-                             data-ride="carousel" data-interval="2000">
+                             data-ride="carousel" data-interval="3000">
                             <ol class="carousel-indicators">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0"
                                     class="active"></li>
@@ -101,68 +101,90 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                 <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
-                                <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
 
                             </ol>
                             <div class="carousel-inner" role="listbox">
                                 <div class="carousel-item active">
                                     <img class="d-block img-fluid" src="./images/5.jpg" alt="First slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <!--<div class="d-none" style="background-color: #6c757d;opacity: 0.4;position: absolute;width: 100%;height:100%;margin-top: -20px;padding-bottom: 20px" ></div>-->
+                                         <h1>HUMAYUN'S TOMB</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="images/_MG_9209.jpg"
+                                    <img class="d-block img-fluid" src="./images/Red_Fort_in_Delhi_03-2016_img3.jpg"
                                          alt="Second slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>RED FORT</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="images/_MG_9377.jpg"
+                                    <img class="d-block img-fluid" src="./images/surajkundm_mela2.jpg"
                                          alt="Third slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>SURAJ KUND</h1>
+                                    </div>
                                 </div>
 
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/DSC06193.JPG"
                                          alt="Fourth slide">
+                                    <div class="carousel-caption d-block">
+                                        <h2>NETAJI SUBHAS INSTITUTE OF TECHNOLOGY</h2>
+                                    </div>
                                 </div>
 
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/DSC_0441.jpg"
                                          alt="Sixth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>NUKKAD NATAK, NSIT</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/DSC_6735.jpg"
                                          alt="Seventh slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/IMG_20150826_222421.jpg"
-                                         alt="Eighth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>QUTUB MINAR</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid"
                                          src="./images/india-gate-night-hd-pictures.jpg" alt="Ninth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>INDIA GATE</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/-77044_7004.jpg"
                                          alt="Tenth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>LOTUS TEMPLE</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/Jama_Masjid_-_In_the_Noon.jpg"
                                          alt="Eleventh slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>JAMA MASJID</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/diwan-i-khas-inside-view-red-fort-delhi.jpg"
                                          alt="Twelveth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>DIWAN-I-KHAS</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid"
                                          src="./images/v__processed_original.jpg"
                                          alt="Thirteen slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>JANTAR MANTAR</h1>
+                                    </div>
                                 </div>
-                                <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/Red_Fort_in_Delhi_03-2016_img3.jpg"
-                                         alt="Fourteenth slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/surajkundm_mela2.jpg"
-                                         alt="Fifteenth slide">
-                                </div>
+
                             </div>
                             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"
                                data-slide="prev">
