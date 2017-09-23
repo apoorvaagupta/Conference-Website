@@ -887,17 +887,7 @@ We are also contacting other publishers for journal publications and will share 
                                 <br>
                                 <h3 style="color:#EA4335;">Members</h3>
                                 <ul class="list-group">
-                                <li class="list-group-item">Prof S.S. Mantha, All India Council for Technical Education</li>
-                                ​<li class="list-group-item">Prof Sumit Dua, Louisiana Tech University, USA</li>
-                                <li class="list-group-item">Prof Anshul Kumar, Indian Institute of Technology-Delhi</li>
-                                ​<li class="list-group-item">Dr Anil Goel, Hana Data Platform, SAP, USA</li>
-                                <li class="list-group-item">Prof K.K.Biswas, Indraprastha Institute of Information Technology, New Delhi</li>
-                                <li class="list-group-item">Prof Anjali Agarwal, Concordia University, Canada</li>
-                                <li class="list-group-item">Prof Yenumula B. Reddy, Grambling State University, LA, USA</li>
-                                ​​<li class="list-group-item">Prof Saroj Kaushik, Indian Institute of Technology Delhi</li>
-                                ​<li class="list-group-item">Prof M. N. Hoda, BVICAM, New Delhi</li>
-                                <li class="list-group-item">Prof M. P. Pooniya, All India Council for Technical Education</li>
-                                ​<li class="list-group-item">Prof P. C. Saxena, Jawaharlal Nehru University</li>
+                                <li class="list-group-item">Prof S.S. Mantha, All India Council for Technical Education</li><li class="list-group-item">Prof Sumit Dua, Louisiana Tech University, USA</li><li class="list-group-item">Prof Anshul Kumar, Indian Institute of Technology-Delhi</li><li class="list-group-item">Dr Anil Goel, Hana Data Platform, SAP, USA</li><li class="list-group-item">Prof K.K.Biswas, Indraprastha Institute of Information Technology, New Delhi</li><li class="list-group-item">Prof Anjali Agarwal, Concordia University, Canada</li><li class="list-group-item">Prof Yenumula B. Reddy, Grambling State University, LA, USA</li><li class="list-group-item">Prof Saroj Kaushik, Indian Institute of Technology Delhi</li>​<li class="list-group-item">Prof M. N. Hoda, BVICAM, New Delhi</li><li class="list-group-item">Prof M. P. Pooniya, All India Council for Technical Education</li><li class="list-group-item">Prof P. C. Saxena, Jawaharlal Nehru University</li>
 
                                 </ul>                                                                    
                                 </div>
@@ -1066,7 +1056,7 @@ We are also contacting other publishers for journal publications and will share 
                     <div class="overview-description"
                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                         <span style="color: black; font-size: 14pt;"><br></span>
-                        <span style="color: black; font-size: 14pt;">
+                        <span style="color: black; font-size: 14pt;     font-family: 'Raleway', sans-serif">
                             Dear Technology Leader, <br/><br/>
 In the ongoing saga of the digital revolution, the new mantra - Extend and Adapt,  has produced ripples of excitement in the industry and academia! Indeed, there is a fresh lease of energy enthusing technology drivers as they take every possible step to equip more and more people with the technological means to take new initiatives and learn continuously, to reach out and connect, and to realize their full potential at all times. And thereby, stands the fresh challenge for today - build applications and systems that recognize this core element of change - in requirements, data, surrounding context and user preferences; and adapt to the change gracefully, seamlessly.<br/><br/>
 The International Conference Towards Extensible and Adaptable Methods in Computing -TEAMC-2018, aims to bring together professionals and students from all parts of the globe on a common platform to address different aspects of this very challenge of creating extensible and adaptable systems and applications:<br/><br/>
@@ -1075,22 +1065,22 @@ The International Conference Towards Extensible and Adaptable Methods in Computi
                     </div>
 
                     <ul class="sponsorshipList">
-                        <li>There is an ever-exploding nebula of data in the cyberspace that must crystallize into
+                        <li style="    font-family: 'Raleway', sans-serif">There is an ever-exploding nebula of data in the cyberspace that must crystallize into
                             meaningful compendiums of knowledge backing myriad applications.
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Software development processes must be flexible enough to adapt quickly to the changing
                             expectations and scales of businesses.
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Applications such as e-learning must offer personalized features and adapt to the changing
                             preferences and capabilities of users.
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             The web, rife with textual and multimedia content, must be harnessed to gather cogent
                             information.
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Indeed, the world of computing must evolve and learn to sync with human intelligence.
                         </li>
                     </ul>
@@ -1098,29 +1088,29 @@ The International Conference Towards Extensible and Adaptable Methods in Computi
                     <div class="overview-description"
                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                         <span style="color: black; font-size: 14pt;"><br></span>
-                        <span style="color: black; font-size: 14pt;">
+                        <span style="color: black; font-size: 14pt;font-family: 'Raleway', sans-serif">
                             TEAMC-2018 will be hosted by Netaji Subhas Institute of Technology, a premier seat of higher learning in technology that attracts the best students to pursue its UG, PG and Doctoral programs. It is spread over a beautifully landscaped campus of 145 acres that houses all facilities to create an excellent academic environment. The committee of professionals dedicated towards the conference is striving to achieve a high quality technical program with Tracks on <b>Data management, Agile software development, Web intelligence, Computing in education, and Machine learning.</b> It will feature the following components:
                         <br/><br/>
                         </span>
                     </div>
 
                     <ul class="sponsorshipList">
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Regular Technical Sessions
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Keynote speeches
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Workshops
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Panel discussions
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Design contest
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Exhibits
                         </li>
                     </ul>
@@ -1128,7 +1118,7 @@ The International Conference Towards Extensible and Adaptable Methods in Computi
                     <div class="overview-description"
                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                         <span style="color: black; font-size: 14pt;"><br></span>
-                        <span style="color: black; font-size: 14pt;">
+                        <span style="color: black; font-size: 14pt; font-family: 'Raleway', sans-serif">
                             As a spearheading force in the industry driving forward this revolution, TEAMC-2018 provides just the right platform and visibility to showcase your company, its vision and its technological offerings to a wide spectrum of professionals. Your participation will give an opportunity to nurture the talent pool and spur a collaborative atmosphere necessary for progress.<br/><br/>
 Kindly see the various sponsorship packages and offers and give us an opportunity to collaborate on this initiative and work together for its success right from the outset.<br/><br/>
 Yours sincerely<br/><br/>
