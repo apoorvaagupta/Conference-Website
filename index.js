@@ -1007,39 +1007,40 @@ We are also contacting other publishers for journal publications and will share 
                
                                    <h3 style=" color:#EA4335; padding-top:25px;">General Chair </h3>
                                    Shampa Chakraverty, NSIT
-                                   <br><br>
+                                   <br>
                                    <h3 style=" color:#EA4335; padding-top:25px;">Organizing Co-Chairs </h3>
                                    M. P. S. Bhatia, NSIT<br>
-                                    Ritu Sibal, NSIT<br><br>
+                                    Ritu Sibal, NSIT<br>
                                      <h3 style=" color:#EA4335; padding-top:25px;">TPC Co-Chairs</h3>
                                      Anil Kumar Goel, SAP, USA<br>
-                                    Sangeeta Sabharwal, NSIT<br><br> 
+                                    Sangeeta Sabharwal, NSIT<br> 
                                    <h3 style=" color:#EA4335; padding-top:25px;">Publication Chair</h3>
-                                   Anand Gupta<br><br> 
+                                   Anand Gupta<br>
                                    <h3 style=" color:#EA4335; padding-top:25px;">Design Contest Co-Chair</h3>
                                   Manusheel Gupta<br>
-                                   Manusheel Gupta<br><br>
                                    <h3 style=" color:#EA4335; padding-top:25px;">Workshop Chair</h3>
-                                      Prof Bijender Kumar<br><br>
+                                      Bijender Kumar<br>
                                    <h3 style=" color:#EA4335; padding-top:25px;">Industry Liaison Co-Chairs</h3>
-                                   Industry Liaison Co-Chairs<br>
-                                   Rajeev Kumar<br><br>
+                                   Satbir Jain<br>
+                                   Rajeev Kumar<br>
                                    <h3 style=" color:#EA4335; padding-top:25px;">Sponsorship Chair</h3>
-                                   M.P.S. Bhatia<br><br>   
+                                   M.P.S. Bhatia<br>  
                                    <h3 style=" color:#EA4335; padding-top:25px;">Publicity Co-chairs</h3>
                                     Savita Yadav<br>
                                    Poonam Rana
-                                   <br><br> 
+                                   <br>
                                    <h3 style=" color:#EA4335; padding-top:25px;">Finance Chair</h3>
-                                  V.P. Ranjan<br><br> 
+                                  V.P. Ranjan<br> 
                                    <h3 style=" color:#EA4335; padding-top:25px;">Website Chair</h3>
-                                   Khushil Saini<br><br> 
+                                   Khushil Saini<br>
+                                   Abhishek Faujdar<br> 
                                    <h3 style=" color:#EA4335; padding-top:25px;">Hospitality Co-Chairs</h3>
                                    Preeti Kaur<br>
-                                   Aastha Singh
-                                   <br><br> 
+                                   Veenu
+                                   <br> 
                                    <h3 style=" color:#EA4335; padding-top:25px;">Internal Arrangements Chair</h3>
-                                   Anil Arora<br><br>    
+                                   Anil Arora<br>
+                                   Aastha<br>    
                                                           
                                 </div>
                             </div>
