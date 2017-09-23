@@ -231,6 +231,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Prof Pradeep Atrey,<br>
+                                                State University of New York<br>
+                                                 Albany, NY, USA
+                                            </div>
                                         </div>
                                         <br>
                                         <p style="color: #444">Topics</p>
@@ -291,6 +296,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Prof Pradeep Atrey,<br>
+                                                State University of New York<br>
+                                                 Albany, NY, USA
+                                            </div>
                                         </div>
                                         <br>
                                         <p style="color: #444">Topics</p>
@@ -339,6 +349,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 Dr Sushma Nagpal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
+                                            </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Prof Pradeep Atrey,<br>
+                                                State University of New York<br>
+                                                 Albany, NY, USA
                                             </div>
                                         </div>
                                         <br>
@@ -395,6 +410,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Prof Pradeep Atrey,<br>
+                                                State University of New York<br>
+                                                 Albany, NY, USA
+                                            </div>
                                         </div>
                                         <br>
                                         <p style="color: #444">Topics</p>
@@ -440,6 +460,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 Dr Swati Aggarwal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
+                                            </div>
+                                            <div class="col" style="color: red; font-size: 18px">
+                                                Prof Pradeep Atrey,<br>
+                                                State University of New York<br>
+                                                 Albany, NY, USA
                                             </div>
                                         </div>
                                         <br>
@@ -838,18 +863,18 @@ The registration will not refundable once the VISA process starts.
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                 <br>
-                                <ul>
-                                <li>Prof. Anshul Kumar, Indian Institute of Technology-Delhi</li>
-                                <li>Prof Saroj Kaushik,  Indian Institute of Technology Delhi</li>
-                                <li>Prof K.K.Biswas, Indraprastha Institute of Information Technology,  New Delhi</li>
-                                <li>Prof S.S. Mantha, All India Council for Technical Education</li>
-                                <li> Prof Anjali Agarwal, Concordia University, Canada</li>
-                                <li>Prof. Yenumula B. Reddy, Grambling State University, LA, USA</li>
-                                <li>Prof Sumit Dua, Louisiana Tech University, USA</li>
-                                <li>Prof. M. N. Hoda, BVICAM, New Delhi</li>
-                                 <li> Prof. M. P. Pooniya, All India Council for Technical Education</li>
-                                  <li>  Dr. Anil Goel, Hana Data Platform, SAP, USA</li>
-                                   <li> Prof. P. C. Saxena, Jawaharlal Nehru University</li>
+                                <ul class="list-group">
+                                <li class="list-group-item">Prof S.S. Mantha, All India Council for Technical Education</li>
+                                ​<li class="list-group-item">Prof Sumit Dua, Louisiana Tech University, USA</li>
+                                <li class="list-group-item">Prof Anshul Kumar, Indian Institute of Technology-Delhi</li>
+                                ​<li class="list-group-item">Dr Anil Goel, Hana Data Platform, SAP, USA</li>
+                                <li class="list-group-item">Prof K.K.Biswas, Indraprastha Institute of Information Technology, New Delhi</li>
+                                <li class="list-group-item">Prof Anjali Agarwal, Concordia University, Canada</li>
+                                <li class="list-group-item">Prof Yenumula B. Reddy, Grambling State University, LA, USA</li>
+                                ​​<li class="list-group-item">Prof Saroj Kaushik, Indian Institute of Technology Delhi</li>
+                                ​<li class="list-group-item">Prof M. N. Hoda, BVICAM, New Delhi</li>
+                                <li class="list-group-item">Prof M. P. Pooniya, All India Council for Technical Education</li>
+                                ​<li class="list-group-item">Prof P. C. Saxena, Jawaharlal Nehru University</li>
                                 </ul>                                                                    
                                 </div>
                             </div>
@@ -863,91 +888,85 @@ The registration will not refundable once the VISA process starts.
                                 <div class="col-sm-12">
                                   <br>
                                   
-                                  <ul>
-                                 <li> Prof Pradeep Atrey,State University of New York, Albany, NY, USA</li>
-                                  <li>   Prof Sumeet Dua, Louisiana Tech University, USA</li>
-                                  <li>Prof. Yenumula B. Reddy, Grambling State University, LA, USA</li>
-                                  <li>Dr. Anil Goel, Hana Data Platform, SAP, USA</li>
-                                  <li>Prof. P. C. Saxena, Jawaharlal Nehru University, New Delhi</li>
-                                  <li>Prof Sanjay Misra, Covenant University, OTA, Nigeria</li>
-                                  <li>Dr. Rashina Hoda, University of Auckland, New Zealand</li>
-                                  <li>Dr Atul Jain, Texas Instruments, Dallas, USA</li>
-                                  <li>Dr Rajiv Jain, Wells Fargo, USA</li>
-                                  <li>Dr Himanshu Bhatnagar, HB Software Solutions, USA</li>
-                                  <li>Dr Anil Goel, Hana Data Platform, SAP, USA</li>
-                                  <li>Ms Rashmi Dravid, University of Northampton, UK</li>
-                                  <li>Dr. Lalit Garg, University of Malta, Malta</li>
-                                  <li>Prof Sonajharia Minz, JNU</li>
-                                  <li>Prof Sangeeta Sabharwal, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Prof K.K.Biswas, Indraprastha Institute of Information Technology,  New Delhi</li>
-                                  <li>Prof Poonam Bedi, Delhi University</li>
-                                  <li>Prof Anjana Gosain, Guru Govind Indrapratstha Univ</li>
-                                  <li>Dr Anil Kumar, Samsung</li>
-                                  <li>Prof. M.P.S. Bhatia, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Mr Vaibhav Mittal, Facebook USA</li>
-                                  <li>Prof. Manoj Gaur, Indian Institute of Technology-Jammu</li>
-                                  <li>Prof Shampa Chakraverty, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Prof Daya Gupta, Delhi Technical University</li>
-                                  <li>Prof. B.K. Singh, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Mr Animesh Mishra, Principal Engineer, Intel Corp., USA</li>
-                                  <li>Prof Satbir Jain, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Dr Anubhav Mathur, Million Sparks Foundation,</li>
-                                  <li>Dr Naveen Kumar, Delhi University</li>
-                                  <li>Dr Syed Akhtar Hossain, Daffodil University, Bangladesh</li>
-                                  <li>Prof. Jitender Kumar Chhabra, NIT Kurukshetra</li>
-                                  <li>Dr Sushil Kumar Azad, Delhi University</li>
-                                  <li>Dr Mona Mathur, Million Sparks Foundation</li>
-                                  <li>Mr Chetan Oberoi, CEO MphRx</li>
-                                  <li>Dr. Ritu Sibal, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Dr. Anand Gupta, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Dr Krishnan Seetharaman, University of Massachusetts Lowell, USA</li>
-                                  <li>Dr Dilip Kumar Yadav, NIT Jamshedpur</li>
-                                  <li>Dr. Sushma Nagpal, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Prof Tarun Kumar Singhal, Symbiosis</li>
-                                  <li>Dr. Swati Agarwal, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Dr Suresh P.V., IGNOU</li>
-                                  <li>Dr. Pinaki Chakrabarti, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Prof Amit Prakash, Guru Govind Indrapratstha Univ, India</li>
-                                  <li>Dr. Vasudha Bhatnagar, Delhi University</li>
-                                  <li>Dr. Naveen Kumar,Delhi University</li>
-                                  <li>Ms Monadhika, Pinterest, USA</li>
-                                  <li>Prof Lalit Sensharma, Jammu University</li>
-                                  <li>Prof Goldie Gabrani, BML, Munjal University</li>
-                                  <li>Prof. S.K. Dhurandhar, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Dr Vikash Mashelkar, Netaji Subhas Inst of Technology, New Delhi</li>
-                                  <li>Dr Latesh Mallick, Raisoni College of Engineering, Nagpur</li>
-                                  <li>Prof. Rajeev Srivastava, Indian Institute of Technology Banaras Hindu University, Varanasi</li>
-                                  <li>Prof. O.P. Verma, Delhi Technological University</li>
-                                  <li>Ms Rakshita, Microsoft, USA</li>
-                                  <li>Dr. D.K. Tayal, Indira Gandhi Delhi Technical Univ. for Women, New Delhi</li>
-                                  <li>Prof Manu Sood, Himachal Pradesh University , Shimla</li>
-                                  <li>Prof. Arvinder Kaur, USICT</li>
-                                  <li>Dr. Anju Saha, USICT, Guru Govind Singh Indraprastha University, New Delhi</li>
-                                  <li>Dr Akshi Kumar, Delhi Technological University</li>
-                                  <li>Dr Bharti Suri, USICT, Guru Govind Singh Indraprastha University, New Delhi</li>
-                                  <li>Dr Vishal Jain, Bhartiya Vidyapeeth Inst of Computer Applications and Management</li>
-                                  <li>Prof Amita Dev, Bhai Parmanand Inst of Business Studies, Guru Govind Singh Indraprasth University, New Delhi</li>
-                                  <li>Dr. Rajni Jindal, Delhi Technological University</li>
-                                  <li>Dr. Sandeep Kumar Garg, Indian Institute of Technology Roorkee</li>
-                                  <li>Dr. Ritu Garg, NIT kurukshetra</li>
-                                  <li>Dr. Ankita Bansal, Netaji Subhas Inst of Technology</li>
-                                  <li>Dr. Seema Bawa, Thapar Univ, Patiala</li>
-                                  <li>Dr. Naresh Chauhan, YMCA Univ. of Science and Technology, Faridabad</li>
-                                  <li>Dr Deepali Virmani, Guru Govind Singh Indraprasth University, New Delhi</li>
-                                  <li>Prof Payal Pahwa, Guru Govind Singh Indraprasth University, New Delhi</li>
-                                  <li>Mr Manusheel Gupta, CEO Aspiring Investments, India</li>
-                                  <li>Dr. Namita Mittal, Malviya National Inst. of Technology, Jaipur</li>
-                                  <li>Dr Nand Kumar, Manav Rachna University</li>
-                                  <li>Prof Poonam Bansal, Maharaja Surajmal Institute of Technology</li>
-                                  <li>Dr H.M.N. Dilum Bandara,University of Moratuwa</li>
-                                  <li>Dr. Rajesh Purohit, J.N.V. Univ., Jodhpur</li>
-                                  <li>Dr Amritanjali</li>
-                                  <li>Dr. Priyank Thakkar, Nirma University</li>
-                                  <li>Dr Rama Krishnan</li>
-                                  <li>Dr Maitreyee Dutta,</li>
-                                  <li>Dr Shruti Garg</li>
-                                  <li>Dr. Sangeeta Srivastava, Bhaskaracharya College of Applied Sciences</li>
-                                  <li>Dr. Savita Gupta, UIET, Punjab Univ.</li>
+                                  <ul class="list-group">
+                                <li class="list-group-item">Prof Pradeep Atrey, State University of New York, Albany, NY, USA</li>
+                                <li class="list-group-item">Dr Bindu Chandna, MITRE, Greater Boston Area, USA</li>
+                                <li class="list-group-item">Prof Sanjay Misra, Covenant University, OTA, Nigeria</li>
+                                <li class="list-group-item">Dr Rashina Hoda, University of Auckland, New Zealand</li>
+                                <li class="list-group-item">Prof Sonajharia Minz, Jawahar Lal University, India</li>
+                                <li class="list-group-item">Dr Atul Jain, Texas Instruments, Dallas, USA</li>
+                                <li class="list-group-item">Dr H.M.N. Dilum Bandara,University of Moratuwa, Sri lanka</li>
+                                <li class="list-group-item">Dr Rajiv Jain, Wells Fargo, USA</li>
+                                <li class="list-group-item">Ms Rashmi Dravid, University of Northampton, UK</li>
+                                <li class="list-group-item">Mr Animesh Mishra, Intel Corp., San Francisco Bay Area, USA</li>
+                                <li class="list-group-item">Dr Krishnan Seetharaman, University of Massachusetts Lowell, USA</li>
+                                <li class="list-group-item">Dr Lalit Garg, University of Malta, Malta</li>
+                                <li class="list-group-item">Dr Himanshu Bhatnagar, HB Software Solutions, USA</li>
+                                <li class="list-group-item">Prof K.K.Biswas, Indraprastha Institute of Information Technology,  New Delhi, India</li>
+                                <li class="list-group-item">Mr Vaibhav Mittal, Facebook USA</li>
+                                <li class="list-group-item">Ms Rakshita, Microsoft, USA</li>
+                                <li class="list-group-item">Prof Poonam Bedi, Delhi University, India</li>
+                                <li class="list-group-item">Ms Monadhika, Pinterest, USA</li>
+                                <li class="list-group-item">Prof Anjana Gosain, Guru Govind Indrapratstha Univ, India</li>
+                                <li class="list-group-item">Dr Anil Kumar, Samsung, India</li>
+                                <li class="list-group-item">Prof M.P.S. Bhatia, Netaji Subhas Institute of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Prof Manoj Gaur, Indian Institute of Technology-Jammu, India</li>
+                                <li class="list-group-item">Prof Sangeeta Sabharwal, Netaji Subhas Inst of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Prof Daya Gupta, Delhi Technical University, India</li>
+                                <li class="list-group-item">Prof B.K. Singh, Netaji Subhas Institute of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Prof Satbir Jain, Netaji Subhas Institute of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Dr Anubhav Mathur, Million Sparks Foundation, India</li>
+                                <li class="list-group-item">Dr Naveen Kumar, Delhi University, India</li>
+                                <li class="list-group-item">Dr Syed Akhtar Hossain, Daffodil University, Bangladesh, India</li>
+                                <li class="list-group-item">Prof Jitender Kumar Chhabra, NIT Kurukshetra, India</li>
+                                <li class="list-group-item">Dr Sushil Kumar Azad, Delhi University, India</li>
+                                <li class="list-group-item">Dr Mona Mathur, Million Sparks Foundation, India</li>
+                                <li class="list-group-item">Mr Chetan Oberoi, CEO MphRx, India</li>
+                                <li class="list-group-item">Dr Ritu Sibal, Netaji Subhas Inst of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Dr Anand Gupta, Netaji Subhas Inst of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Dr Dilip Kumar Yadav, NIT Jamshedpur, India</li>
+                                <li class="list-group-item">Dr Sushma Nagpal, Netaji Subhas Institute of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Prof Tarun Kumar Singhal, Symbiosis, India</li>
+                                <li class="list-group-item">Dr Swati Agarwal, Netaji Subhas Institute of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Dr Suresh P.V., Indira Ganghi National Open University , India</li>
+                                <li class="list-group-item">Dr Pinaki Chakrabarti, Netaji Subhas Institute of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Prof Amit Prakash, Guru Govind Indrapratstha Univ, India</li>
+                                <li class="list-group-item">Dr Vasudha Bhatnagar, Delhi University, India</li>
+                                <li class="list-group-item">Prof Lalit Sensharma, Jammu University, India</li>
+                                <li class="list-group-item">Prof Goldie Gabrani, BML, Munjal University, India</li>
+                                <li class="list-group-item">Prof S.K. Dhurandhar, Netaji Subhas Inst of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Dr Vikash Mashelkar, Netaji Subhas Inst of Technology, New Delhi, India</li>
+                                <li class="list-group-item">Dr Latesh Mallick, Raisoni College of Engineering, Nagpur, India</li>
+                                <li class="list-group-item">Prof Rajeev Srivastava, IIT, Banaras Hindu University, India</li>
+                                <li class="list-group-item">Prof O.P. Verma, Delhi Technological University, India</li>
+                                <li class="list-group-item">Dr D.K. Tayal, Indira Gandhi Delhi Technical Univ. for Women, New Delhi, India</li>
+                                <li class="list-group-item">Prof Manu Sood, Himachal Pradesh University , Shimla, India</li>
+                                <li class="list-group-item">Prof Arvinder Kaur, USICT, Guru Govind Singh Indraprastha University, India</li>
+                                <li class="list-group-item">Dr Anju Saha, USICT, Guru Govind Singh Indraprastha University, India</li>
+                                <li class="list-group-item">Dr Akshi Kumar, Delhi Technological University, India</li>
+                                <li class="list-group-item">Dr Bharti Suri, USICT, Guru Govind Singh Indraprastha University, India</li>
+                                <li class="list-group-item">Dr Vishal Jain, Bhartiya Vidyapeeth Inst of Computer Applications and Management, India</li>
+                                <li class="list-group-item">Prof Amita Dev, BPIBS, Guru Govind Singh Indraprasth University, India</li>
+                                <li class="list-group-item">Dr Rajni Jindal, Delhi Technological University, India</li>
+                                <li class="list-group-item">Dr Sandeep Kumar Garg, Indian Institute of Technology Roorkee, India</li>
+                                <li class="list-group-item">Dr Ritu Garg, NIT Kurukshetra, India</li>
+                                <li class="list-group-item">Dr Ankita Bansal, Netaji Subhas Inst of Technology, India</li>
+                                <li class="list-group-item">Dr Seema Bawa, Thapar Univ, Patiala, India</li>
+                                <li class="list-group-item">Dr Naresh Chauhan, YMCA Univ. of Science and Technology, Faridabad, India</li>
+                                <li class="list-group-item">Dr Deepali Virmani, Guru Govind Singh Indraprasth University, India</li>
+                                <li class="list-group-item">Prof Payal Pahwa, Guru Govind Singh Indraprasth University, India</li>
+                                <li class="list-group-item">Mr Manusheel Gupta, CEO Aspiring Investments, India</li>
+                                <li class="list-group-item">Dr Namita Mittal, Malviya National Inst. of Technology, Jaipur, India</li>
+                                <li class="list-group-item">Dr Nand Kumar, Manav Rachna University, India</li>
+                                <li class="list-group-item">Prof Poonam Bansal, Maharaja Surajmal Institute of Technology, India</li>
+                                <li class="list-group-item">Dr Rajesh Purohit, JNV University, Jodhpur, India</li>
+                                <li class="list-group-item">Dr Amritanjali, BIT MESRA, Ranchi, India</li>
+                                <li class="list-group-item">Dr Priyank Thakkar, Nirma University, India</li>
+                                <li class="list-group-item">Dr Rama Krishnan, K.L. University, Guntur, India</li>
+                                <li class="list-group-item">Dr Maitreyee Dutta, NITTR Chandigarh, India</li>
+                                <li class="list-group-item">Dr Shruti Garg, BIT MESRA, Ranchi, India</li>
+                                <li class="list-group-item">Dr Sangeeta Srivastava, Bhaskaracharya College of Applied Sciences, India</li>
+                                <li class="list-group-item">Dr Savita Gupta, UIET, Punjab University, India</li>
                                   </ul>
                                   
                                   
