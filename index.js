@@ -177,12 +177,14 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                     </div>
                 </div>
-            </div>`);
+            </div>
+            `);
   });
 
   $('#copButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white;width: 100%; ">
+    mainWrapper.append(`            
+    <div style="background-color: white;width: 100%; ">
 
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
@@ -522,11 +524,14 @@ Extensible and adaptable computing refers to the array of methods and techniques
                             <div class="row justify-content-center">
                                 <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
-                                        <span style="color: black; font-size: 14pt;"><br></span>
-                                        <span style="color: black; font-size: 14pt;">
-                                            We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format. Short papers of at most 8 pages will also be considered. Submissions should strictly adhere to the <a
-                                                href="http://www.springer.com/series/7899"> Springer Communications in Computer and Information Science (CCIS)</a> format. Submissions will be accepted through <a
+                                         style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
+                                        <br>
+                                        <span style="color: black; font-size: 14pt;"> - We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format.</span>
+                                        <br>
+                                         <span style="color: black; font-size: 14pt;"> - Short papers of at most 8 pages will also be considered.</span>
+                                         <br>
+                                          <span style="color: black; font-size: 14pt;"> - Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
+                                                 <span style="color: black; font-size: 14pt;"> - Submissions will be accepted through <a
                                                 href="https://ocs.springer.com/ocs/"> Springer Online Conference Service (OCS).</a>
                             </span>
                                     </div>
@@ -537,12 +542,14 @@ Extensible and adaptable computing refers to the array of methods and techniques
                             <div class="row justify-content-center">
                                 <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                         style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals. All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality. Qualifying papers will undergo a double blind review process by at least three reviewers. Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution. Accepted papers must be presented at the conference.
-
-                            </span>
+                                            <span style="color: black; font-size: 14pt;"> - Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals.</span><br/>
+                                             <span style="color: black; font-size: 14pt;"> - All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality.</span><br/>
+                                              <span style="color: black; font-size: 14pt;"> - Qualifying papers will undergo a double blind review process by at least three reviewers.</span><br/>
+                                               <span style="color: black; font-size: 14pt;"> - Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution.</span><br/>
+                                                <span style="color: black; font-size: 14pt;"> - Accepted papers must be presented at the conference.</span>
                                     </div>
                                 </div>
                             </div>
@@ -555,7 +562,9 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
                                             At least one of the authors of each accepted paper must register by paying the full registration fee as applicable for the author, on or before the deadline for camera ready submission.
-                            </span>
+                            </span><br><br>
+                            <span style="color: black; font-size: 14pt;">
+                                            Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
                                     </div>
                                 </div>
                             </div>
@@ -597,7 +606,8 @@ We are also contacting other publishers for journal publications and will share 
 
   $('#regButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white; ">
+    mainWrapper.append(`            
+    <div style="background-color: white; ">
 
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -632,14 +642,16 @@ We are also contacting other publishers for journal publications and will share 
                             <div class="row justify-content-center">
                                 <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                         style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
                                             Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
 <br/><br/>
-Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable. If an author has got more than one accepted papers, each paper has to be registered separately. Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.
-
-The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
+<span style="color: black; font-size: 14pt;"> - Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> 
+<span style="color: black; font-size: 14pt;"> - If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> 
+<span style="color: black; font-size: 14pt;"> - Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.</span>
+<br>
+<span style="color: black; font-size: 14pt;"> - The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
 
                             </span>
                                     </div>
@@ -652,10 +664,11 @@ The conference registration covers conference proceedings, conference kit, admis
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
-                                        <span style="color: black; font-size: 14pt;">
-                                            Only registered authors who have paid the full registration fees will be provided VISA  letters upon request. After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.
+                                        <span style="color: black; font-size: 14pt;"> - Only registered authors who have paid the full registration fees will be provided VISA  letters upon request.</span>
+                                         <br>
+                                         <span style="color: black; font-size: 14pt;"> - After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.</span>
 <br/><br/>
-The registration will not refundable once the VISA process starts.
+<span style="color: black; font-size: 14pt;"> The registration will not refundable once the VISA process starts.
 
                             </span>
                                     </div>
