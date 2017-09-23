@@ -354,3 +354,8 @@ ul.list-group > li {
     right:2%;
     text-align: left;
 }
+
+.carousel-caption > h1{
+    font-size: 60px;
+    font-family: 'PT Sans', sans-serif;
+}

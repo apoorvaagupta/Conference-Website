@@ -130,7 +130,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <img class="d-block img-fluid" src="./images/DSC06193.JPG"
                                          alt="Fourth slide">
                                     <div class="carousel-caption d-block">
-                                        <h2>NETAJI SUBHAS INSTITUTE OF TECHNOLOGY</h2>
+                                        <h1>NSIT</h1>
                                     </div>
                                 </div>
 
