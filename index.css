@@ -348,3 +348,14 @@ ul.list-group > li {
 #jumbotron{
     transition: margin-top 0.5s;
 }
+
+.carousel-caption{
+    left: 2%;
+    right:2%;
+    text-align: left;
+}
+
+.carousel-caption > h1{
+    font-size: 60px;
+    font-family: 'PT Sans', sans-serif;
+}

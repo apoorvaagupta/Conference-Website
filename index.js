@@ -84,7 +84,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                 <div class="row">
                     <div class="col-sm-12 col-md-12" style="padding: 30px;">
                         <div id="carouselExampleIndicators" style="width: 100%;" class="carousel slide"
-                             data-ride="carousel" data-interval="2000">
+                             data-ride="carousel" data-interval="3000">
                             <ol class="carousel-indicators">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0"
                                     class="active"></li>
@@ -101,68 +101,90 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                 <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
-                                <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
 
                             </ol>
                             <div class="carousel-inner" role="listbox">
                                 <div class="carousel-item active">
                                     <img class="d-block img-fluid" src="./images/5.jpg" alt="First slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <!--<div class="d-none" style="background-color: #6c757d;opacity: 0.4;position: absolute;width: 100%;height:100%;margin-top: -20px;padding-bottom: 20px" ></div>-->
+                                         <h1>HUMAYUN'S TOMB</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="images/_MG_9209.jpg"
+                                    <img class="d-block img-fluid" src="./images/Red_Fort_in_Delhi_03-2016_img3.jpg"
                                          alt="Second slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>RED FORT</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="images/_MG_9377.jpg"
+                                    <img class="d-block img-fluid" src="./images/surajkundm_mela2.jpg"
                                          alt="Third slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>SURAJ KUND</h1>
+                                    </div>
                                 </div>
 
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/DSC06193.JPG"
                                          alt="Fourth slide">
+                                    <div class="carousel-caption d-block">
+                                        <h1>NSIT</h1>
+                                    </div>
                                 </div>
 
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/DSC_0441.jpg"
                                          alt="Sixth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>NUKKAD NATAK, NSIT</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/DSC_6735.jpg"
                                          alt="Seventh slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/IMG_20150826_222421.jpg"
-                                         alt="Eighth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>QUTUB MINAR</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid"
                                          src="./images/india-gate-night-hd-pictures.jpg" alt="Ninth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>INDIA GATE</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/-77044_7004.jpg"
                                          alt="Tenth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>LOTUS TEMPLE</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/Jama_Masjid_-_In_the_Noon.jpg"
                                          alt="Eleventh slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>JAMA MASJID</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/diwan-i-khas-inside-view-red-fort-delhi.jpg"
                                          alt="Twelveth slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>DIWAN-I-KHAS</h1>
+                                    </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid"
                                          src="./images/v__processed_original.jpg"
                                          alt="Thirteen slide">
+                                    <div class="carousel-caption d-md-block">
+                                        <h1>JANTAR MANTAR</h1>
+                                    </div>
                                 </div>
-                                <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/Red_Fort_in_Delhi_03-2016_img3.jpg"
-                                         alt="Fourteenth slide">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/surajkundm_mela2.jpg"
-                                         alt="Fifteenth slide">
-                                </div>
+
                             </div>
                             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"
                                data-slide="prev">
@@ -177,12 +199,14 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                     </div>
                 </div>
-            </div>`);
+            </div>
+            `);
   });
 
   $('#copButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white;width: 100%; ">
+    mainWrapper.append(`            
+    <div style="background-color: white;width: 100%; ">
 
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
@@ -222,12 +246,12 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <p style="color: #444">Track Co-chairs</p>
                                         <div class="row">
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Rashina Hoda<br>
+                                                Dr. Rashina Hoda<br>
                                                 University of Auckland<br>
                                                 New Zealand<br>
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Ritu Sibal,<br>
+                                                Dr. Ritu Sibal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
@@ -292,7 +316,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 United States of America<br>
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Anand Gupta, <br>
+                                                Dr. Anand Gupta, <br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
@@ -346,7 +370,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 Nigeria<br>
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Sushma Nagpal,<br>
+                                                Dr. Sushma Nagpal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
@@ -406,7 +430,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 United Kingdom<br>
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Pinaki Chakraborty,<br>
+                                                Dr. Pinaki Chakraborty,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
@@ -452,12 +476,12 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <p style="color: #444">Track Co-chairs</p>
                                         <div class="row">
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Raman Arora<br>
+                                                Dr. Raman Arora<br>
                                                 John Hopkins University<br>
                                                 United States of America<br>
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Dr Swati Aggarwal,<br>
+                                                Dr. Swati Aggarwal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
@@ -547,11 +571,14 @@ Extensible and adaptable computing refers to the array of methods and techniques
                             <div class="row justify-content-center">
                                 <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
-                                        <span style="color: black; font-size: 14pt;"><br></span>
-                                        <span style="color: black; font-size: 14pt;">
-                                            We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format. Short papers of at most 8 pages will also be considered. Submissions should strictly adhere to the <a
-                                                href="http://www.springer.com/series/7899"> Springer Communications in Computer and Information Science (CCIS)</a> format. Submissions will be accepted through <a
+                                         style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
+                                        <br>
+                                        <span style="color: black; font-size: 14pt;"> - We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format.</span>
+                                        <br>
+                                         <span style="color: black; font-size: 14pt;"> - Short papers of at most 8 pages will also be considered.</span>
+                                         <br>
+                                          <span style="color: black; font-size: 14pt;"> - Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
+                                                 <span style="color: black; font-size: 14pt;"> - Submissions will be accepted through <a
                                                 href="https://ocs.springer.com/ocs/"> Springer Online Conference Service (OCS).</a>
                             </span>
                                     </div>
@@ -562,12 +589,14 @@ Extensible and adaptable computing refers to the array of methods and techniques
                             <div class="row justify-content-center">
                                 <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                         style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals. All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality. Qualifying papers will undergo a double blind review process by at least three reviewers. Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution. Accepted papers must be presented at the conference.
-
-                            </span>
+                                            <span style="color: black; font-size: 14pt;"> - Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals.</span><br/>
+                                             <span style="color: black; font-size: 14pt;"> - All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality.</span><br/>
+                                              <span style="color: black; font-size: 14pt;"> - Qualifying papers will undergo a double blind review process by at least three reviewers.</span><br/>
+                                               <span style="color: black; font-size: 14pt;"> - Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution.</span><br/>
+                                                <span style="color: black; font-size: 14pt;"> - Accepted papers must be presented at the conference.</span>
                                     </div>
                                 </div>
                             </div>
@@ -580,7 +609,9 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
                                             At least one of the authors of each accepted paper must register by paying the full registration fee as applicable for the author, on or before the deadline for camera ready submission.
-                            </span>
+                            </span><br><br>
+                            <span style="color: black; font-size: 14pt;">
+                                            Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
                                     </div>
                                 </div>
                             </div>
@@ -622,7 +653,8 @@ We are also contacting other publishers for journal publications and will share 
 
   $('#regButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`            <div style="background-color: white; ">
+    mainWrapper.append(`            
+    <div style="background-color: white; ">
 
                 <div style="padding: 30px; font-size: 14pt; color: black">
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
@@ -657,14 +689,16 @@ We are also contacting other publishers for journal publications and will share 
                             <div class="row justify-content-center">
                                 <div class="col-sm-12 col-md-10">
                                     <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                         style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
                                             Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
 <br/><br/>
-Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable. If an author has got more than one accepted papers, each paper has to be registered separately. Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.
-
-The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
+<span style="color: black; font-size: 14pt;"> - Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> 
+<span style="color: black; font-size: 14pt;"> - If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> 
+<span style="color: black; font-size: 14pt;"> - Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.</span>
+<br>
+<span style="color: black; font-size: 14pt;"> - The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
 
                             </span>
                                     </div>
@@ -677,10 +711,11 @@ The conference registration covers conference proceedings, conference kit, admis
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
-                                        <span style="color: black; font-size: 14pt;">
-                                            Only registered authors who have paid the full registration fees will be provided VISA  letters upon request. After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.
+                                        <span style="color: black; font-size: 14pt;"> - Only registered authors who have paid the full registration fees will be provided VISA  letters upon request.</span>
+                                         <br>
+                                         <span style="color: black; font-size: 14pt;"> - After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.</span>
 <br/><br/>
-The registration will not refundable once the VISA process starts.
+<span style="color: black; font-size: 14pt;"> The registration will not refundable once the VISA process starts.
 
                             </span>
                                     </div>
@@ -827,42 +862,30 @@ The registration will not refundable once the VISA process starts.
                             Committees</h1>
                   <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
-                            <li class="nav-item">
-                                <a class="nav-link nav-style a-style active" data-toggle="tab"
-                                   href="#conCom">CONFERENCE COMMITTEE</a>
-                            </li>
+                            
                             <li class="nav-item">
 
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#adBoard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ADVISORY BOARD</a>
+                                <a class="nav-link nav-style a-style active" data-toggle="tab" href="#adBoard">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ADVISORY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BOARD</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#techCom">TECHNICAL COMMITTEE</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#techCom">TECHNICAL PROGRAM COMMITTEE</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#orgCom">&nbsp; ORGANISING &nbsp; COMMITTEE</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#orgCom"> &nbsp;&nbsp; ORGANISING &nbsp;&nbsp; COMMITTEE</a>
                             </li>
                         </ul>
                     </div>
 
                     <div class="tab-content">
-                          <div class="tab-pane fade show active" id="conCom" role="tabpanel">
-                            <div class="row justify-content-center">
-                                <div class="col-sm-12" style="color : black;">
-                                    <br>
-                                    <h3 style=" color:#EA4335;"> Honorary Conference Chair</h3>
-                                    Prof. J.P. Saini, Director NSIT 
-                                    <br>
-                                    </div>
-                            </div>
-                        </div>
-                        
                       
-                        
-                           
-                        <div class="tab-pane fade" id="adBoard" role="tabpanel">
+                        <div class="tab-pane fade show active" id="adBoard" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-sm-12">
+                              <div class="col-sm-12">
                                 <br>
+                                <h3 style="color:#EA4335;">Honorary Conference Chair</h3>
+                                <p>Prof. J.P. Saini, Director NSIT</p> 
+                                <br>
+                                <h3 style="color:#EA4335;">Members</h3>
                                 <ul class="list-group">
                                 <li class="list-group-item">Prof S.S. Mantha, All India Council for Technical Education</li>
                                 ​<li class="list-group-item">Prof Sumit Dua, Louisiana Tech University, USA</li>
@@ -875,18 +898,17 @@ The registration will not refundable once the VISA process starts.
                                 ​<li class="list-group-item">Prof M. N. Hoda, BVICAM, New Delhi</li>
                                 <li class="list-group-item">Prof M. P. Pooniya, All India Council for Technical Education</li>
                                 ​<li class="list-group-item">Prof P. C. Saxena, Jawaharlal Nehru University</li>
+
                                 </ul>                                                                    
                                 </div>
+                              </div>
                             </div>
-                        </div>
-                        
-                     
-                        
-                        
+                       
                          <div class="tab-pane fade" id="techCom" role="tabpanel">
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                   <br>
+                                  <h3 style="color:#EA4335;">Members</h3>
                                   
                                   <ul class="list-group">
                                 <li class="list-group-item">Prof Pradeep Atrey, State University of New York, Albany, NY, USA</li>
@@ -967,6 +989,7 @@ The registration will not refundable once the VISA process starts.
                                 <li class="list-group-item">Dr Shruti Garg, BIT MESRA, Ranchi, India</li>
                                 <li class="list-group-item">Dr Sangeeta Srivastava, Bhaskaracharya College of Applied Sciences, India</li>
                                 <li class="list-group-item">Dr Savita Gupta, UIET, Punjab University, India</li>
+
                                   </ul>
                                   
                                   
@@ -983,14 +1006,14 @@ The registration will not refundable once the VISA process starts.
                                   
                
                                    <h3 style=" color:#EA4335; padding-top:25px;">General Chair </h3>
-                                   Prof. Shampa Chakraverty, NSIT
+                                   Shampa Chakraverty, NSIT
                                    <br><br>
                                    <h3 style=" color:#EA4335; padding-top:25px;">Organizing Co-Chairs </h3>
-                                   Prof. M. P. S. Bhatia, NSIT<br>
-                                    Dr Ritu Sibal, NSIT<br><br>
+                                   M. P. S. Bhatia, NSIT<br>
+                                    Ritu Sibal, NSIT<br><br>
                                      <h3 style=" color:#EA4335; padding-top:25px;">TPC Co-Chairs</h3>
-                                     Dr Anil Kumar Goel, SAP, USA<br>
-                                    Prof. Sangeeta Sabharwal, NSIT<br><br> 
+                                     Anil Kumar Goel, SAP, USA<br>
+                                    Sangeeta Sabharwal, NSIT<br><br> 
                                    <h3 style=" color:#EA4335; padding-top:25px;">Publication Chair</h3>
                                    Anand Gupta<br><br> 
                                    <h3 style=" color:#EA4335; padding-top:25px;">Design Contest Co-Chair</h3>
@@ -1002,7 +1025,7 @@ The registration will not refundable once the VISA process starts.
                                    Industry Liaison Co-Chairs<br>
                                    Rajeev Kumar<br><br>
                                    <h3 style=" color:#EA4335; padding-top:25px;">Sponsorship Chair</h3>
-                                   Prof M.P.S. Bhatia<br><br>   
+                                   M.P.S. Bhatia<br><br>   
                                    <h3 style=" color:#EA4335; padding-top:25px;">Publicity Co-chairs</h3>
                                     Savita Yadav<br>
                                    Poonam Rana
@@ -1183,7 +1206,7 @@ Finance Chair<br/><br/>
                                                 Email: bhatia.mps@gmail.com<br>
                                             </div>
                                             <div class="col" style="color: black; font-size: 18px">
-                                               <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Dr Ritu Sibal</b> </span>  <br>
+                                               <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Dr. Ritu Sibal</b> </span>  <br>
                                                 Mobile: 9871598390<br>
                                                 Email: ritusib@hotmail.com<br>
                                             </div>                                        </div>
@@ -1223,10 +1246,7 @@ Finance Chair<br/><br/>
                                     <br>
                                     <span style="color:#177731; "><b> Budget Hotels:</b></span>
                                     Shhaurya Hotel, La Wisteria Hotel, Royal Star Hotel
-                                    <br> 
-                                    For any assistance required on booking your accommodation or queries, please directly contact hotel
                                    </p>
-                                   
                                    <p>
                                     <h3 style=" color:#EA4335; padding-top:25px;"> On Campus </h3>
                                     <ul>
@@ -1310,8 +1330,6 @@ Finance Chair<br/><br/>
                                       station - closest to the campus. Along with Uber and Ola, government registered pre-paid
                                        taxis can also be hired from the taxi counters at the airport to reach the venue.
                                     </p>
-                                    
-                                    
                                     <p>
                                    <h3 style=" color:#EA4335; padding-top:25px;">By Train </h3> 
                                    The capital city Delhi is primarily served by four railway stations—New Delhi Railway Station (NDLS),
@@ -1321,12 +1339,11 @@ Finance Chair<br/><br/>
                                     </p>                          
                                 </div>
                             </div>
+                            <div id="map"></div>
                         </div>
                       
                 </div>
             </div>
-<div id="map"></div>
-
 `);
 
 
