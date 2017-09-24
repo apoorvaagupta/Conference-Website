@@ -1153,7 +1153,7 @@ Finance Chair<br/><br/>
                                 <div class="col-sm-12" style="color : black;">
                                     <br>
                                     <h3 style=" color:#177731;"> Website </h3>
-                                    www.teamc18.com
+                                    <a href="www.teamc18.com">www.teamc18.com</a>
                                     <br>
                                     Email Id- teamc2018@nsit.ac.in
                                     <div>
@@ -1205,8 +1205,8 @@ Finance Chair<br/><br/>
                                      5-10 minutes drive from the venue.
                                       Online Taxi services are available round the clock. 
                                       You can also search for other options using global search sites like 
-                                      <a href="https://www.tripadvisor.in/"> Tripadvisor.com</a> and 
-                                      <a href="https://www.booking.com/">Booking.com</a>. 
+                                      <a href="https://www.tripadvisor.in/" target="_blank"> Tripadvisor.com</a> and 
+                                      <a href="https://www.booking.com/" target="_blank">Booking.com</a>. 
                                   
                                    </p>
                                    
