@@ -167,7 +167,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/diwan-i-khas-inside-view-#333-fort-delhi.jpg"
+                                    <img class="d-block img-fluid" src="./images/diwan-i-khas-inside-view-red-fort-delhi.jpg"
                                          alt="Twelveth slide">
                                     <div class="carousel-caption d-md-block">
                                         <h2><i>DIWAN-I-KHAS</i></h2>
