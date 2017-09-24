@@ -98,27 +98,28 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                 <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+
                             </ol>
                             <div class="carousel-inner" role="listbox">
                                 <div class="carousel-item active">
                                     <img class="d-block img-fluid" src="./images/5.jpg" alt="First slide">
                                     <div class="carousel-caption d-md-block">
                                         <!--<div class="d-none" style="background-color: #6c757d;opacity: 0.4;position: absolute;width: 100%;height:100%;margin-top: -20px;padding-bottom: 20px" ></div>-->
-                                         <h1>HUMAYUN'S TOMB</h1>
+                                         <h2><i>HUMAYUN'S TOMB</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/Red_Fort_in_Delhi_03-2016_img3.jpg"
                                          alt="Second slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>RED FORT</h1>
+                                        <h2><i>RED FORT</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/surajkundm_mela2.jpg"
                                          alt="Third slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>SURAJ KUND</h1>
+                                        <h2><i>SURAJ KUND</i></h2>
                                     </div>
                                 </div>
 
@@ -126,7 +127,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <img class="d-block img-fluid" src="./images/DSC06193.JPG"
                                          alt="Fourth slide">
                                     <div class="carousel-caption d-block">
-                                        <h1>NSIT</h1>
+                                        <h2><i>NSIT, DWARKA</i></h2>
                                     </div>
                                 </div>
 
@@ -134,42 +135,42 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <img class="d-block img-fluid" src="./images/DSC_0441.jpg"
                                          alt="Sixth slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>NUKKAD NATAK, NSIT</h1>
+                                        <h2><i>NUKKAD NATAK, NSIT</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/Qutub-Minar-Delhi-1024x681.jpg"
                                          alt="Seventh slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>QUTUB MINAR</h1>
+                                        <h2><i>QUTUB MINAR</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid"
                                          src="./images/india-gate-night-hd-pictures.jpg" alt="Ninth slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>INDIA GATE</h1>
+                                        <h2><i>INDIA GATE</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/-77044_7004.jpg"
                                          alt="Tenth slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>LOTUS TEMPLE</h1>
+                                        <h2><i>LOTUS TEMPLE</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/Jama_Masjid_-_In_the_Noon.jpg"
                                          alt="Eleventh slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>JAMA MASJID</h1>
+                                        <h2><i>JAMA MASJID</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/diwan-i-khas-inside-view-red-fort-delhi.jpg"
                                          alt="Twelveth slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>DIWAN-I-KHAS</h1>
+                                        <h2><i>DIWAN-I-KHAS</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
@@ -177,7 +178,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                          src="./images/v__processed_original.jpg"
                                          alt="Thirteen slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>JANTAR MANTAR</h1>
+                                        <h2><i>JANTAR MANTAR</i></h2>
                                     </div>
                                 </div>
 
@@ -195,8 +196,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                     </div>
                 </div>
-            </div>
-            `);
+            </div>`);
   });
 
   $('#copButton').click(function () {
@@ -252,9 +252,9 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 India
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
+                                                Prof Sanjay Mishra<br>
+                                                Covenant University, OTA<br>
+                                                Nigeria
                                             </div>
                                         </div>
                                         <br>
@@ -316,11 +316,6 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
-                                            </div>
                                         </div>
                                         <br>
                                         <p style="color: #444">Topics</p>
@@ -361,20 +356,16 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <p style="color: #444">Track Co-chairs</p>
                                         <div class="row">
                                             <div class="col" style="color: red; font-size: 18px">
-                                                Prof Sanjay Mishra<br>
-                                                Covenant University, OTA<br>
-                                                Nigeria<br>
+                                               Prof Pradeep Atrey,<br>
+                                                State University of New York<br>
+                                                 Albany, NY, USA
                                             </div>
                                             <div class="col" style="color: red; font-size: 18px">
                                                 Dr. Sushma Nagpal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
-                                            </div>
+                                           
                                         </div>
                                         <br>
                                         <p style="color: #444">Topics</p>
@@ -430,11 +421,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
-                                            </div>
+                                            
                                         </div>
                                         <br>
                                         <p style="color: #444">Topics</p>
@@ -481,11 +468,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
-                                            </div>
+                                            
                                         </div>
                                         <br>
                                         <p style="color: #444">Topics</p>
@@ -569,13 +552,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <br>
-                                        <span style="color: black; font-size: 14pt;"> - We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format.</span>
-                                        <br>
-                                         <span style="color: black; font-size: 14pt;"> - Short papers of at most 8 pages will also be considered.</span>
-                                         <br>
-                                          <span style="color: black; font-size: 14pt;"> - Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
-                                                 <span style="color: black; font-size: 14pt;"> - Submissions will be accepted through <a
-                                                href="https://ocs.springer.com/ocs/"> Springer Online Conference Service (OCS).</a>
+                                        <span style="color: black; font-size: 14pt;">We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format. Short papers of at most 8 pages will also be considered.</span>
+                                        <br><br>
+                                          <span style="color: black; font-size: 14pt;">Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899" target="_blank"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
+                                                 <br><span style="color: black; font-size: 14pt;">Submissions will be accepted through <a
+                                                href="https://ocs.springer.com/ocs/" target="_blank"> Springer Online Conference Service (OCS).</a>
                             </span>
                                     </div>
                                 </div>
@@ -588,11 +569,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            <span style="color: black; font-size: 14pt;"> - Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals.</span><br/>
-                                             <span style="color: black; font-size: 14pt;"> - All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality.</span><br/>
-                                              <span style="color: black; font-size: 14pt;"> - Qualifying papers will undergo a double blind review process by at least three reviewers.</span><br/>
-                                               <span style="color: black; font-size: 14pt;"> - Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution.</span><br/>
-                                                <span style="color: black; font-size: 14pt;"> - Accepted papers must be presented at the conference.</span>
+                                            <span style="color: black; font-size: 14pt;">Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals.</span><br/><br>
+                                             <span style="color: black; font-size: 14pt;">All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality.</span><br/><br>
+                                              <span style="color: black; font-size: 14pt;">Qualifying papers will undergo a double blind review process by at least three reviewers.</span><br/><br>
+                                               <span style="color: black; font-size: 14pt;">Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution.</span><br/><br>
+                                                <span style="color: black; font-size: 14pt;">Accepted papers must be presented at the conference.</span>
                                     </div>
                                 </div>
                             </div>
@@ -627,16 +608,22 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                         <div class="tab-pane fade" id="publishingTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-sm-12 col-md-10">
+                                <div class="col-md-12">
                                     <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
+                                        <h3 style="padding-bottom: 10px; color:#177731;"> Publication</h3>
                                         <span style="color: black; font-size: 14pt;">
-                                            Publishing
-We are in active engagement with Springer India for publishing accepted papers of the conference in the CCIS book series, subject to approval by CCIS Board. The publication will be indexed by ISI Proceedings, Ei – Compendex,  DBLP,  SCOPUS, Google Scholar and Springer link.
-We are also contacting other publishers for journal publications and will share emerging developments on this website.
-
+                                           The best among peer reviewed and accepted papers of the conference, with a projected acceptance rate of 10-15%, will be published in the prestigious, top level Springer Communication of Computer and Information Science (CCIS) book series. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
+<br>We will share ongoing developments on publishing extended versions of accepted papers in reputed journals.
+                            </span><br><br>
+                            <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
+                                        <span style="color: black; font-size: 14pt;">
+                                           The CCIS book series is devoted to the publication of proceedings of computer science conferences. It is abstracted/indexed in DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, Scopus. Furthermore, CCIS is a LNCS Satellite series. As such it  is closely related to the Lecture Notes in Computer Science book series which are at top level and disseminated in both printed and electronic form.<br>
+The H-Index of CCIS is 29.<br>
+For more details on Springer CCIS Series, see <br><a target="_blank" href="http://www.springer.com/series/7899"> http://www.springer.com/series/7899</a>
                             </span>
+                                   
                                     </div>
                                 </div>
                             </div>
@@ -690,11 +677,11 @@ We are also contacting other publishers for journal publications and will share 
                                         <span style="color: black; font-size: 14pt;">
                                             Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
 <br/><br/>
-<span style="color: black; font-size: 14pt;"> - Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> 
-<span style="color: black; font-size: 14pt;"> - If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> 
-<span style="color: black; font-size: 14pt;"> - Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.</span>
+<span style="color: black; font-size: 14pt;">Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> <br>
+<span style="color: black; font-size: 14pt;">If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> <br>
+<span style="color: black; font-size: 14pt;">Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.</span><br>
 <br>
-<span style="color: black; font-size: 14pt;"> - The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
+<span style="color: black; font-size: 14pt;">The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
 
                             </span>
                                     </div>
@@ -707,9 +694,9 @@ We are also contacting other publishers for journal publications and will share 
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
-                                        <span style="color: black; font-size: 14pt;"> - Only registered authors who have paid the full registration fees will be provided VISA  letters upon request.</span>
-                                         <br>
-                                         <span style="color: black; font-size: 14pt;"> - After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.</span>
+                                        <span style="color: black; font-size: 14pt;">Only registered authors who have paid the full registration fees will be provided VISA  letters upon request.</span>
+                                         <br><br>
+                                         <span style="color: black; font-size: 14pt;">After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.</span>
 <br/><br/>
 <span style="color: black; font-size: 14pt;"> The registration will not refundable once the VISA process starts.
 
@@ -1186,7 +1173,7 @@ Finance Chair<br/><br/>
                                             <div class="col" style="color: black; font-size: 18px">
                                              <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Prof Shampa Chakraverty</b> </span>  <br>
                                                 Mobile: 9205475009<br>
-                                                Email: apmahs.nsit@nsit.ac.in<br>
+                                                Email: shampa@nsit.ac.in<br>
                                             </div>
                                         </div>
                                         
