@@ -1153,7 +1153,7 @@ Finance Chair<br/><br/>
                                 <div class="col-sm-12" style="color : black;">
                                     <br>
                                     <h3 style=" color:#177731;"> Website </h3>
-                                    <a href="www.teamc18.com">www.teamc18.com</a>
+                                    <a href="http://www.teamc18.com">www.teamc18.com</a>
                                     <br>
                                     Email Id- teamc2018@nsit.ac.in
                                     <div>
