@@ -18,12 +18,12 @@ $(document).ready(function () {
     mainWrapper.append(`<div style="background-color: white; ">
                 <div class="row">
                     <div class="col-md-12" style="padding: 30px;">
-                        <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Overview</h1>
 
                         <div class="overview-description" style="text-align: center;">
                             &nbsp; &nbsp; &nbsp; &nbsp; <span
-                                style="background-color: white; color: black; font-size: 14pt;"><img src="images/springer-logo.jpg" height="50px">&nbsp;&nbsp;Welcome to the &nbsp;</span><br><b
+                                style="background-color: white; color: black; font-size: 14pt;"><img src="images/springer-logo.jpg" height="50px">&nbsp;&nbsp;Welcome to the &nbsp;&nbsp;<img src="images/ccis_logo.png" height="50px"></span><br><b
                                 style="background-color: white; color: black; font-size: 14pt;"><span
                                 style="color: #385623; font-size: 15pt;">2018 Springer International Conference <br> Towards Extensible and Adaptable Methods in Computing <br> TEAMC 2018 </span></b>
                             <!--<b style="background-color: white; color: black; font-size: 14pt;"></b><span-->
@@ -167,7 +167,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/diwan-i-khas-inside-view-red-fort-delhi.jpg"
+                                    <img class="d-block img-fluid" src="./images/diwan-i-khas-inside-view-#333-fort-delhi.jpg"
                                          alt="Twelveth slide">
                                     <div class="carousel-caption d-md-block">
                                         <h2><i>DIWAN-I-KHAS</i></h2>
@@ -206,7 +206,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
 
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         Call For Papers</h1>
 
                     <span>We invite authors to submit their papers under the tracks given below. Each track includes several topics listed below,  but is not necessarily limited to them.
@@ -239,26 +239,26 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;"> Agile Software Development</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
+                                        <p style="color: #002060">Track Co-chairs</p>
                                         <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
+                                            <div class="col" style="color: #333; font-size: 18px">
                                                 Dr. Rashina Hoda<br>
                                                 University of Auckland<br>
                                                 New Zealand<br>
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
+                                            <div class="col" style="color: #333; font-size: 18px">
                                                 Dr. Ritu Sibal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Sanjay Mishra<br>
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                Prof Sanjay Misra<br>
                                                 Covenant University, OTA<br>
                                                 Nigeria
                                             </div>
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item">Agile software processes and methodologies
                                             </li>
@@ -304,21 +304,21 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;">  Data Management</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
+                                        <p style="color: #002060">Track Co-chairs</p>
                                         <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
+                                            <div class="col" style="color: #333; font-size: 18px">
                                                 Prof Sumit Dua<br>
                                                 Louisiana Tech. University<br>
                                                 United States of America<br>
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
+                                            <div class="col" style="color: #333; font-size: 18px">
                                                 Dr. Anand Gupta, <br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item">Data interoperability in emerging applications
                                             </li>
@@ -353,22 +353,22 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;"> Web Intelligence</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
+                                        <p style="color: #002060">Track Co-chairs</p>
                                         <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
+                                            <div class="col" style="color: #333; font-size: 18px">
                                                Prof Pradeep Atrey,<br>
                                                 State University of New York<br>
                                                  Albany, NY, USA
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr. Sushma Nagpal,<br>
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                Dr. Sushama Nagpal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
                                            
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item
 ">Adaptive and context-aware web applications
@@ -409,14 +409,14 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;"> Computing in Education</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
+                                        <p style="color: #002060">Track Co-chairs</p>
                                         <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
+                                            <div class="col" style="color: #333; font-size: 18px">
                                                 Ms Rashmi Dravid<br>
                                                 University of Northampton<br>
                                                 United Kingdom<br>
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
+                                            <div class="col" style="color: #333; font-size: 18px">
                                                 Dr. Pinaki Chakraborty,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
@@ -424,7 +424,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item
 ">Personalized and adaptive e-learning
@@ -456,14 +456,14 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;">Machine Learning</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
+                                        <p style="color: #002060">Track Co-chairs</p>
                                         <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
+                                            <div class="col" style="color: #333; font-size: 18px">
                                                 Dr. Raman Arora<br>
                                                 John Hopkins University<br>
                                                 United States of America<br>
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
+                                            <div class="col" style="color: #333; font-size: 18px">
                                                 Dr. Swati Aggarwal,<br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
@@ -471,7 +471,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item
 ">Rough, fuzzy and neuro computing
@@ -516,7 +516,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
     <div style="background-color: white; ">
 
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         Submission</h1>
 
                     <div style="padding: 0; width: 100%">
@@ -614,7 +614,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <h3 style="padding-bottom: 10px; color:#177731;"> Publication</h3>
                                         <span style="color: black; font-size: 14pt;">
-                                           The best among peer reviewed and accepted papers of the conference, with a projected acceptance rate of 10-15%, will be published in the prestigious, top level Springer Communication of Computer and Information Science (CCIS) book series. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
+                                           The best among peer reviewed and accepted papers of the conference will be published in the prestigious, top level Springer Communication of Computer and Information Science (CCIS) book series. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
 <br>We will share ongoing developments on publishing extended versions of accepted papers in reputed journals.
                             </span><br><br>
                             <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
@@ -640,7 +640,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
     <div style="background-color: white; ">
 
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         REGISTRATION</h1>
 
                     <div style="padding: 0; width: 100%">
@@ -698,7 +698,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                          <br><br>
                                          <span style="color: black; font-size: 14pt;">After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.</span>
 <br/><br/>
-<span style="color: black; font-size: 14pt;"> The registration will not refundable once the VISA process starts.
+<span style="color: black; font-size: 14pt;"> The registration fee will be refunded if VISA is denied by the embassy.
 
                             </span>
                                     </div>
@@ -789,9 +789,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         </tbody>
                                     </table>
                                 </div>
-                                <h3 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 18px;text-transform: uppercase;">
-                                    *CSI, ACM and IEEE Members will be given a discount of 15%
-                                </h3>
+                               
                             </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
@@ -816,23 +814,16 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
 
   $('#programButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`
-    <div style="background-color: white;">
-
-                <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
-                        PROGRAM</h1>
+    mainWrapper.append(`<div style="background-color: white;"><div style="padding: 30px; font-size: 14pt; color: black">`+
+                    `<h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;">
+                       Program</h1>
 
                     <div class="overview-description"
                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                         <span style="color: black; font-size: 14pt;"><br></span>
                         <span style="color: black; font-size: 14pt;">
                             Program Will Be Announced Soon
-                        </span>
-                    </div>
-                </div>
-            </div>
-`);
+                        </span></div></div></div>`);
   });
 
   $('#committeeButton').click(function () {
@@ -841,7 +832,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
 
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Committees</h1>
                   <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
@@ -865,10 +856,10 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                             <div class="row justify-content-center">
                               <div class="col-sm-12">
                                 <br>
-                                <h3 style="color:#EA4335;">Honorary Conference Chair</h3>
+                                <h3 style="color:#177731">Honorary Conference Chair</h3>
                                 <p>Prof. J.P. Saini, Director NSIT</p> 
                                 <br>
-                                <h3 style="color:#EA4335;">Members</h3>`+
+                                <h3 style="color:#177731"> Advisory Board Members</h3>`+
 `<ul class="list-group">`+
 `<li class="list-group-item">Prof S.S. Mantha, All India Council for Technical Education</li>`
 +`<li class="list-group-item">Prof Sumit Dua, Louisiana Tech University, USA</li>`
@@ -888,7 +879,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                   <br>
-                                  <h3 style="color:#EA4335;">Members</h3>
+                                  <h3 style="color:#177731">Members</h3>
                                   
                                   <ul class="list-group">
                                 <li class="list-group-item">Prof Pradeep Atrey, State University of New York, Albany, NY, USA</li>
@@ -985,40 +976,40 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                 <div class="col-sm-12">
                                   
                
-                                   <h3 style=" color:#EA4335; padding-top:25px;">General Chair </h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">General Chair </h3>
                                    Shampa Chakraverty, NSIT
                                    <br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Organizing Co-Chairs </h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Organizing Co-Chairs </h3>
                                    M. P. S. Bhatia, NSIT<br>
                                     Ritu Sibal, NSIT<br>
-                                     <h3 style=" color:#EA4335; padding-top:25px;">TPC Co-Chairs</h3>
+                                     <h3 style=" color:#177731; padding-top:25px;">TPC Co-Chairs</h3>
                                      Anil Kumar Goel, SAP, USA<br>
                                     Sangeeta Sabharwal, NSIT<br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Publication Chair</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Publication Chair</h3>
                                    Anand Gupta<br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Design Contest Co-Chair</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Design Contest Chair</h3>
                                   Manusheel Gupta<br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Workshop Chair</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Workshop Chair</h3>
                                       Bijender Kumar<br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Industry Liaison Co-Chairs</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Industry Liaison Co-Chairs</h3>
                                    Satbir Jain<br>
                                    Rajeev Kumar<br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Sponsorship Chair</h3>
+                                   <h3 style=" color:#177731 ;padding-top:25px;">Sponsorship Chair</h3>
                                    M.P.S. Bhatia<br>  
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Publicity Co-chairs</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Publicity Co-chairs</h3>
                                     Savita Yadav<br>
                                    Poonam Rana
                                    <br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Finance Chair</h3>
+                                   <h3 style=" color:#177731 ;padding-top:25px;">Finance Chair</h3>
                                   V.P. Ranjan<br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Website Chair</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Website Chair</h3>
                                    Khushil Saini<br>
                                    Abhishek Faujdar<br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Hospitality Co-Chairs</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Hospitality Co-Chairs</h3>
                                    Preeti Kaur<br>
                                    Veenu
                                    <br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Internal Arrangements Chair</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Internal Arrangements Co-Chair</h3>
                                    Anil Arora<br>
                                    Aastha<br>    
                                                           
@@ -1039,7 +1030,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                 <div style="background-color: white; ">
 
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         SPONSORSHIP</h1>
 
                     <div class="overview-description"
@@ -1136,7 +1127,7 @@ Finance Chair<br/><br/>
         <div style="background-color: white;width: 100%;">
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Information</h1>
                   <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
@@ -1161,32 +1152,32 @@ Finance Chair<br/><br/>
                             <div class="row justify-content-center">
                                 <div class="col-sm-12" style="color : black;">
                                     <br>
-                                    <h3 style=" color:#EA4335;"> Website </h3>
-                                    www.nsit.ac.in/TEAMC2018
+                                    <h3 style=" color:#177731;"> Website </h3>
+                                    www.teamc18.com
                                     <br>
                                     Email Id- teamc2018@nsit.ac.in
                                     <div>
                                        
-                                      <h3 style=" color:#EA4335; padding-top:25px;"> General Chair </h3>
+                                      <h3 style=" color:#177731; padding-top:25px;"> General Chair </h3>
                                        
                                         <div class="row"">
                                             <div class="col" style="color: black; font-size: 18px">
-                                             <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Prof Shampa Chakraverty</b> </span>  <br>
+                                             <span style="color:#002060; font-family:Lato, sans-serif;"> <b>Prof Shampa Chakraverty</b> </span>  <br>
                                                 Mobile: 9205475009<br>
                                                 Email: shampa@nsit.ac.in<br>
                                             </div>
                                         </div>
                                         
                                         
-                                         <h3 style=" color:#EA4335; padding-top:25px;"> Organizing Co-Chairs </h3>
+                                         <h3 style=" color:#177731; padding-top:25px;"> Organizing Co-Chairs </h3>
                                         <div class="row">
                                             <div class="col" style="color: black; font-size: 18px">
-                                               <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Prof MPS Bhatia</b> </span>  <br>
+                                               <span style="color:#002060; font-family:Lato, sans-serif;"> <b>Prof MPS Bhatia</b> </span>  <br>
                                                 Mobile: 9205475008<br>
                                                 Email: bhatia.mps@gmail.com<br>
                                             </div>
                                             <div class="col" style="color: black; font-size: 18px">
-                                               <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Dr. Ritu Sibal</b> </span>  <br>
+                                               <span style="color:#002060; font-family:Lato, sans-serif;"> <b>Dr. Ritu Sibal</b> </span>  <br>
                                                 Mobile: 9871598390<br>
                                                 Email: ritusib@hotmail.com<br>
                                             </div>                                        </div>
@@ -1228,7 +1219,7 @@ Finance Chair<br/><br/>
                                     Shhaurya Hotel, La Wisteria Hotel, Royal Star Hotel
                                    </p>
                                    <p>
-                                    <h3 style=" color:#EA4335; padding-top:25px;"> On Campus </h3>
+                                    <h3 style=" color:#177731; padding-top:25px;"> On Campus </h3>
                                     <ul>
                                       <li>
                                       Limited number of hostel rooms can be made available upon request on single/double sharing, chargeable and first-come-first-served basis.
@@ -1253,15 +1244,16 @@ Finance Chair<br/><br/>
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                    <p>
-                                   <h3 style=" color:#EA4335; padding-top:25px;"> Venue </h3>
-                                   <address style="font-style: italic">Netaji Subhas Institute of Technology
+                                   <h3 style=" color:#177731; padding-top:25px;"> Venue </h3>
+                                   <address>Netaji Subhas Institute of Technology,
+                                   <br> Azad Hind Fauz Marg,
                                    <br> Dwarka, Sector 3
                                    <br> New Delhi - 110078<br> India.</address>       
                                    </p> 
                                    
                                    
                                    <p>
-                                     <h3 style=" color:#EA4335; padding-top:25px;"> About NSIT </h3>
+                                     <h3 style=" color:#177731; padding-top:25px;"> About NSIT </h3>
                                      An autonomous institution under Govt. of NCT of Delhi and affiliated to University of Delhi,
                                       Netaji Subhas Institute of Technology is a reputed seat of higher education in India.
                                        Over a period of time, the institute has carved a niche for itself, both nationally and internationally, 
@@ -1276,7 +1268,7 @@ Finance Chair<br/><br/>
                                    
                                    
                                    <p>
-                                   <h3 style=" color:#EA4335; padding-top:25px;"> About Delhi </h3>
+                                   <h3 style=" color:#177731; padding-top:25px;"> About Delhi </h3>
                                    Delhi is not just a city – it is a universe of its own. Churned by a rich tapestry of historical 
                                    events, Delhi vibrates today with cultures of diverse hues, architectural masterpieces, lush green
                                     landscapes and lively hubs of eclectic activities. <br>
@@ -1301,7 +1293,7 @@ Finance Chair<br/><br/>
                                 <div class="col-sm-12">
                                   
                                   <p>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">By Air </h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">By Air </h3>
                                    Indira Gandhi International Airport (IGI) in Delhi serves both domestic and international
                                     flights. There are frequent flights to Delhi from all metro cities. Situated in Palam, the
                                      airport is about 20 kilometers away from the NSIT. While there are regular Delhi Transport 
@@ -1311,7 +1303,7 @@ Finance Chair<br/><br/>
                                        taxis can also be hired from the taxi counters at the airport to reach the venue.
                                     </p>
                                     <p>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">By Train </h3> 
+                                   <h3 style=" color:#177731; padding-top:25px;">By Train </h3> 
                                    The capital city Delhi is primarily served by four railway stations—New Delhi Railway Station (NDLS),
                                     Old Delhi Railway Station (DLI), Hazrat Nizamuddin Railway Station (NZM) and Anand Vihar Railway Terminal (ANVT). 
                                     All railway stations are well connected by metro stations and DTC buses to the venue. For more information visit   
@@ -1337,3 +1329,7 @@ Finance Chair<br/><br/>
   });
 
 });
+
+//<h3 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 18px;text-transform: uppercase;">
+//     *CSI, ACM and IEEE Members will be given a discount of 15%
+// </h3>
