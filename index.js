@@ -18,12 +18,12 @@ $(document).ready(function () {
     mainWrapper.append(`<div style="background-color: white; ">
                 <div class="row">
                     <div class="col-md-12" style="padding: 30px;">
-                        <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Overview</h1>
 
                         <div class="overview-description" style="text-align: center;">
                             &nbsp; &nbsp; &nbsp; &nbsp; <span
-                                style="background-color: white; color: black; font-size: 14pt;"><img src="images/springer-logo.jpg" height="50px">&nbsp;&nbsp;Welcome to the &nbsp;</span><br><b
+                                style="background-color: white; color: black; font-size: 14pt;"><img src="images/springer-logo.jpg" height="50px">&nbsp;&nbsp;Welcome to the &nbsp;&nbsp;<img src="images/ccis_logo.png" height="50px"></span><br><b
                                 style="background-color: white; color: black; font-size: 14pt;"><span
                                 style="color: #385623; font-size: 15pt;">2018 Springer International Conference <br> Towards Extensible and Adaptable Methods in Computing <br> TEAMC 2018 </span></b>
                             <!--<b style="background-color: white; color: black; font-size: 14pt;"></b><span-->
@@ -98,9 +98,6 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                 <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
                                 <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
-                                <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
-                                <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
-                                <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
 
                             </ol>
                             <div class="carousel-inner" role="listbox">
@@ -108,21 +105,21 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <img class="d-block img-fluid" src="./images/5.jpg" alt="First slide">
                                     <div class="carousel-caption d-md-block">
                                         <!--<div class="d-none" style="background-color: #6c757d;opacity: 0.4;position: absolute;width: 100%;height:100%;margin-top: -20px;padding-bottom: 20px" ></div>-->
-                                         <h1>HUMAYUN'S TOMB</h1>
+                                         <h2><i>HUMAYUN'S TOMB</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/Red_Fort_in_Delhi_03-2016_img3.jpg"
                                          alt="Second slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>RED FORT</h1>
+                                        <h2><i>RED FORT</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/surajkundm_mela2.jpg"
                                          alt="Third slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>SURAJ KUND</h1>
+                                        <h2><i>SURAJ KUND</i></h2>
                                     </div>
                                 </div>
 
@@ -130,7 +127,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <img class="d-block img-fluid" src="./images/DSC06193.JPG"
                                          alt="Fourth slide">
                                     <div class="carousel-caption d-block">
-                                        <h1>NSIT</h1>
+                                        <h2><i>NSIT, DWARKA</i></h2>
                                     </div>
                                 </div>
 
@@ -138,42 +135,42 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <img class="d-block img-fluid" src="./images/DSC_0441.jpg"
                                          alt="Sixth slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>NUKKAD NATAK, NSIT</h1>
+                                        <h2><i>NUKKAD NATAK, NSIT</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img class="d-block img-fluid" src="./images/DSC_6735.jpg"
+                                    <img class="d-block img-fluid" src="./images/Qutub-Minar-Delhi-1024x681.jpg"
                                          alt="Seventh slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>QUTUB MINAR</h1>
+                                        <h2><i>QUTUB MINAR</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid"
                                          src="./images/india-gate-night-hd-pictures.jpg" alt="Ninth slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>INDIA GATE</h1>
+                                        <h2><i>INDIA GATE</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/-77044_7004.jpg"
                                          alt="Tenth slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>LOTUS TEMPLE</h1>
+                                        <h2><i>LOTUS TEMPLE</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/Jama_Masjid_-_In_the_Noon.jpg"
                                          alt="Eleventh slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>JAMA MASJID</h1>
+                                        <h2><i>JAMA MASJID</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block img-fluid" src="./images/diwan-i-khas-inside-view-red-fort-delhi.jpg"
                                          alt="Twelveth slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>DIWAN-I-KHAS</h1>
+                                        <h2><i>DIWAN-I-KHAS</i></h2>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
@@ -181,7 +178,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                          src="./images/v__processed_original.jpg"
                                          alt="Thirteen slide">
                                     <div class="carousel-caption d-md-block">
-                                        <h1>JANTAR MANTAR</h1>
+                                        <h2><i>JANTAR MANTAR</i></h2>
                                     </div>
                                 </div>
 
@@ -199,8 +196,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                     </div>
                 </div>
-            </div>
-            `);
+            </div>`);
   });
 
   $('#copButton').click(function () {
@@ -210,7 +206,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
 
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         Call For Papers</h1>
 
                     <span>We invite authors to submit their papers under the tracks given below. Each track includes several topics listed below,  but is not necessarily limited to them.
@@ -228,7 +224,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#track3">TRACK 3 - WI</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track4">TRACK 4 - CiE</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track4">TRACK 4 - CE</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#track5">TRACK 5 - ML</a>
@@ -243,58 +239,58 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;"> Agile Software Development</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
-                                        <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr. Rashina Hoda<br>
+                                        <p style="color: #002060">Track Co-chairs</p>
+                                        <div class="row text-center">
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Dr. Rashina Hoda</b><br>
                                                 University of Auckland<br>
                                                 New Zealand<br>
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr. Ritu Sibal,<br>
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Dr. Ritu Sibal</b><br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Prof Sanjay Misra</b><br>
+                                                Covenant University OTA<br>
+                                                Nigeria
                                             </div>
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
-                                            <li class="list-group-item">Agile software processes and methodologies
+                                            <li class="list-group-item">Agile Software Processes And Methodologies
                                             </li>
-                                            <li class="list-group-item">Agile approaches to requirements engineering
+                                            <li class="list-group-item">Agile Approaches To Requirements Engineering
                                             </li>
-                                            <li class="list-group-item">Testing in agile environment
+                                            <li class="list-group-item">Testing In Agile Environment
                                             </li>
-                                            <li class="list-group-item">Agile project management
+                                            <li class="list-group-item">Agile Project Management
                                             </li>
-                                            <li class="list-group-item">Agile methodologies for web development
+                                            <li class="list-group-item">Agile Methodologies For web Development
                                             </li>
-                                            <li class="list-group-item">Agile methodologies for developing embedded software
+                                            <li class="list-group-item">Agile Methodologies For Developing Embedded Software
                                             </li>
-                                            <li class="list-group-item">Design and architectural patterns
+                                            <li class="list-group-item">Design And Architectural Patterns
                                             </li>
-                                            <li class="list-group-item">Aspect oriented programming
+                                            <li class="list-group-item">Aspect Oriented Programming
                                             </li>
-                                            <li class="list-group-item">Agile model driven design
+                                            <li class="list-group-item">Agile Model Driven Design
                                             </li>
-                                            <li class="list-group-item">Agile practices for component based software development
+                                            <li class="list-group-item">Agile Practices For Component Based Software Development
                                             </li>
-                                            <li class="list-group-item">Tools and techniques for agile development
+                                            <li class="list-group-item">Tools And Techniques For Agile Development
                                             </li>
-                                            <li class="list-group-item">Risk assessment in agile environment
+                                            <li class="list-group-item">Risk Assessment In Agile Environment
                                             </li>
-                                            <li class="list-group-item">Estimation in agile software development
+                                            <li class="list-group-item">Estimation In Agile Software Development
                                             </li>
-                                            <li class="list-group-item">Adopting agile and lean practices in large projects
+                                            <li class="list-group-item">Adopting Agile And Lean Practices In Large Projects
                                             </li>
-                                            <li class="list-group-item">Software metrics for agile projects, agile processes, agile teams
+                                            <li class="list-group-item">Software Metrics For Agile Projects, Agile Processes, Agile Teams
                                             </li>
-                                            <li class="list-group-item">Agile methods in education, pedagogy and research
+                                            <li class="list-group-item">Agile Methods In Education, Pedagogy And Research
                                             </li>
 
                                         </ul>
@@ -308,46 +304,41 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;">  Data Management</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
-                                        <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Sumit Dua<br>
+                                        <p style="color: #002060">Track Co-chairs</p>
+                                        <div class="row text-center">
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Prof Sumit Dua</b><br>
                                                 Louisiana Tech. University<br>
                                                 United States of America<br>
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr. Anand Gupta, <br>
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Dr. Anand Gupta</b><br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
-                                            </div>
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
-                                            <li class="list-group-item">Data interoperability in emerging applications
+                                            <li class="list-group-item">Data Interoperability In Emerging Applications
                                             </li>
-                                            <li class="list-group-item">Metadata management
+                                            <li class="list-group-item">Metadata Management
                                             </li>
-                                            <li class="list-group-item">Data models and frameworks for Big Data
+                                            <li class="list-group-item">Data Models And Frameworks For Big Data
                                             </li>
-                                            <li class="list-group-item">Web data management
+                                            <li class="list-group-item">Web Data Management
                                             </li>
-                                            <li class="list-group-item">Mobile data management
+                                            <li class="list-group-item">Mobile Data Management
                                             </li>
-                                            <li class="list-group-item">Migration to cloud and integration of legacy databases
+                                            <li class="list-group-item">Migration To Cloud And Integration Of Legacy Databases
                                             </li>
-                                            <li class="list-group-item">Agile data management with No-SQL
+                                            <li class="list-group-item">Agile Data Management With No-SQL
                                             </li>
-                                            <li class="list-group-item">Spatio-temporal databases
+                                            <li class="list-group-item">Spatio-Temporal Databases
                                             </li>
-                                            <li class="list-group-item">Distributed databases
+                                            <li class="list-group-item">Distributed Databases
                                             </li>
-                                            <li class="list-group-item">Adaptable data security
+                                            <li class="list-group-item">Adaptable Data Security
                                             </li>
                                             
 
@@ -362,53 +353,49 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;"> Web Intelligence</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
-                                        <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Sanjay Mishra<br>
-                                                Covenant University, OTA<br>
-                                                Nigeria<br>
+                                        <p style="color: #002060">Track Co-chairs</p>
+                                        <div class="row text-center">
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                               <b>Prof Pradeep Atrey</b><br>
+                                               State University of New York<br>
+                                               Albany, NY, USA
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr. Sushma Nagpal,<br>
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Dr. Sushama Nagpal</b><br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
-                                            </div>
+                                           
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item
-">Adaptive and context-aware web applications
+">Adaptive And Context-Aware Web Applications
                                             </li>
                                             <li class="list-group-item
-">Collective intelligence
+">Collective Intelligence
                                             </li>
                                             <li class="list-group-item
-">Ontology discovery and management
+">Ontology Discovery and Management
                                             </li>
                                             <li class="list-group-item
-">Web personalization
+">Web Personalization
                                             </li>
                                             <li class="list-group-item
-">Agent based web systems
+">Agent Based Web Systems
                                             </li>
                                             <li class="list-group-item
-">Context aware recommender systems
+">Context Aware Recommender Systems
                                             </li>
                                             <li class="list-group-item
-">Web analytics
+">Web Analytics
                                             </li>
                                             <li class="list-group-item
-">Opinion mining and sentiment analysis
+">Opinion Mining And Sentiment Analysis
                                             </li>
                                             <li class="list-group-item
-">Social network analysis
+">Social Network Analysis
                                             </li>
 
                                         </ul>
@@ -422,43 +409,39 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;"> Computing in Education</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
-                                        <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Ms Rashmi Dravid<br>
+                                        <p style="color: #002060">Track Co-chairs</p>
+                                        <div class="row text-center">
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Ms Rashmi Dravid</b><br>
                                                 University of Northampton<br>
                                                 United Kingdom<br>
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr. Pinaki Chakraborty,<br>
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Dr. Pinaki Chakraborty</b><br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
-                                            </div>
+                                            
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
                                             <li class="list-group-item
-">Personalized and adaptive e-learning
+">Personalized And Adaptive E-Learning
                                             </li>
                                             <li class="list-group-item
-">Mobile technologies for education
+">Mobile Technologies For Education
+                                            </li>
+                                            <li class="list-group-item text-capitalize
+">Case Studies On Computer-Aided Education In developed And Developing Countries
                                             </li>
                                             <li class="list-group-item
-">Case studies on computer-aided education in developed and developing countries
+ text-capitalize">Learning analytics
                                             </li>
-                                            <li class="list-group-item
-">Learning analytics
-                                            </li>
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">Collaborative and social networks based learning approaches
                                             </li>
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">Computing methods for constructivist learning
                                             </li>
 
@@ -473,49 +456,45 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <br>
                                     <h3 style="padding-bottom: 10px; color:#177731;">Machine Learning</h3>
                                     <div>
-                                        <p style="color: #444">Track Co-chairs</p>
-                                        <div class="row">
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr. Raman Arora<br>
+                                        <p style="color: #002060">Track Co-chairs</p>
+                                        <div class="row text-center">
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Dr. Raman Arora</b><br>
                                                 John Hopkins University<br>
                                                 United States of America<br>
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Dr. Swati Aggarwal,<br>
+                                            <div class="col" style="color: #333; font-size: 18px">
+                                                <b>Dr. Swati Aggarwal</b><br>
                                                 Netaji Subhas Institute of Technology<br>
                                                 India
                                             </div>
-                                            <div class="col" style="color: red; font-size: 18px">
-                                                Prof Pradeep Atrey,<br>
-                                                State University of New York<br>
-                                                 Albany, NY, USA
-                                            </div>
+                                            
                                         </div>
                                         <br>
-                                        <p style="color: #444">Topics</p>
+                                        <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">Rough, fuzzy and neuro computing
                                             </li>
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">Cognitive systems
                                             </li>
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">Deep learning applications
                                             </li>
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">ML driven adaptive applications
                                             </li>
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">Evolutionary and nature inspired techniques
                                             </li>
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">Multi-lingual knowledge Acquisition
                                             </li>
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">Adaptive Natural Language Processing
                                             </li>
-                                            <li class="list-group-item
+                                            <li class="list-group-item text-capitalize
 ">Ontology engineering and applications
                                             </li>
 
@@ -537,7 +516,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
     <div style="background-color: white; ">
 
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         Submission</h1>
 
                     <div style="padding: 0; width: 100%">
@@ -573,13 +552,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <br>
-                                        <span style="color: black; font-size: 14pt;"> - We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format.</span>
-                                        <br>
-                                         <span style="color: black; font-size: 14pt;"> - Short papers of at most 8 pages will also be considered.</span>
-                                         <br>
-                                          <span style="color: black; font-size: 14pt;"> - Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
-                                                 <span style="color: black; font-size: 14pt;"> - Submissions will be accepted through <a
-                                                href="https://ocs.springer.com/ocs/"> Springer Online Conference Service (OCS).</a>
+                                        <span style="color: black; font-size: 14pt;">We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format. Short papers of at most 8 pages will also be considered.</span>
+                                        <br><br>
+                                          <span style="color: black; font-size: 14pt;">Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899" target="_blank"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
+                                                 <br><span style="color: black; font-size: 14pt;">Submissions will be accepted through <a
+                                                href="https://ocs.springer.com/ocs/" target="_blank"> Springer Online Conference Service (OCS).</a>
                             </span>
                                     </div>
                                 </div>
@@ -592,11 +569,11 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            <span style="color: black; font-size: 14pt;"> - Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals.</span><br/>
-                                             <span style="color: black; font-size: 14pt;"> - All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality.</span><br/>
-                                              <span style="color: black; font-size: 14pt;"> - Qualifying papers will undergo a double blind review process by at least three reviewers.</span><br/>
-                                               <span style="color: black; font-size: 14pt;"> - Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution.</span><br/>
-                                                <span style="color: black; font-size: 14pt;"> - Accepted papers must be presented at the conference.</span>
+                                            <span style="color: black; font-size: 14pt;">Please do not submit work that has been already published or accepted for publication or is currently under review for other conferences or journals.</span><br/><br>
+                                             <span style="color: black; font-size: 14pt;">All manuscripts submitted to TEAMC 2018 will be subjected to plagiarism detection software to ensure originality.</span><br/><br>
+                                              <span style="color: black; font-size: 14pt;">Qualifying papers will undergo a double blind review process by at least three reviewers.</span><br/><br>
+                                               <span style="color: black; font-size: 14pt;">Please ensure that your manuscript clearly brings forth the innovative ideas in it, the results obtained and relevance of the contribution.</span><br/><br>
+                                                <span style="color: black; font-size: 14pt;">Accepted papers must be presented at the conference.</span>
                                     </div>
                                 </div>
                             </div>
@@ -611,7 +588,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             At least one of the authors of each accepted paper must register by paying the full registration fee as applicable for the author, on or before the deadline for camera ready submission.
                             </span><br><br>
                             <span style="color: black; font-size: 14pt;">
-                                            Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
+                                            Please register at this <a href="#">Registration Link(to be opened soon).</a>
                                     </div>
                                 </div>
                             </div>
@@ -631,16 +608,22 @@ Extensible and adaptable computing refers to the array of methods and techniques
                         </div>
                         <div class="tab-pane fade" id="publishingTab" role="tabpanel">
                             <div class="row justify-content-center">
-                                <div class="col-sm-12 col-md-10">
+                                <div class="col-md-12">
                                     <div class="overview-description"
-                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
+                                        <h3 style="padding-bottom: 10px; color:#177731;"> Publication</h3>
                                         <span style="color: black; font-size: 14pt;">
-                                            Publishing
-We are in active engagement with Springer India for publishing accepted papers of the conference in the CCIS book series, subject to approval by CCIS Board. The publication will be indexed by ISI Proceedings, Ei – Compendex,  DBLP,  SCOPUS, Google Scholar and Springer link.
-We are also contacting other publishers for journal publications and will share emerging developments on this website.
-
+                                           The best among peer reviewed and accepted papers of the conference will be published in the prestigious, top level Springer Communication of Computer and Information Science (CCIS) book series. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
+<br>We will share ongoing developments on publishing extended versions of accepted papers in reputed journals.
+                            </span><br><br>
+                            <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
+                                        <span style="color: black; font-size: 14pt;">
+                                           The CCIS book series is devoted to the publication of proceedings of computer science conferences. It is abstracted/indexed in DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, Scopus. Furthermore, CCIS is a LNCS Satellite series. As such it  is closely related to the Lecture Notes in Computer Science book series which are at top level and disseminated in both printed and electronic form.<br>
+The H-Index of CCIS is 29.<br>
+For more details on Springer CCIS Series, see <br><a target="_blank" href="http://www.springer.com/series/7899"> http://www.springer.com/series/7899</a>
                             </span>
+                                   
                                     </div>
                                 </div>
                             </div>
@@ -657,7 +640,7 @@ We are also contacting other publishers for journal publications and will share 
     <div style="background-color: white; ">
 
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         REGISTRATION</h1>
 
                     <div style="padding: 0; width: 100%">
@@ -692,13 +675,13 @@ We are also contacting other publishers for journal publications and will share 
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
+                                            Please register at this <a href="#">Registration Link(to be opened soon).</a>
 <br/><br/>
-<span style="color: black; font-size: 14pt;"> - Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> 
-<span style="color: black; font-size: 14pt;"> - If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> 
-<span style="color: black; font-size: 14pt;"> - Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.</span>
+<span style="color: black; font-size: 14pt;">Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> <br>
+<span style="color: black; font-size: 14pt;">If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> <br>
+<span style="color: black; font-size: 14pt;">Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.</span><br>
 <br>
-<span style="color: black; font-size: 14pt;"> - The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
+<span style="color: black; font-size: 14pt;">The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc.
 
                             </span>
                                     </div>
@@ -711,11 +694,11 @@ We are also contacting other publishers for journal publications and will share 
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
-                                        <span style="color: black; font-size: 14pt;"> - Only registered authors who have paid the full registration fees will be provided VISA  letters upon request.</span>
-                                         <br>
-                                         <span style="color: black; font-size: 14pt;"> - After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.</span>
+                                        <span style="color: black; font-size: 14pt;">Only registered authors who have paid the full registration fees will be provided VISA  letters upon request.</span>
+                                         <br><br>
+                                         <span style="color: black; font-size: 14pt;">After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018@nsit.ac.in.</span>
 <br/><br/>
-<span style="color: black; font-size: 14pt;"> The registration will not refundable once the VISA process starts.
+<span style="color: black; font-size: 14pt;"> The registration fee will be refunded if VISA is denied by the embassy.
 
                             </span>
                                     </div>
@@ -806,9 +789,7 @@ We are also contacting other publishers for journal publications and will share 
                                         </tbody>
                                     </table>
                                 </div>
-                                <h3 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 18px;text-transform: uppercase;">
-                                    *CSI, ACM and IEEE Members will be given a discount of 15%
-                                </h3>
+                               
                             </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
@@ -818,7 +799,185 @@ We are also contacting other publishers for journal publications and will share 
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Students must submit a scanned copy of their Institute identity card at the time of registration and produce their original Identity card and a bonafide certificate from the Head of Institution/Department upon arrival at the conference reception desk.
+                                            Students must submit a scanned copy of their Institute identity card at the time of registration. They must produce their original identity card upon arrival.
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+`);
+  });
+
+  $('#reg2button').click(function () {
+    mainWrapper.empty();
+    mainWrapper.append(`            
+    <div style="background-color: white; ">
+
+                <div style="padding: 30px; font-size: 14pt; color: black">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        REGISTRATION</h1>
+
+                    <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active nav-style a-style pl-0 pr-0" data-toggle="tab"
+                                   href="#onlineRegistrationTab">&nbsp;&nbsp; ONLINE &nbsp;&nbsp;&nbsp;&nbsp;
+                                    REGISTRATION</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#visaSupportTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    VISA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SUPPORT</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab"
+                                   href="#registrationFeesTab">&nbsp;&nbsp; REGISTRATION &nbsp; FEES</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#studentRegistrationTab">
+                                    STUDENT
+                                    REGISTRATION</a>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                        <div class="tab-pane fade show active" id="onlineRegistrationTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12 col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
+                                        <span style="color: black; font-size: 14pt;"><br></span>
+                                        <span style="color: black; font-size: 14pt;">
+                                            Please register at this <a href="#">Registration Link(to be opened soon).</a>
+<br/><br/>
+<span style="color: black; font-size: 14pt;">Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> <br>
+<span style="color: black; font-size: 14pt;">If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> <br>
+<span style="color: black; font-size: 14pt;">Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.</span><br>
+<br>
+<span style="color: black; font-size: 14pt;">The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
+
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="visaSupportTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12 col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: black; font-size: 14pt;"><br></span>
+                                        <span style="color: black; font-size: 14pt;">Only registered authors who have paid the full registration fees will be provided VISA  letters upon request.</span>
+                                         <br><br>
+                                         <span style="color: black; font-size: 14pt;">After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018@nsit.ac.in.</span>
+<br/><br/>
+<span style="color: black; font-size: 14pt;"> The registration fee will be refunded if VISA is denied by the embassy.
+
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="registrationFeesTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12 col-md-10 pt-4 text-center">
+                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #177731;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
+                                        Registration fees for Indian delegates
+                                    </h1>
+                                    <table class="table table-bordered table-responsive">
+                                        <thead class="thead-default">
+                                        <tr>
+                                            <th>Delegate Category</th>
+                                            <th>Early Bird</th>
+                                            <th>Standard</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <th scope="row">Faculty/Industry authors</th>
+                                            <td>Rs 6000</td>
+                                            <td>Rs 7000</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Students</th>
+                                            <td>
+                                                Rs 4000
+                                            </td>
+                                            <td>
+                                                Rs 5000
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Others</th>
+                                            <td>
+                                                Rs 4000
+                                            </td>
+                                            <td>
+                                                Rs 5000
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="col-sm-12 col-md-10 pt-4 text-center">
+                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #177731;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
+                                        Registration fees for Foreign delegates
+                                    </h1>
+                                    <table class="table table-bordered table-responsive">
+                                        <thead class="thead-default">
+                                        <tr>
+                                            <th>Delegate Category</th>
+                                            <th>Early Bird</th>
+                                            <th>Standard</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <th scope="row">Faculty/Industry authors</th>
+                                            <td>
+                                                $300
+                                            </td>
+                                            <td>
+                                                $350
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Students</th>
+                                            <td>
+                                                $250
+                                            </td>
+                                            <td>
+                                                $300
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Others</th>
+                                            <td>
+                                                $250
+                                            </td>
+                                            <td>
+                                                $300
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                               
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12 col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: black; font-size: 14pt;"><br></span>
+                                        <span style="color: black; font-size: 14pt;">
+                                            Students must submit a scanned copy of their Institute identity card at the time of registration. They must produce their original identity card upon arrival.
                             </span>
                                     </div>
                                 </div>
@@ -833,23 +992,16 @@ We are also contacting other publishers for journal publications and will share 
 
   $('#programButton').click(function () {
     mainWrapper.empty();
-    mainWrapper.append(`
-    <div style="background-color: white;">
-
-                <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
-                        PROGRAM</h1>
+    mainWrapper.append(`<div style="background-color: white;"><div style="padding: 30px; font-size: 14pt; color: black">` +
+      `<h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;">
+                       PROGRAM</h1>
 
                     <div class="overview-description"
                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                         <span style="color: black; font-size: 14pt;"><br></span>
                         <span style="color: black; font-size: 14pt;">
-                            Program Will Be Announced Soon
-                        </span>
-                    </div>
-                </div>
-            </div>
-`);
+                            Program will be announced soon.
+                        </span></div></div></div>`);
   });
 
   $('#committeeButton').click(function () {
@@ -858,7 +1010,7 @@ We are also contacting other publishers for journal publications and will share 
 
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Committees</h1>
                   <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
@@ -882,46 +1034,21 @@ We are also contacting other publishers for journal publications and will share 
                             <div class="row justify-content-center">
                               <div class="col-sm-12">
                                 <br>
-                                <h3 style="color:#EA4335;">Honorary Conference Chair</h3>
+                                <h3 style="color:#177731">Honorary Conference Chair</h3>
                                 <p>Prof. J.P. Saini, Director NSIT</p> 
                                 <br>
-                                <h3 style="color:#EA4335;">Members</h3>
-                                <ul class="list-group">
-                                  <li class="list-group-item">
-                                    Prof S.S. Mantha, All India Council for Technical Education
-                                  </li>
-                                  <li class="list-group-item">
-                                    Prof Sumit Dua, Louisiana Tech University, USA
-                                  </li>
-                                  <li class="list-group-item">
-                                    Prof Anshul Kumar, Indian Institute of Technology, Delhi
-                                  </li>
-                                  ​<li class="list-group-item">
-                                    Dr Anil Goel, Hana Data Platform, SAP, USA
-                                  </li>
-                                  <li class="list-group-item">
-                                    Prof K.K.Biswas, Indraprastha Institute of Information Technology,  New Delhi
-                                  </li>
-                                  <li class="list-group-item">
-                                    Prof Anjali Agarwal, Concordia University, Canada
-                                  </li>
-                                  <li class="list-group-item">
-                                    Prof Yenumula B. Reddy, Grambling State University, LA, USA
-                                  </li>
-                                  ​​<li class="list-group-item">
-                                    Prof Saroj Kaushik, Indian Institute of Technology Delhi
-                                  </li>
-                                  ​<li class="list-group-item">
-                                    Prof M. N. Hoda, BVICAM, New Delhi
-                                  </li>
-                                  <li class="list-group-item">
-                                    Prof M. P. Pooniya, All India Council for Technical Education
-                                  </li>
-                                  ​<li class="list-group-item">
-                                    Prof P. C. Saxena, Jawaharlal Nehru University
-                                  </li>
-  
-                                  </ul>   
+                                <h3 style="color:#177731"> Advisory Board Members</h3>` +
+      `<ul class="list-group">` +
+      `<li class="list-group-item">Prof S.S. Mantha, All India Council for Technical Education</li>`
+      + `<li class="list-group-item">Prof Sumit Dua, Louisiana Tech University, USA</li>`
+      + `<li class="list-group-item">Prof Anshul Kumar, Indian Institute of Technology-Delhi</li>` +
+      `<li class="list-group-item">Dr Anil Goel, Hana Data Platform, SAP, USA</li>`
+      + `<li class="list-group-item">Prof K.K.Biswas, Indraprastha Institute of Information Technology, New Delhi</li>`
+      + `<li class="list-group-item">Prof Anjali Agarwal, Concordia University, Canada</li>`
+      + '<li class="list-group-item">Prof Yenumula B. Reddy, Grambling State University, LA, USA</li>' + `<li class="list-group-item">Prof Saroj Kaushik, Indian Institute of Technology Delhi</li>` + '<li class="list-group-item">Prof M. N. Hoda, BVICAM, New Delhi</li>'
+      + '<li class="list-group-item">Prof M. P. Pooniya, All India Council for Technical Education</li>' + '<li class="list-group-item">Prof P. C. Saxena, Jawaharlal Nehru University</li>'
+      +
+      `</ul>                                                                    
                                 </div>
                               </div>
                             </div>
@@ -930,7 +1057,7 @@ We are also contacting other publishers for journal publications and will share 
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                   <br>
-                                  <h3 style="color:#EA4335;">Members</h3>
+                                  <h3 style="color:#177731">Members</h3>
                                   
                                   <ul class="list-group">
                                 <li class="list-group-item">Prof Pradeep Atrey, State University of New York, Albany, NY, USA</li>
@@ -965,7 +1092,7 @@ We are also contacting other publishers for journal publications and will share 
                                 <li class="list-group-item">Prof Jitender Kumar Chhabra, NIT Kurukshetra, India</li>
                                 <li class="list-group-item">Dr Sushil Kumar Azad, Delhi University, India</li>
                                 <li class="list-group-item">Dr Mona Mathur, Million Sparks Foundation, India</li>
-                                <li class="list-group-item">Mr Chetan Oberoi, CEO MphRx, India</li>
+                                <li class="list-group-item">Mr Chetan Uberoy, CEO MphRx, India</li>
                                 <li class="list-group-item">Dr Ritu Sibal, Netaji Subhas Inst of Technology, New Delhi, India</li>
                                 <li class="list-group-item">Dr Anand Gupta, Netaji Subhas Inst of Technology, New Delhi, India</li>
                                 <li class="list-group-item">Dr Dilip Kumar Yadav, NIT Jamshedpur, India</li>
@@ -1027,41 +1154,42 @@ We are also contacting other publishers for journal publications and will share 
                                 <div class="col-sm-12">
                                   
                
-                                   <h3 style=" color:#EA4335; padding-top:25px;">General Chair </h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">General Chair </h3>
                                    Shampa Chakraverty, NSIT
-                                   <br><br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Organizing Co-Chairs </h3>
+                                   <br>
+                                   <h3 style=" color:#177731; padding-top:25px;">Organizing Co-Chairs </h3>
                                    M. P. S. Bhatia, NSIT<br>
-                                    Ritu Sibal, NSIT<br><br>
-                                     <h3 style=" color:#EA4335; padding-top:25px;">TPC Co-Chairs</h3>
+                                    Ritu Sibal, NSIT<br>
+                                     <h3 style=" color:#177731; padding-top:25px;">TPC Co-Chairs</h3>
                                      Anil Kumar Goel, SAP, USA<br>
-                                    Sangeeta Sabharwal, NSIT<br><br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Publication Chair</h3>
-                                   Anand Gupta<br><br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Design Contest Co-Chair</h3>
+                                    Sangeeta Sabharwal, NSIT<br> 
+                                   <h3 style=" color:#177731; padding-top:25px;">Publication Chair</h3>
+                                   Anand Gupta<br>
+                                   <h3 style=" color:#177731; padding-top:25px;">Design Contest Chair</h3>
                                   Manusheel Gupta<br>
-                                   Manusheel Gupta<br><br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Workshop Chair</h3>
-                                      Prof Bijender Kumar<br><br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Industry Liaison Co-Chairs</h3>
-                                   Industry Liaison Co-Chairs<br>
-                                   Rajeev Kumar<br><br>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Sponsorship Chair</h3>
-                                   M.P.S. Bhatia<br><br>   
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Publicity Co-chairs</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Workshop Chair</h3>
+                                      Bijender Kumar<br>
+                                   <h3 style=" color:#177731; padding-top:25px;">Industry Liaison Co-Chairs</h3>
+                                   Satbir Jain<br>
+                                   Rajeev Kumar<br>
+                                   <h3 style=" color:#177731 ;padding-top:25px;">Sponsorship Chair</h3>
+                                   M.P.S. Bhatia<br>  
+                                   <h3 style=" color:#177731; padding-top:25px;">Publicity Co-chairs</h3>
                                     Savita Yadav<br>
                                    Poonam Rana
-                                   <br><br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Finance Chair</h3>
-                                  V.P. Ranjan<br><br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Website Chair</h3>
-                                   Khushil Saini<br><br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Hospitality Co-Chairs</h3>
+                                   <br>
+                                   <h3 style=" color:#177731 ;padding-top:25px;">Finance Chair</h3>
+                                  V.P. Ranjan<br> 
+                                   <h3 style=" color:#177731; padding-top:25px;">Website Chair</h3>
+                                   Khushil Saini<br>
+                                   Abhishek Faujdar<br> 
+                                   <h3 style=" color:#177731; padding-top:25px;">Hospitality Co-Chairs</h3>
                                    Preeti Kaur<br>
-                                   Aastha Singh
-                                   <br><br> 
-                                   <h3 style=" color:#EA4335; padding-top:25px;">Internal Arrangements Chair</h3>
-                                   Anil Arora<br><br>    
+                                   Veenu
+                                   <br> 
+                                   <h3 style=" color:#177731; padding-top:25px;">Internal Arrangement Co-Chairs</h3>
+                                   Anil Arora<br>
+                                   Aastha<br>    
                                                           
                                 </div>
                             </div>
@@ -1071,8 +1199,7 @@ We are also contacting other publishers for journal publications and will share 
                      
 
                 </div>
-            </div>
-`);
+            </div>`);
   });
 
   $('#sponsorButton').click(function () {
@@ -1081,13 +1208,35 @@ We are also contacting other publishers for journal publications and will share 
                 <div style="background-color: white; ">
 
                 <div style="padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                         SPONSORSHIP</h1>
+                        
+                        
+                    <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            
+                            <li class="nav-item">
 
-                    <div class="overview-description"
+                                <a class="nav-link nav-style a-style active" data-toggle="tab" href="#sponsTab">SPONSORSHIP</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#brochureTab">BROCHURE</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#packagesTab">PACKAGES</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                      
+                        <div class="tab-pane fade show active" id="sponsTab" role="tabpanel">
+                          <div class="row justify-content-center">
+                            <div class="col-sm-12">
+                              <div class="overview-description"
                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                         <span style="color: black; font-size: 14pt;"><br></span>
-                        <span style="color: black; font-size: 14pt;">
+                        <span style="color: black; font-size: 14pt;     font-family: 'Raleway', sans-serif">
                             Dear Technology Leader, <br/><br/>
 In the ongoing saga of the digital revolution, the new mantra - Extend and Adapt,  has produced ripples of excitement in the industry and academia! Indeed, there is a fresh lease of energy enthusing technology drivers as they take every possible step to equip more and more people with the technological means to take new initiatives and learn continuously, to reach out and connect, and to realize their full potential at all times. And thereby, stands the fresh challenge for today - build applications and systems that recognize this core element of change - in requirements, data, surrounding context and user preferences; and adapt to the change gracefully, seamlessly.<br/><br/>
 The International Conference Towards Extensible and Adaptable Methods in Computing -TEAMC-2018, aims to bring together professionals and students from all parts of the globe on a common platform to address different aspects of this very challenge of creating extensible and adaptable systems and applications:<br/><br/>
@@ -1096,22 +1245,22 @@ The International Conference Towards Extensible and Adaptable Methods in Computi
                     </div>
 
                     <ul class="sponsorshipList">
-                        <li>There is an ever-exploding nebula of data in the cyberspace that must crystallize into
+                        <li style="    font-family: 'Raleway', sans-serif">There is an ever-exploding nebula of data in the cyberspace that must crystallize into
                             meaningful compendiums of knowledge backing myriad applications.
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Software development processes must be flexible enough to adapt quickly to the changing
                             expectations and scales of businesses.
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Applications such as e-learning must offer personalized features and adapt to the changing
                             preferences and capabilities of users.
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             The web, rife with textual and multimedia content, must be harnessed to gather cogent
                             information.
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Indeed, the world of computing must evolve and learn to sync with human intelligence.
                         </li>
                     </ul>
@@ -1119,29 +1268,29 @@ The International Conference Towards Extensible and Adaptable Methods in Computi
                     <div class="overview-description"
                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                         <span style="color: black; font-size: 14pt;"><br></span>
-                        <span style="color: black; font-size: 14pt;">
+                        <span style="color: black; font-size: 14pt;font-family: 'Raleway', sans-serif">
                             TEAMC-2018 will be hosted by Netaji Subhas Institute of Technology, a premier seat of higher learning in technology that attracts the best students to pursue its UG, PG and Doctoral programs. It is spread over a beautifully landscaped campus of 145 acres that houses all facilities to create an excellent academic environment. The committee of professionals dedicated towards the conference is striving to achieve a high quality technical program with Tracks on <b>Data management, Agile software development, Web intelligence, Computing in education, and Machine learning.</b> It will feature the following components:
                         <br/><br/>
                         </span>
                     </div>
 
                     <ul class="sponsorshipList">
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Regular Technical Sessions
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Keynote speeches
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Workshops
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Panel discussions
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Design contest
                         </li>
-                        <li>
+                        <li style="    font-family: 'Raleway', sans-serif">
                             Exhibits
                         </li>
                     </ul>
@@ -1149,7 +1298,7 @@ The International Conference Towards Extensible and Adaptable Methods in Computi
                     <div class="overview-description"
                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                         <span style="color: black; font-size: 14pt;"><br></span>
-                        <span style="color: black; font-size: 14pt;">
+                        <span style="color: black; font-size: 14pt; font-family: 'Raleway', sans-serif">
                             As a spearheading force in the industry driving forward this revolution, TEAMC-2018 provides just the right platform and visibility to showcase your company, its vision and its technological offerings to a wide spectrum of professionals. Your participation will give an opportunity to nurture the talent pool and spur a collaborative atmosphere necessary for progress.<br/><br/>
 Kindly see the various sponsorship packages and offers and give us an opportunity to collaborate on this initiative and work together for its success right from the outset.<br/><br/>
 Yours sincerely<br/><br/>
@@ -1160,11 +1309,42 @@ Finance Chair<br/><br/>
                         </span>
                     </div>
 
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.1;margin-bottom: 15px;font-size: 22px;text-transform: uppercase;">
-                        For detailed information, <a href="http://www.nsit.ac.in/sponsorships">please see here.</a>
-                    </h1>
+                    
 
-                </div>
+                </div>                                                   
+                            </div>
+                          </div>
+
+                       
+                        <div class="tab-pane fade" id="brochureTab" role="tabpanel">
+                          <div class="row justify-content-center">
+                            <div class="col-sm-12">
+                              
+                              <br>
+                              <a href="https://www.dropbox.com/s/ng8ak1jq39lg38l/Brochure.pdf" target="_blank">
+                        Please click here for the Brochure.</a>
+                              
+                            </div>
+                          </div>
+                        </div>
+                        
+                    
+                     
+                       
+                        <div class="tab-pane fade" id="packagesTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                <br>
+                                <a href="http://www.nsit.ac.in/static/images/TEAMC2018/sponsorship%20packages%20without%20items.pdf" target="_blank">
+                                Please click here for the Packages.
+                                </a>
+                                </div>
+                            </div>
+                        </div>    
+                        
+                    <div>
+                        
+                    
             </div>
 `);
   });
@@ -1178,7 +1358,7 @@ Finance Chair<br/><br/>
         <div style="background-color: white;width: 100%;">
 
                 <div style="width: 100%; padding: 30px; font-size: 14pt; color: black">
-                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#EA4335; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Information</h1>
                   <div style="padding: 0; width: 100%">
                         <ul class="nav nav-tabs nav-justified " role="tablist">
@@ -1203,32 +1383,32 @@ Finance Chair<br/><br/>
                             <div class="row justify-content-center">
                                 <div class="col-sm-12" style="color : black;">
                                     <br>
-                                    <h3 style=" color:#EA4335;"> Website </h3>
-                                    www.nsit.ac.in/TEAMC2018
+                                    <h3 style=" color:#177731;"> Website </h3>
+                                    <a href="http://www.teamc18.com">www.teamc18.com</a>
                                     <br>
                                     Email Id- teamc2018@nsit.ac.in
                                     <div>
                                        
-                                      <h3 style=" color:#EA4335; padding-top:25px;"> General Chair </h3>
+                                      <h3 style=" color:#177731; padding-top:25px;"> General Chair </h3>
                                        
                                         <div class="row"">
                                             <div class="col" style="color: black; font-size: 18px">
-                                             <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Prof Shampa Chakraverty</b> </span>  <br>
+                                             <span style="color:#002060; font-family:Lato, sans-serif;"> <b>Prof Shampa Chakraverty</b> </span>  <br>
                                                 Mobile: 9205475009<br>
-                                                Email: apmahs.nsit@nsit.ac.in<br>
+                                                Email: shampa@nsit.ac.in<br>
                                             </div>
                                         </div>
                                         
                                         
-                                         <h3 style=" color:#EA4335; padding-top:25px;"> Organizing Co-Chairs </h3>
+                                         <h3 style=" color:#177731; padding-top:25px;"> Organizing Co-Chairs </h3>
                                         <div class="row">
                                             <div class="col" style="color: black; font-size: 18px">
-                                               <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Prof MPS Bhatia</b> </span>  <br>
+                                               <span style="color:#002060; font-family:Lato, sans-serif;"> <b>Prof MPS Bhatia</b> </span>  <br>
                                                 Mobile: 9205475008<br>
                                                 Email: bhatia.mps@gmail.com<br>
                                             </div>
                                             <div class="col" style="color: black; font-size: 18px">
-                                               <span style="color:#177731; font-family:Lato, sans-serif;"> <b>Dr. Ritu Sibal</b> </span>  <br>
+                                               <span style="color:#002060; font-family:Lato, sans-serif;"> <b>Dr. Ritu Sibal</b> </span>  <br>
                                                 Mobile: 9871598390<br>
                                                 Email: ritusib@hotmail.com<br>
                                             </div>                                        </div>
@@ -1256,21 +1436,21 @@ Finance Chair<br/><br/>
                                      5-10 minutes drive from the venue.
                                       Online Taxi services are available round the clock. 
                                       You can also search for other options using global search sites like 
-                                      <a href="https://www.tripadvisor.in/"> Tripadvisor.com</a> and 
-                                      <a href="https://www.booking.com/">Booking.com</a>. 
+                                      <a href="https://www.tripadvisor.in/" target="_blank"> Tripadvisor.com</a> and 
+                                      <a href="https://www.booking.com/" target="_blank">Booking.com</a>. 
                                   
                                    </p>
                                    
                                    <p>
                                     Some of the accommodation options in Dwarka are:<br>
                                     <span style="color:#177731; "> <b>5 Star Hotels:</b></span>
-                                    Radisson Blu, Welcome Hotel, Vivanta by Taj
+                                    <a href="https://www.radissonblu.com/en/hotel-newdelhidwarka">Radisson Blu</a>, <a href="https://www.itchotels.in/hotels/new-delhi/welcomhoteldwarka.html">Welcome Hotel</a>, <a href="https://vivanta.tajhotels.com/en-in/dwarka-new-delhi/">Vivanta by Taj</a>
                                     <br>
                                     <span style="color:#177731; "><b> Budget Hotels:</b></span>
-                                    Shhaurya Hotel, La Wisteria Hotel, Royal Star Hotel
+                                    <a href="http://www.lawisteria.com/index.php">La Wisteria Hotel</a>, <a href="http://www.hotelroyalstar.com/">Royal Star Hotel</a>
                                    </p>
                                    <p>
-                                    <h3 style=" color:#EA4335; padding-top:25px;"> On Campus </h3>
+                                    <h3 style=" color:#177731; padding-top:25px;"> On Campus </h3>
                                     <ul>
                                       <li>
                                       Limited number of hostel rooms can be made available upon request on single/double sharing, chargeable and first-come-first-served basis.
@@ -1295,15 +1475,16 @@ Finance Chair<br/><br/>
                             <div class="row justify-content-center">
                                 <div class="col-sm-12">
                                    <p>
-                                   <h3 style=" color:#EA4335; padding-top:25px;"> Venue </h3>
-                                   <address style="font-style: italic">Netaji Subhas Institute of Technology
+                                   <h3 style=" color:#177731; padding-top:25px;"> Venue </h3>
+                                   <address>Netaji Subhas Institute of Technology,
+                                   <br> Azad Hind Fauz Marg,
                                    <br> Dwarka, Sector 3
                                    <br> New Delhi - 110078<br> India.</address>       
                                    </p> 
                                    
                                    
                                    <p>
-                                     <h3 style=" color:#EA4335; padding-top:25px;"> About NSIT </h3>
+                                     <h3 style=" color:#177731; padding-top:25px;"> About NSIT </h3>
                                      An autonomous institution under Govt. of NCT of Delhi and affiliated to University of Delhi,
                                       Netaji Subhas Institute of Technology is a reputed seat of higher education in India.
                                        Over a period of time, the institute has carved a niche for itself, both nationally and internationally, 
@@ -1318,7 +1499,7 @@ Finance Chair<br/><br/>
                                    
                                    
                                    <p>
-                                   <h3 style=" color:#EA4335; padding-top:25px;"> About Delhi </h3>
+                                   <h3 style=" color:#177731; padding-top:25px;"> About Delhi </h3>
                                    Delhi is not just a city – it is a universe of its own. Churned by a rich tapestry of historical 
                                    events, Delhi vibrates today with cultures of diverse hues, architectural masterpieces, lush green
                                     landscapes and lively hubs of eclectic activities. <br>
@@ -1343,7 +1524,7 @@ Finance Chair<br/><br/>
                                 <div class="col-sm-12">
                                   
                                   <p>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">By Air </h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">By Air </h3>
                                    Indira Gandhi International Airport (IGI) in Delhi serves both domestic and international
                                     flights. There are frequent flights to Delhi from all metro cities. Situated in Palam, the
                                      airport is about 20 kilometers away from the NSIT. While there are regular Delhi Transport 
@@ -1353,11 +1534,11 @@ Finance Chair<br/><br/>
                                        taxis can also be hired from the taxi counters at the airport to reach the venue.
                                     </p>
                                     <p>
-                                   <h3 style=" color:#EA4335; padding-top:25px;">By Train </h3> 
+                                   <h3 style=" color:#177731; padding-top:25px;">By Train </h3> 
                                    The capital city Delhi is primarily served by four railway stations—New Delhi Railway Station (NDLS),
                                     Old Delhi Railway Station (DLI), Hazrat Nizamuddin Railway Station (NZM) and Anand Vihar Railway Terminal (ANVT). 
                                     All railway stations are well connected by metro stations and DTC buses to the venue. For more information visit   
-                                    <a href="http://www.delhimetrorail.com/"> Delhi metro website </a>.
+                                    <a href="http://www.delhimetrorail.com/" target="_blank"> Delhi metro website </a>.
                                     </p>                          
                                 </div>
                             </div>
@@ -1379,3 +1560,7 @@ Finance Chair<br/><br/>
   });
 
 });
+
+//<h3 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 18px;text-transform: uppercase;">
+//     *CSI, ACM and IEEE Members will be given a discount of 15%
+// </h3>

@@ -210,14 +210,15 @@ html, body {
 }
 
 .important-date-description {
-    font-size: 14px;
-    color: #777;
+    font-size: 20px;
+    color: #222;
     margin-bottom: 4px;
 }
 
 .important-date {
     color: blue;
     display: block;
+    font-size: 20px;
 }
 
 div.carousel-item > img {
@@ -273,15 +274,12 @@ ul.list-group > li {
 }
 
 .nav-tabs .nav-link {
-    border: 0;
-!important;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
-!important;
+    border: 0!important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15)!important;
 }
 
 .nav-tabs .nav-link.active {
-    border: 0;
-!important;
+    border: 0!important;
 
     border-bottom: 2px solid;
     border-bottom-color: #1485E8;
