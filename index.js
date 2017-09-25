@@ -588,7 +588,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             At least one of the authors of each accepted paper must register by paying the full registration fee as applicable for the author, on or before the deadline for camera ready submission.
                             </span><br><br>
                             <span style="color: black; font-size: 14pt;">
-                                            Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
+                                            Please register at this <a href="#">Registration Link.(to be opened soon)</a>
                                     </div>
                                 </div>
                             </div>
@@ -675,7 +675,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Please register at this <a href="http://nsit.ac.in/TEAMC/Registration">Registration Link.</a>
+                                            Please register at this <a href="#">Registration Link.(to be opened soon)</a>
 <br/><br/>
 <span style="color: black; font-size: 14pt;">Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> <br>
 <span style="color: black; font-size: 14pt;">If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> <br>
@@ -696,7 +696,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">Only registered authors who have paid the full registration fees will be provided VISA  letters upon request.</span>
                                          <br><br>
-                                         <span style="color: black; font-size: 14pt;">After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018registration@nsit.ac.in.</span>
+                                         <span style="color: black; font-size: 14pt;">After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018@nsit.ac.in.</span>
 <br/><br/>
 <span style="color: black; font-size: 14pt;"> The registration fee will be refunded if VISA is denied by the embassy.
 
@@ -799,7 +799,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Students must submit a scanned copy of their Institute identity card at the time of registration and produce their original Identity card and a bonafide certificate from the Head of Institution/Department upon arrival at the conference reception desk.
+                                            Students must submit a scanned copy of their Institute identity card at the time of registration. They must produce their original identity card upon arrival.
                             </span>
                                     </div>
                                 </div>
@@ -1110,7 +1110,7 @@ Finance Chair<br/><br/>
                     </div>
 
                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.1;margin-bottom: 15px;font-size: 22px;text-transform: uppercase;">
-                        For detailed information, <a href="http://www.nsit.ac.in/sponsorships">please see here.</a>
+                        For detailed information, <a href="http://www.nsit.ac.in/static/images/TEAMC2018/sponsorship%20packages%20without%20items.pdf" target="_blank">please see here.</a>
                     </h1>
 
                 </div>
@@ -1307,7 +1307,7 @@ Finance Chair<br/><br/>
                                    The capital city Delhi is primarily served by four railway stations—New Delhi Railway Station (NDLS),
                                     Old Delhi Railway Station (DLI), Hazrat Nizamuddin Railway Station (NZM) and Anand Vihar Railway Terminal (ANVT). 
                                     All railway stations are well connected by metro stations and DTC buses to the venue. For more information visit   
-                                    <a href="http://www.delhimetrorail.com/"> Delhi metro website </a>.
+                                    <a href="http://www.delhimetrorail.com/" target="_blank"> Delhi metro website </a>.
                                     </p>                          
                                 </div>
                             </div>
