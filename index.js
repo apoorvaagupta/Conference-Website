@@ -812,6 +812,184 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
 `);
   });
 
+  $('#reg2button').click(function () {
+    mainWrapper.empty();
+    mainWrapper.append(`            
+    <div style="background-color: white; ">
+
+                <div style="padding: 30px; font-size: 14pt; color: black">
+                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                        REGISTRATION</h1>
+
+                    <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active nav-style a-style pl-0 pr-0" data-toggle="tab"
+                                   href="#onlineRegistrationTab">&nbsp;&nbsp; ONLINE &nbsp;&nbsp;&nbsp;&nbsp;
+                                    REGISTRATION</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#visaSupportTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    VISA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SUPPORT</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab"
+                                   href="#registrationFeesTab">&nbsp;&nbsp; REGISTRATION &nbsp; FEES</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#studentRegistrationTab">
+                                    STUDENT
+                                    REGISTRATION</a>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                        <div class="tab-pane fade show active" id="onlineRegistrationTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12 col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
+                                        <span style="color: black; font-size: 14pt;"><br></span>
+                                        <span style="color: black; font-size: 14pt;">
+                                            Please register at this <a href="#">Registration Link.(to be opened soon)</a>
+<br/><br/>
+<span style="color: black; font-size: 14pt;">Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> <br>
+<span style="color: black; font-size: 14pt;">If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> <br>
+<span style="color: black; font-size: 14pt;">Each article will be assigned a Paper ID upon submission which must be quoted at the time of registration.</span><br>
+<br>
+<span style="color: black; font-size: 14pt;">The conference registration covers conference proceedings, conference kit, admission to all workshops, coffee breaks, and lunch. The registration doesn’t cover accommodation, travel costs etc
+
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="visaSupportTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12 col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: black; font-size: 14pt;"><br></span>
+                                        <span style="color: black; font-size: 14pt;">Only registered authors who have paid the full registration fees will be provided VISA  letters upon request.</span>
+                                         <br><br>
+                                         <span style="color: black; font-size: 14pt;">After completing the registration process, please send your request for VISA letter, quoting the registered paper ID, the paper title, the complete list of authors and the track under which the paper is accepted to teamc2018@nsit.ac.in.</span>
+<br/><br/>
+<span style="color: black; font-size: 14pt;"> The registration fee will be refunded if VISA is denied by the embassy.
+
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="registrationFeesTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12 col-md-10 pt-4 text-center">
+                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #177731;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
+                                        Registration fees for Indian delegates
+                                    </h1>
+                                    <table class="table table-bordered table-responsive">
+                                        <thead class="thead-default">
+                                        <tr>
+                                            <th>Delegate Category</th>
+                                            <th>Early Bird</th>
+                                            <th>Standard</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <th scope="row">Faculty/Industry authors</th>
+                                            <td>Rs 6000</td>
+                                            <td>Rs 7000</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Students</th>
+                                            <td>
+                                                Rs 4000
+                                            </td>
+                                            <td>
+                                                Rs 5000
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Others</th>
+                                            <td>
+                                                Rs 4000
+                                            </td>
+                                            <td>
+                                                Rs 5000
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="col-sm-12 col-md-10 pt-4 text-center">
+                                    <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #177731;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
+                                        Registration fees for Foreign delegates
+                                    </h1>
+                                    <table class="table table-bordered table-responsive">
+                                        <thead class="thead-default">
+                                        <tr>
+                                            <th>Delegate Category</th>
+                                            <th>Early Bird</th>
+                                            <th>Standard</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <th scope="row">Faculty/Industry authors</th>
+                                            <td>
+                                                $300
+                                            </td>
+                                            <td>
+                                                $350
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Students</th>
+                                            <td>
+                                                $250
+                                            </td>
+                                            <td>
+                                                $300
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Others</th>
+                                            <td>
+                                                $250
+                                            </td>
+                                            <td>
+                                                $300
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                               
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12 col-md-10">
+                                    <div class="overview-description"
+                                         style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                                        <span style="color: black; font-size: 14pt;"><br></span>
+                                        <span style="color: black; font-size: 14pt;">
+                                            Students must submit a scanned copy of their Institute identity card at the time of registration. They must produce their original identity card upon arrival.
+                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+`);
+  });
+
   $('#programButton').click(function () {
     mainWrapper.empty();
     mainWrapper.append(`<div style="background-color: white;"><div style="padding: 30px; font-size: 14pt; color: black">`+
