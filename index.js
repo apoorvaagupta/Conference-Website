@@ -307,7 +307,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <p style="color: #002060">Track Co-chairs</p>
                                         <div class="row text-center">
                                             <div class="col" style="color: #333; font-size: 18px">
-                                                <b>Prof Sumit Dua</b><br>
+                                                <b>Prof Sumeet Dua</b><br>
                                                 Louisiana Tech. University<br>
                                                 United States of America<br>
                                             </div>
@@ -552,7 +552,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <div class="overview-description"
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <br>
-                                        <span style="color: black; font-size: 14pt;">We welcome full-length paper submissions of maximum 12 pages in the CCIS one-column page format. Short papers of at most 8 pages will also be considered.</span>
+                                        <span style="color: black; font-size: 14pt;">We welcome full-length paper submissions of 12-14 pages in the CCIS one-column page format. Short papers of 6-8 pages will also be considered.</span>
                                         <br><br>
                                           <span style="color: black; font-size: 14pt;">Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899" target="_blank"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
                                                  <br><span style="color: black; font-size: 14pt;">Submissions will be accepted through <a
@@ -614,7 +614,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <h3 style="padding-bottom: 10px; color:#177731;"> Publication</h3>
                                         <span style="color: black; font-size: 14pt;">
-                                           The best among peer reviewed and accepted papers of the conference will be published in the prestigious, top level Springer Communication of Computer and Information Science (CCIS) book series. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
+                                           The top accepted papers will be submitted for publication in the prestigious Springer Communication of Computer and Information Science (CCIS) book series. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
 <br>We will share ongoing developments on publishing extended versions of accepted papers in reputed journals.
                             </span><br><br>
                             <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
@@ -1040,7 +1040,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                 <h3 style="color:#177731"> Advisory Board Members</h3>` +
       `<ul class="list-group">` +
       `<li class="list-group-item">Prof S.S. Mantha, All India Council for Technical Education</li>`
-      + `<li class="list-group-item">Prof Sumit Dua, Louisiana Tech University, USA</li>`
+      + `<li class="list-group-item">Prof Sumeet Dua, Louisiana Tech University, USA</li>`
       + `<li class="list-group-item">Prof Anshul Kumar, Indian Institute of Technology-Delhi</li>` +
       `<li class="list-group-item">Dr Anil Goel, Hana Data Platform, SAP, USA</li>`
       + `<li class="list-group-item">Prof K.K.Biswas, Indraprastha Institute of Information Technology, New Delhi</li>`
@@ -1138,6 +1138,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                 <li class="list-group-item">Dr Shruti Garg, BIT MESRA, Ranchi, India</li>
                                 <li class="list-group-item">Dr Sangeeta Srivastava, Bhaskaracharya College of Applied Sciences, India</li>
                                 <li class="list-group-item">Dr Savita Gupta, UIET, Punjab University, India</li>
+                                <li class="list-group-item">Dr Michael Opoku Agyaman, University of Northampton, UK</li>
+                                <li class="list-group-item">Mohamed Mostafa Eltaweel, AASTMT, Helwan Univ. Cairo, Egypt</li>
 
                                   </ul>
                                   
