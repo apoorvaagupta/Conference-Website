@@ -268,13 +268,13 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             </li>
                                             <li class="list-group-item">Agile Project Management
                                             </li>
+                                            <li class="list-group-item">Design and use of games in ASD
+                                            </li>
                                             <li class="list-group-item">Agile Methodologies For web Development
                                             </li>
                                             <li class="list-group-item">Agile Methodologies For Developing Embedded Software
                                             </li>
-                                            <li class="list-group-item">Design And Architectural Patterns
-                                            </li>
-                                            <li class="list-group-item">Aspect Oriented Programming
+                                            <li class="list-group-item">Design and architectural patterns as applicable to ASD 
                                             </li>
                                             <li class="list-group-item">Agile Model Driven Design
                                             </li>
@@ -291,6 +291,8 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             <li class="list-group-item">Software Metrics For Agile Projects, Agile Processes, Agile Teams
                                             </li>
                                             <li class="list-group-item">Agile Methods In Education, Pedagogy And Research
+                                            </li>
+                                            <li class="list-group-item">Application of agile in non software domains
                                             </li>
 
                                         </ul>
