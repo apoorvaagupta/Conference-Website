@@ -1323,7 +1323,7 @@ Finance Chair<br/><br/>
                             <div class="col-sm-12">
                               
                               <br>
-                              <a href="https://www.dropbox.com/s/ng8ak1jq39lg38l/Brochure.pdf" target="_blank">
+                              <a href="https://drive.google.com/file/d/0Byw1iy4lyiGYdnJyUkZGSDVCeVk/view?usp=drivesdk" target="_blank">
                         Please click here for the Brochure.</a>
                               
                             </div>
