@@ -340,8 +340,6 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             </li>
                                             <li class="list-group-item">Adaptable Data Security
                                             </li>
-                                            
-
                                         </ul>
                                     </div>
                                 </div>
