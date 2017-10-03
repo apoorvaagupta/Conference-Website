@@ -63,7 +63,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                     <b style="color: #002060;">Web Intelligence</b>
                                 </li>
                                 <li class="list-group-item">
-                                    <b style="color: #002060;">Computing for Education</b>
+                                    <b style="color: #002060;">Computing in Education</b>
                                 </li>
                                 <li class="list-group-item">
                                     <b style="color: #002060;">Machine Learning</b>
