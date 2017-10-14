@@ -616,7 +616,8 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <h3 style="padding-bottom: 10px; color:#177731;"> Publication</h3>
                                         <span style="color: black; font-size: 14pt;">
-                                           The top accepted papers will be submitted for publication in the prestigious Springer Communication of Computer and Information Science (CCIS) book series. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
+                                        TEAMC has received conditional acceptance from Springer's prestigous Communications in Computer and Information Science Conference proceedings series.<br>
+                                           The top accepted papers will be published as post-conference proceedings in Springer CCIS book series(subject to approval). The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
 <br>We will share ongoing developments on publishing extended versions of accepted papers in reputed journals.
                             </span><br><br>
                             <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
