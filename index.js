@@ -25,7 +25,7 @@ $(document).ready(function () {
                             &nbsp; &nbsp; &nbsp; &nbsp; <span
                                 style="background-color: white; color: black; font-size: 14pt;"><img src="images/springer-logo.jpg" height="50px">&nbsp;&nbsp;Welcome to the &nbsp;&nbsp;<img src="images/ccis_logo.png" height="50px"></span><br><b
                                 style="background-color: white; color: black; font-size: 14pt;"><span
-                                style="color: #385623; font-size: 15pt;">2018 Springer International Conference <br> Towards Extensible and Adaptable Methods in Computing <br> TEAMC 2018 </span></b>
+                                style="color: #385623; font-size: 15pt;">2018 International Conference <br> Towards Extensible and Adaptable Methods in Computing <br> TEAMC 2018 </span></b>
                             <!--<b style="background-color: white; color: black; font-size: 14pt;"></b><span-->
                                 <!--style="background-color: white; color: black; font-size: 14pt;">&nbsp; <br> organized by&nbsp;</span>-->
                         </div>
