@@ -296,9 +296,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             </li>
 
                                         </ul>
-                                        <br>
-                                         <a href="https://www.dropbox.com/s/m6bomwtp9bx4ywk/CFPASD.docx%20.pdf?dl=0" target="_blank">Click here for call for papers</a>
-                                    </div>
+                                        </div>
                                 
                                 </div>
                             </div>
@@ -346,9 +344,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             <li class="list-group-item">Adaptable Data Security
                                             </li>
                                         </ul>
-                                        <br>
-                                         <a href="https://www.dropbox.com/s/plfqlv9x7m57jz1/CFP-Data%20Management.doc.pdf?dl=0" target="_blank">Click here for call for papers</a>
-                                    </div>
+                                       </div>
                                 </div>
                             </div>
                         </div>
@@ -404,9 +400,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             </li>
 
                                         </ul>
-                                        <br>
-                                         <a href="https://www.dropbox.com/s/3hvt4qn7pbtf05t/CFP-WI.docx.pdf?dl=0" target="_blank">Click here for call for papers</a>
-                                    </div>
+                                        </div>
                                 </div>
                             </div>
                         </div>
@@ -453,9 +447,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             </li>
 
                                         </ul>
-                                        <br>
-                                         <a href="https://www.dropbox.com/s/0xpy4um26szjl6h/CFP_CE.docx%20.pdf?dl=0" target="_blank">Click here for call for papers</a>
-                                    </div>
+                                       </div>
                                 </div>
                             </div>
                         </div>
@@ -508,9 +500,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                             </li>
 
                                         </ul>
-                                        <br>
-                                         <a href="https://www.dropbox.com/s/0ayp3p7s1295vid/CFP_ML.docx.pdf?dl=0" target="_blank">Click here for call for papers</a>
-                                    </div>
+                                        </div>
                                 </div>
                             </div>
                         </div>
