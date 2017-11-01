@@ -75,7 +75,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                              style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                             <span style="color: black; font-size: 14pt;"><br></span>
                             <span style="color: black; font-size: 14pt;">
-                            The conference will feature regular technical sessions, keynote speeches, workshops, panel discussions and a Hackathon/Design contest.
+                            The conference will feature regular technical sessions, keynote speeches,Indutry and PhD forums, workshops, panel discussions and a Hackathon/Design contest.
                             </span>
                         </div>
 
@@ -558,7 +558,9 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                           <span style="color: black; font-size: 14pt;">Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899" target="_blank"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
                                                  <br><span style="color: black; font-size: 14pt;">Submissions will be accepted through <a
                                                 href="https://ocs.springer.com/ocs/" target="_blank"> Springer Online Conference Service (OCS).</a>
-                            </span>
+                            </span><br><br>
+                            <span style="color: black; font-size: 14pt;">For the Industry and PhD forums, we invite poster papers of maximum 6 pages, describing ongoing developments / technology insights  in the industry and works in progress. Accepted papers in this category will be published in the Conference Proceedings with ISBN. </span>
+                                        <br><br>
                                     </div>
                                 </div>
                             </div>
@@ -616,7 +618,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <h3 style="padding-bottom: 10px; color:#177731;"> Publication</h3>
                                         <span style="color: black; font-size: 14pt;">
                                         TEAMC has received conditional acceptance from Springer's prestigous Communications in Computer and Information Science Conference proceedings series.<br>
-                                           The top accepted papers will be published as post-conference proceedings in Springer CCIS book series(subject to approval). The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
+                                           The top accepted papers among full-length and short papers pages will be published as post-conference proceedings in Springer CCIS book series. The remaining accepted papers full-length, short and poster papers will be published in the Conference Proceedings with ISBN.  
 <br>We will share ongoing developments on publishing extended versions of accepted papers in reputed journals.
                             </span><br><br>
                             <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
@@ -791,7 +793,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         </tbody>
                                     </table>
                                 </div>
-                               
+                               <span style="color: red">* CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.</span>
                             </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
@@ -969,7 +971,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         </tbody>
                                     </table>
                                 </div>
-                               
+                               * CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.
                             </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
@@ -1564,6 +1566,7 @@ Finance Chair<br/><br/>
   });
 
 });
+
 
 //<h3 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 18px;text-transform: uppercase;">
 //     *CSI, ACM and IEEE Members will be given a discount of 15%
