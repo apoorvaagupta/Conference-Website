@@ -623,7 +623,7 @@ Extensible and adaptable computing refers to the array of methods and techniques
                             </span><br><br>
                             <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
                                         <span style="color: black; font-size: 14pt;">
-                                           The CCIS book series is devoted to the publication of proceedings of computer science conferences. It is abstracted/indexed in DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, Scopus. Furthermore, CCIS is a LNCS Satellite series. As such it  is closely related to the Lecture Notes in Computer Science book series which are at top level and disseminated in both printed and electronic form.<br>
+                                           The CCIS book series is abstracted/indexed in DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, Scopus. CCIS is a LNCS Satellite series. 
 The H-Index of CCIS is 29.<br>
 For more details on Springer CCIS Series, see <br><a target="_blank" href="http://www.springer.com/series/7899"> http://www.springer.com/series/7899</a>
                             </span>
@@ -1066,87 +1066,143 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                   <h3 style="color:#177731">Members</h3>
                                   
                                   <ul class="list-group">
-                                <li class="list-group-item">Prof Pradeep Atrey, State University of New York, Albany, NY, USA</li>
-                                <li class="list-group-item">Dr Bindu Chandna, MITRE, Greater Boston Area, USA</li>
-                                <li class="list-group-item">Prof Sanjay Misra, Covenant University, OTA, Nigeria</li>
-                                <li class="list-group-item">Dr Rashina Hoda, University of Auckland, New Zealand</li>
-                                <li class="list-group-item">Prof Sonajharia Minz, Jawahar Lal University, India</li>
-                                <li class="list-group-item">Dr Atul Jain, Texas Instruments, Dallas, USA</li>
-                                <li class="list-group-item">Dr H.M.N. Dilum Bandara,University of Moratuwa, Sri lanka</li>
-                                <li class="list-group-item">Dr Rajiv Jain, Wells Fargo, USA</li>
-                                <li class="list-group-item">Ms Rashmi Dravid, University of Northampton, UK</li>
-                                <li class="list-group-item">Mr Animesh Mishra, Intel Corp., San Francisco Bay Area, USA</li>
-                                <li class="list-group-item">Dr Krishnan Seetharaman, University of Massachusetts Lowell, USA</li>
-                                <li class="list-group-item">Dr Lalit Garg, University of Malta, Malta</li>
-                                <li class="list-group-item">Dr Himanshu Bhatnagar, HB Software Solutions, USA</li>
-                                <li class="list-group-item">Prof K.K.Biswas, Indraprastha Institute of Information Technology,  New Delhi, India</li>
-                                <li class="list-group-item">Mr Vaibhav Mittal, Facebook USA</li>
-                                <li class="list-group-item">Ms Rakshita, Microsoft, USA</li>
-                                <li class="list-group-item">Prof Poonam Bedi, Delhi University, India</li>
-                                <li class="list-group-item">Ms Monadhika, Pinterest, USA</li>
-                                <li class="list-group-item">Prof Anjana Gosain, Guru Govind Indrapratstha Univ, India</li>
-                                <li class="list-group-item">Dr Anil Kumar, Samsung, India</li>
-                                <li class="list-group-item">Prof M.P.S. Bhatia, Netaji Subhas Institute of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Prof Manoj Gaur, Indian Institute of Technology-Jammu, India</li>
-                                <li class="list-group-item">Prof Sangeeta Sabharwal, Netaji Subhas Inst of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Prof Daya Gupta, Delhi Technical University, India</li>
-                                <li class="list-group-item">Prof B.K. Singh, Netaji Subhas Institute of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Prof Satbir Jain, Netaji Subhas Institute of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Dr Anubhav Mathur, Million Sparks Foundation, India</li>
-                                <li class="list-group-item">Dr Naveen Kumar, Delhi University, India</li>
-                                <li class="list-group-item">Dr Syed Akhtar Hossain, Daffodil University, Bangladesh, India</li>
-                                <li class="list-group-item">Prof Jitender Kumar Chhabra, NIT Kurukshetra, India</li>
-                                <li class="list-group-item">Dr Sushil Kumar Azad, Delhi University, India</li>
-                                <li class="list-group-item">Dr Mona Mathur, Million Sparks Foundation, India</li>
-                                <li class="list-group-item">Mr Chetan Uberoy, CEO MphRx, India</li>
-                                <li class="list-group-item">Dr Ritu Sibal, Netaji Subhas Inst of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Dr Anand Gupta, Netaji Subhas Inst of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Dr Dilip Kumar Yadav, NIT Jamshedpur, India</li>
-                                <li class="list-group-item">Dr Sushma Nagpal, Netaji Subhas Institute of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Prof Tarun Kumar Singhal, Symbiosis, India</li>
-                                <li class="list-group-item">Dr Swati Agarwal, Netaji Subhas Institute of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Dr Suresh P.V., Indira Ganghi National Open University , India</li>
-                                <li class="list-group-item">Dr Pinaki Chakrabarti, Netaji Subhas Institute of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Prof Amit Prakash, Guru Govind Indrapratstha Univ, India</li>
-                                <li class="list-group-item">Dr Vasudha Bhatnagar, Delhi University, India</li>
-                                <li class="list-group-item">Prof Lalit Sensharma, Jammu University, India</li>
-                                <li class="list-group-item">Prof Goldie Gabrani, BML, Munjal University, India</li>
-                                <li class="list-group-item">Prof S.K. Dhurandhar, Netaji Subhas Inst of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Dr Vikash Mashelkar, Netaji Subhas Inst of Technology, New Delhi, India</li>
-                                <li class="list-group-item">Dr Latesh Mallick, Raisoni College of Engineering, Nagpur, India</li>
-                                <li class="list-group-item">Prof Rajeev Srivastava, IIT, Banaras Hindu University, India</li>
-                                <li class="list-group-item">Prof O.P. Verma, Delhi Technological University, India</li>
-                                <li class="list-group-item">Dr D.K. Tayal, Indira Gandhi Delhi Technical Univ. for Women, New Delhi, India</li>
-                                <li class="list-group-item">Prof Manu Sood, Himachal Pradesh University , Shimla, India</li>
-                                <li class="list-group-item">Prof Arvinder Kaur, USICT, Guru Govind Singh Indraprastha University, India</li>
-                                <li class="list-group-item">Dr Anju Saha, USICT, Guru Govind Singh Indraprastha University, India</li>
-                                <li class="list-group-item">Dr Akshi Kumar, Delhi Technological University, India</li>
-                                <li class="list-group-item">Dr Bharti Suri, USICT, Guru Govind Singh Indraprastha University, India</li>
-                                <li class="list-group-item">Dr Vishal Jain, Bhartiya Vidyapeeth Inst of Computer Applications and Management, India</li>
-                                <li class="list-group-item">Prof Amita Dev, BPIBS, Guru Govind Singh Indraprasth University, India</li>
-                                <li class="list-group-item">Dr Rajni Jindal, Delhi Technological University, India</li>
-                                <li class="list-group-item">Dr Sandeep Kumar Garg, Indian Institute of Technology Roorkee, India</li>
-                                <li class="list-group-item">Dr Ritu Garg, NIT Kurukshetra, India</li>
-                                <li class="list-group-item">Dr Ankita Bansal, Netaji Subhas Inst of Technology, India</li>
-                                <li class="list-group-item">Dr Seema Bawa, Thapar Univ, Patiala, India</li>
-                                <li class="list-group-item">Dr Naresh Chauhan, YMCA Univ. of Science and Technology, Faridabad, India</li>
-                                <li class="list-group-item">Dr Deepali Virmani, Guru Govind Singh Indraprasth University, India</li>
-                                <li class="list-group-item">Prof Payal Pahwa, Guru Govind Singh Indraprasth University, India</li>
-                                <li class="list-group-item">Mr Manusheel Gupta, CEO Aspiring Investments, India</li>
-                                <li class="list-group-item">Dr Namita Mittal, Malviya National Inst. of Technology, Jaipur, India</li>
-                                <li class="list-group-item">Dr Nand Kumar, Manav Rachna University, India</li>
-                                <li class="list-group-item">Prof Poonam Bansal, Maharaja Surajmal Institute of Technology, India</li>
-                                <li class="list-group-item">Dr Rajesh Purohit, JNV University, Jodhpur, India</li>
-                                <li class="list-group-item">Dr Amritanjali, BIT MESRA, Ranchi, India</li>
-                                <li class="list-group-item">Dr Priyank Thakkar, Nirma University, India</li>
-                                <li class="list-group-item">Dr Rama Krishnan, K.L. University, Guntur, India</li>
-                                <li class="list-group-item">Dr Maitreyee Dutta, NITTR Chandigarh, India</li>
-                                <li class="list-group-item">Dr Shruti Garg, BIT MESRA, Ranchi, India</li>
-                                <li class="list-group-item">Dr Sangeeta Srivastava, Bhaskaracharya College of Applied Sciences, India</li>
-                                <li class="list-group-item">Dr Savita Gupta, UIET, Punjab University, India</li>
-                                <li class="list-group-item">Dr Michael Opoku Agyaman, University of Northampton, UK</li>
-                                <li class="list-group-item">Mohamed Mostafa Eltaweel, AASTMT, Helwan Univ. Cairo, Egypt</li>
-
+                                  
+                                <li class="list-group-item">Animesh Mishra, Intel Corp., USA</li>
+                                <li class="list-group-item">Rajiv Jain, Wells Fargo, USA</li>
+                                <li class="list-group-item">Suraj Ajit, University of Northampton, UK</li>
+                                <li class="list-group-item">Krishnan Seetharaman, University of Massachusetts Lowell, USA</li>
+                                <li class="list-group-item">Mu Mu, University of Northampton, UK</li>
+                                <li class="list-group-item">M.P.S. Bhatia, NSIT</li>
+                                <li class="list-group-item">Himanshu Bhatnagar, HB Software Solutions, USA</li>
+                                <li class="list-group-item">Bizender Kumar, NSIT</li>
+                                <li class="list-group-item">Satbir Jain, NSIT</li>
+                                <li class="list-group-item">Nand Kumar, Manav Rachna University, India</li>
+                                <li class="list-group-item">Rajesh Purohit, J.N.V. University, Jodhpur</li>
+                                <li class="list-group-item">Amritanjali, B.I.T.S. MESRA, Ranchi</li>
+                                <li class="list-group-item">Priyank Thakkar, Nirma University</li>
+                                <li class="list-group-item  text-capitalize">Jeyasekar A, SRM University, India</li>
+                                <li class="list-group-item  text-capitalize">Parkavi A, India</li>
+                                <li class="list-group-item  text-capitalize">jafar ababneh, the world islamic science & education university, Jordan</li>
+                                <li class="list-group-item  text-capitalize">Anuja Arora, India</li>
+                                <li class="list-group-item  text-capitalize">Tanvi Arora, College of Engineering, Chandigarh college of engineering, India</li>
+                                <li class="list-group-item  text-capitalize">Chamundeswari Arumugam, SSN college of engg, India</li>
+                                <li class="list-group-item  text-capitalize">Dilum Bandara, University of Moratuwa, Sri Lanka</li>
+                                <li class="list-group-item  text-capitalize">Poonam Bansal, MSIT, India</li>
+                                <li class="list-group-item  text-capitalize">Roli Bansal, University of Delhi, Keshav MV, India</li>
+                                <li class="list-group-item  text-capitalize">Shivani Batra, G D Goenka university, India</li>
+                                <li class="list-group-item  text-capitalize">Geetika Bhatia, India</li>
+                                <li class="list-group-item  text-capitalize">Ashutosh Bhatia, BITS, India</li>
+                                <li class="list-group-item  text-capitalize">Rakesh Mohan Bhatt, HNB Garhwal University, India</li>
+                                <li class="list-group-item  text-capitalize">Vandana bhattacharjee, Birla Institute Of Technology, India</li>
+                                <li class="list-group-item  text-capitalize">Kanad Biswas, IIIT-D, India</li>
+                                <li class="list-group-item  text-capitalize">Deepak Chahal, Jagan Institute of Management Studies, India</li>
+                                <li class="list-group-item  text-capitalize">Bindu Chandna, Mitre, USA</li>
+                                <li class="list-group-item  text-capitalize">Ajay Chaudhary, IIT Roorkee, India</li>
+                                <li class="list-group-item  text-capitalize">Naresh Chauhan, YMCAUST Faridabad, India</li>
+                                <li class="list-group-item  text-capitalize">Rajender Chhillar, MDU Rohtak, India</li>
+                                <li class="list-group-item  text-capitalize">Tapan Das, VIT University, India</li>
+                                <li class="list-group-item  text-capitalize">Suma Dawn, JIIT, India</li>
+                                <li class="list-group-item  text-capitalize">Amita Dev, Ambedkar institute of technology, India</li>
+                                <li class="list-group-item  text-capitalize">Dhiraj Dhane, Indian Institute of Information Technology Pune, India</li>
+                                <li class="list-group-item  text-capitalize">Sanjay K Dhurandher, NSIT, India</li>
+                                <li class="list-group-item  text-capitalize">Rashmi Dravid, University of Northampton, United Kingdom</li>
+                                <li class="list-group-item  text-capitalize">Amit Dua, BITS Pilani, India</li>
+                                <li class="list-group-item  text-capitalize">Poovammal Eswaran, SRM University, India</li>
+                                <li class="list-group-item  text-capitalize">Subha Fernando, University of Moratuwa, Sri Lanka</li>
+                                <li class="list-group-item  text-capitalize">Rudolf Fleischer, GUtech, Oman</li>
+                                <li class="list-group-item  text-capitalize">goldie gabrani, BML Munjal University, India</li>
+                                <li class="list-group-item  text-capitalize">Charu Gandhi, Jaypee Institute of Information Technology, India</li>
+                                <li class="list-group-item  text-capitalize">T V Gopal, Anna University, India</li>
+                                <li class="list-group-item  text-capitalize">Mukta Goyal, JIIT,Noida, India</li>
+                                <li class="list-group-item  text-capitalize">Namita Gupta, MAIT, India</li>
+                                <li class="list-group-item  text-capitalize">Bhavna Gupta, Keshav Mahavidyalaya, DU, India</li>
+                                <li class="list-group-item  text-capitalize">Manu Gupta, SEETA, India</li>
+                                <li class="list-group-item  text-capitalize">Daya Gupta, DTU, India</li>
+                                <li class="list-group-item  text-capitalize">nishi gupta, India</li>
+                                <li class="list-group-item  text-capitalize">Sanjay H A, India</li>
+                                <li class="list-group-item  text-capitalize">Rashina Hoda, The University of Auckland, New Zealand</li>
+                                <li class="list-group-item  text-capitalize">Syed Akhter Hossain, Daffodil International University, Bangladesh</li>
+                                <li class="list-group-item  text-capitalize">Chittaranjan Hota, BITS, Pilani Hyderabad Campus, India</li>
+                                <li class="list-group-item  text-capitalize">Anurag Jain, GGSIP University, India</li>
+                                <li class="list-group-item  text-capitalize">Shikha Jain, Jiit, India</li>
+                                <li class="list-group-item  text-capitalize">Sanjay Jain</li>
+                                <li class="list-group-item  text-capitalize">Vishal Jain, BVICAM, India</li>
+                                <li class="list-group-item  text-capitalize">Amita Jain, AIACTR DELHI, India</li>
+                                <li class="list-group-item  text-capitalize">Jagadish Kallimani, MSRIT, India</li>
+                                <li class="list-group-item  text-capitalize">Triantafyllos Kanakis, University of Northampton, United Kingdom</li>
+                                <li class="list-group-item  text-capitalize">Rahul Katarya, DTU, India</li>
+                                <li class="list-group-item  text-capitalize">Parmeet Kaur, JIIT, India</li>
+                                <li class="list-group-item  text-capitalize">Gagandeep Kaur, JIIT, India</li>
+                                <li class="list-group-item  text-capitalize">Vidhi Khanduja, NSIT, India</li>
+                                <li class="list-group-item  text-capitalize">Payal Khurana Batra, JIIT, Noida, India</li>
+                                <li class="list-group-item  text-capitalize">Haribabu Kotakula, BITS Pilani, India</li>
+                                <li class="list-group-item  text-capitalize">Rama Krishna Challa, NITTTR, India</li>
+                                <li class="list-group-item  text-capitalize">Vallidevi Krishnamurthy, SSN College of Engineering, India</li>
+                                <li class="list-group-item  text-capitalize">Naveen Kumar, University of Delhi, India</li>
+                                <li class="list-group-item  text-capitalize">Prakash Kumar, Jaypee Institute of Info. Technology , India</li>
+                                <li class="list-group-item  text-capitalize">Kuldeep Kumar, BITS Pilani, India</li>
+                                <li class="list-group-item  text-capitalize">Sandeep Kumar, IIT Roorkee, India</li>
+                                <li class="list-group-item  text-capitalize">Sushil Kumar, Rajdhani College, University of Delhi, India</li>
+                                <li class="list-group-item  text-capitalize">Akshi Kumar, DTU, India</li>
+                                <li class="list-group-item  text-capitalize">Viraj Kumar, PES, Chandigarh, India</li>
+                                <li class="list-group-item  text-capitalize">anil kumar, Samsung, India</li>
+                                <li class="list-group-item  text-capitalize">Chandan Kundu, IntelliH Analytics & Software Pvt. Ltd. , India</li>
+                                <li class="list-group-item  text-capitalize">Ramesh Loganathan, IIIT Hyderabad, India</li>
+                                <li class="list-group-item  text-capitalize">Anusha M, THRC, India</li>
+                                <li class="list-group-item  text-capitalize">Vikas Maheshkar, NSIT, India</li>
+                                <li class="list-group-item  text-capitalize">D. Malathi, SRM University, India</li>
+                                <li class="list-group-item  text-capitalize">Shikha Mehta, JIIT, India</li>
+                                <li class="list-group-item  text-capitalize">Sangeeta Mittal, JIIT, India</li>
+                                <li class="list-group-item  text-capitalize">A K Mohapatra, IGDTUW, India</li>
+                                <li class="list-group-item  text-capitalize">Michael Opoku Agyeman, University of Northampton, United Kingdom</li>
+                                <li class="list-group-item  text-capitalize">Payal Pahwa, BPIT, India</li>
+                                <li class="list-group-item  text-capitalize">Kavita Pandey, JIIT, India</li>
+                                <li class="list-group-item  text-capitalize">Upasana Pandey, IMS Engineering College, India</li>
+                                <li class="list-group-item  text-capitalize">Raghu Vamsi Potukuchi, Jaypee Institute of Information Technology, India</li>
+                                <li class="list-group-item  text-capitalize">Deepika Prakash, Central University of Rajasthan, India</li>
+                                <li class="list-group-item  text-capitalize">Rajesh Purohit, JNV University, India</li>
+                                <li class="list-group-item  text-capitalize">Shashank Pushkar, BIT, Mesra, India</li>
+                                <li class="list-group-item  text-capitalize">Geeta Rani, GD Goenka University, India</li>
+                                <li class="list-group-item  text-capitalize">Hemant Rathore, BITS Pilani, India</li>
+                                <li class="list-group-item  text-capitalize">SRN Reddy Reddy, IGDTU, India</li>
+                                <li class="list-group-item  text-capitalize">Nicolas Rougier, INRIA, France</li>
+                                <li class="list-group-item  text-capitalize">Shelly Sachdeva, JIIT, India</li>
+                                <li class="list-group-item  text-capitalize">anju saha, ggsipu, India</li>
+                                <li class="list-group-item  text-capitalize">Neetu Sardana, Jaypee Institute of Information technology, India</li>
+                                <li class="list-group-item  text-capitalize">Vikas saxena, JIIT,Noida, India</li>
+                                <li class="list-group-item  text-capitalize">Kapil Sharma, Delhi Technological University, India</li>
+                                <li class="list-group-item  text-capitalize">Arun Sharma, IGDTUW, India</li>
+                                <li class="list-group-item  text-capitalize">Chayanika Sharma, NSIT, India</li>
+                                <li class="list-group-item  text-capitalize">Richa Sharma, India</li>
+                                <li class="list-group-item  text-capitalize">Mahendra Pratap Singh, National Institute of Technology Karnataka, India</li>
+                                <li class="list-group-item  text-capitalize">Krishna Singh, Amity University, Noida, India</li>
+                                <li class="list-group-item  text-capitalize">Anurag Singh, NIT Delhi India, India</li>
+                                <li class="list-group-item  text-capitalize">Yudhvir Singh, India</li>
+                                <li class="list-group-item  text-capitalize">Hardeep Singh, India</li>
+                                <li class="list-group-item  text-capitalize">Indu Singh, Delhi Technological University, Delhi, India</li>
+                                <li class="list-group-item  text-capitalize">Poonam Singh, NITTR, India</li>
+                                <li class="list-group-item  text-capitalize">Amitoj Singh, India</li>
+                                <li class="list-group-item  text-capitalize">Amit Singh, Guru Gobind Singh Indraprastha University, India</li>
+                                <li class="list-group-item  text-capitalize">Anita Singhrova, DCRUST,  Murthal , India</li>
+                                <li class="list-group-item  text-capitalize">Arun solanki, Gautam Buddha University, India</li>
+                                <li class="list-group-item  text-capitalize">Durvasula Somayajulu, National Institute of Technology, Warangal, India</li>
+                                <li class="list-group-item  text-capitalize">Manu Sood, Himachal Pradesh University, Shimla, India</li>
+                                <li class="list-group-item  text-capitalize">Sangeeta Srivastava, BCAS, India</li>
+                                <li class="list-group-item  text-capitalize">Sridhar Subra, SRM University, India</li>
+                                <li class="list-group-item  text-capitalize">Bharti Suri, GGSIPU, India</li>
+                                <li class="list-group-item  text-capitalize">JayPrakash T L, IITB, India</li>
+                                <li class="list-group-item  text-capitalize">Mirnalinee T T, SSN College of Engineering, India</li>
+                                <li class="list-group-item  text-capitalize">Hardeo Kumar Thakur, Manav Rachna University, India</li>
+                                <li class="list-group-item  text-capitalize">Anjali Thukral, Keshav Mahavidyalaya, DU, India</li>
+                                <li class="list-group-item  text-capitalize">op verma, DTU, India</li>
+                                <li class="list-group-item  text-capitalize">Deepali Virmani, BPIT, India</li>
+                                <li class="list-group-item  text-capitalize">Bimlesh Wadhwa, National University of Singapore, Singapore</li>
+                                <li class="list-group-item  text-capitalize">Yanghua Xiao, Fudan University, China</li>
+                                <li class="list-group-item  text-capitalize">Rama Krishnan, K.L. University, Guntur</li>
+                                <li class="list-group-item  text-capitalize">Maitreyee Dutta, N.I.T.T.R. Chandigarh</li>
+                                <li class="list-group-item  text-capitalize">Shruti Garg, B.I.T.S. MESRA, Ranchi</li>
+                                <li class="list-group-item  text-capitalize">Savita Gupta, UIET, Punjab Univ.</li>
+                                <li class="list-group-item  text-capitalize">Latesh Mallick, Raisoni College of Engineering, Nagpur</li>
                                   </ul>
                                   
                                   
@@ -1173,7 +1229,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                     Sangeeta Sabharwal, NSIT<br> 
                                    <h3 style=" color:#177731; padding-top:25px;">Publication Chair</h3>
                                    Anand Gupta<br>
-                                   <h3 style=" color:#177731; padding-top:25px;">Design Contest Chair</h3>
+                                   <h3 style=" color:#177731; padding-top:25px;">Design Contest Co-Chair</h3>
+                                   Pinaki Chakraborty<br>
                                   Manusheel Gupta<br>
                                    <h3 style=" color:#177731; padding-top:25px;">Workshop Chair</h3>
                                       Bijender Kumar<br>
@@ -1190,15 +1247,14 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                   V.P. Ranjan<br> 
                                    <h3 style=" color:#177731; padding-top:25px;">Website Chair</h3>
                                    Khushil Saini<br>
-                                   Abhishek Faujdar<br> 
+                                   <h3 style=" color:#177731; padding-top:25px;">Panel Discussion Chair</h3>
+                                   Shampa Chakraverty<br>
                                    <h3 style=" color:#177731; padding-top:25px;">Hospitality Co-Chairs</h3>
                                    Preeti Kaur<br>
-                                   Veenu
+                                   Aastha Singh
                                    <br> 
-                                   <h3 style=" color:#177731; padding-top:25px;">Internal Arrangement Co-Chairs</h3>
-                                   Anil Arora<br>
-                                   Aastha<br>    
-                                                          
+                                   <h3 style=" color:#177731; padding-top:25px;">Internal Arrangements Chairs</h3>
+                                   Anil Arora<br>         
                                 </div>
                             </div>
                         </div>
