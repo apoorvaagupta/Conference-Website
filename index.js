@@ -971,7 +971,9 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         </tbody>
                                     </table>
                                 </div>
-                               * CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.
+
+                               <span style="color: red">* CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.</span>
+
                             </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
