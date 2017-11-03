@@ -21,61 +21,43 @@ $(document).ready(function () {
                         <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
                             Overview</h1>
 
-                        <div class="overview-description" style="text-align: center;">
-                            &nbsp; &nbsp; &nbsp; &nbsp; <span
-                                style="background-color: white; color: black; font-size: 14pt;"><img src="images/springer-logo.jpg" height="50px">&nbsp;&nbsp;Welcome to the &nbsp;&nbsp;<img src="images/ccis_logo.png" height="50px"></span><br><b
-                                style="background-color: white; color: black; font-size: 14pt;"><span
-                                style="color: #385623; font-size: 15pt;">2018 International Conference <br> Towards Extensible and Adaptable Methods in Computing <br> TEAMC 2018 </span></b>
+                        <div class="overview-description" style="text-align: center;"><br>
+                            <img src="images/Springer-CCIS.jpg" width="90%">
+                            <br>
+                            <!--<span style="background-color: white; color: black; font-size: 14pt;">Welcome to the</span><br><b-->
+                                <!--style="background-color: white; color: black; font-size: 14pt;"><span-->
+                                <!--style="color: #385623; font-size: 15pt;">2018 International Conference <br> Towards Extensible and Adaptable Methods in Computing <br> TEAMC 2018 </span></b>-->
                             <!--<b style="background-color: white; color: black; font-size: 14pt;"></b><span-->
-                                <!--style="background-color: white; color: black; font-size: 14pt;">&nbsp; <br> organized by&nbsp;</span>-->
+                            <!--style="background-color: white; color: black; font-size: 14pt;">&nbsp; <br> organized by&nbsp;</span>-->
                         </div>
 
 
-                        <div style="background: white; line-height: 18pt; margin: 0in; text-align: center;">
-                            <div style="text-align: center;">
-                            </div>
-                            <div style="text-align: center;">
-                                <b><span style="color: #002060; font-size: 15pt;">Netaji Subhas Institute of Technology, Dwarka, Delhi, India.</span></b>
-                            </div>
-                        </div>
+                        <!--<div style="background: white; line-height: 18pt; margin: 0in; text-align: center;">-->
+                            <!--<div style="text-align: center;">-->
+                            <!--</div>-->
+                            <!--<div style="text-align: center;">-->
+                                <!--<b><span style="color: #002060; font-size: 15pt;">Netaji Subhas Institute of Technology, Dwarka, Delhi, India.</span></b>-->
+                            <!--</div>-->
+                        <!--</div>-->
 
 
                         <div class="overview-description"
                              style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                             <span style="color: black; font-size: 14pt;"><br></span>
                             <span style="color: black; font-size: 14pt;">
-                            The International Conference, Towards Extensible and Adaptable Methods in Computing – TEAMC 2018, will be held during 26-28 March, 2018 under the aegis of Netaji Subhas Institute of Technology (NSIT), New Delhi.<br/><br/>
-Extensible and adaptable computing refers to the array of methods and techniques that systematically tackle the future growth of systems and respond proactively and seamlessly to change. This conference will provide an excellent opportunity to researchers, practitioners and students to share ideas, discuss best practices and collaborate together to solve problems in convergent domains of computing that strive towards extensibility and adaptability.
+                            The International Conference, computing Towards Extensible and Adaptable Methods in Computing – TEAMC 2018, will be held during 26-28 March, 2018 under the aegis of Netaji Subhas Institute of Technology (NSIT), New Delhi.
+This conference will provide an excellent opportunity to researchers, practitioners and students to share ideas, discuss best practices and collaborate together to solve problems in convergent domains of computing that strive towards extensibility and adaptability.
     <br/><br/>
-                                TEAMC 2018 includes the following tracks:
+                                TEAMC 2018 includes Agile Software Development, Data Management, Web Intelligence, Computing in Education and Machine learning as its tracks.
                             </span>
                         </div>
-                        <br/>
-                        <div class="home-list">
-                            <ul class="list-group">
-                                <li class="list-group-item">
-                                    <b style="color: #002060;">Agile Software Development</b>
-                                </li>
-                                <li class="list-group-item">
-                                    <b style="color: #002060;">Data Management</b>
-                                </li>
-                                <li class="list-group-item">
-                                    <b style="color: #002060;">Web Intelligence</b>
-                                </li>
-                                <li class="list-group-item">
-                                    <b style="color: #002060;">Computing in Education</b>
-                                </li>
-                                <li class="list-group-item">
-                                    <b style="color: #002060;">Machine Learning</b>
-                                </li>
-                            </ul>
-                        </div>
+
 
                         <div class="overview-description"
                              style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                             <span style="color: black; font-size: 14pt;"><br></span>
                             <span style="color: black; font-size: 14pt;">
-                            The conference will feature regular technical sessions, keynote speeches,Indutry and PhD forums, workshops, panel discussions and a Hackathon/Design contest.
+                            The conference will feature regular technical sessions, keynote speeches, Indutry and PhD forums, workshops, panel discussions and a Hackathon/Design contest.
                             </span>
                         </div>
 
@@ -556,6 +538,8 @@ Extensible and adaptable computing refers to the array of methods and techniques
                                         <span style="color: black; font-size: 14pt;">We welcome full-length paper submissions of 12-14 pages in the CCIS one-column page format. Short papers of 6-8 pages will also be considered.</span>
                                         <br><br>
                                           <span style="color: black; font-size: 14pt;">Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899" target="_blank"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
+                                                 <br><span style="color: black; font-size: 14pt;">Due to the double blind review process, please do not include the names​ or affiliations of the authors​ on the first page of the paper​. 
+No where in the paper ​should the ​identities of the authors be revealed. When referring to one's own work, use the third person​.</span> <br>
                                                  <br><span style="color: black; font-size: 14pt;">Submissions will be accepted through <a
                                                 href="https://ocs.springer.com/ocs/" target="_blank"> Springer Online Conference Service (OCS).</a>
                             </span><br><br>
