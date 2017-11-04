@@ -22,7 +22,7 @@ $(document).ready(function () {
                             Overview</h1>
 
                         <div class="overview-description" style="text-align: center;"><br>
-                            <img src="images/Springer-CCIS.jpg" width="90%">
+                            <img src="images/Springer-CCIS.jpg" width="45%">
                             <br>
                             <!--<span style="background-color: white; color: black; font-size: 14pt;">Welcome to the</span><br><b-->
                                 <!--style="background-color: white; color: black; font-size: 14pt;"><span-->
