@@ -61,6 +61,14 @@ This conference will provide an excellent opportunity to researchers, practition
                             </span>
                         </div>
 
+<div class="overview-description"
+                             style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                            <span style="color: black; font-size: 14pt;"><br></span>
+                            <span style="color: black; font-size: 14pt;">
+                            An autonomous institution under the Government of NCT, Delhi, Netaji Subhas Institute of Technology is among the most reputed institutions in the domain of engineering education in India. it is affiliated to Delhi University.
+                            </span>
+                        </div>
+
                     </div>
                 </div>
                 <div class="row">
