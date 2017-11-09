@@ -536,13 +536,13 @@ This conference will provide an excellent opportunity to researchers, practition
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <br>
                                         <span style="color: black; font-size: 14pt;">We welcome full-length paper submissions of 12-14 pages in the CCIS one-column page format. Short papers of 6-8 pages will also be considered.</span>
-                                        <br><br>
+                                        <br><br><span style="color: black; font-size: 14pt;">Submissions will be accepted through <a
+                                                href="https://ocs.springer.com/ocs/" target="_blank"> Springer Online Conference Service (OCS).</a>
+                            </span><br><br>
                                           <span style="color: black; font-size: 14pt;">Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899" target="_blank"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
                                                  <br><span style="color: black; font-size: 14pt;">Due to the double blind review process, please do not include the names​ or affiliations of the authors​ on the first page of the paper​. 
 No where in the paper ​should the ​identities of the authors be revealed. When referring to one's own work, use the third person​.</span> <br>
-                                                 <br><span style="color: black; font-size: 14pt;">Submissions will be accepted through <a
-                                                href="https://ocs.springer.com/ocs/" target="_blank"> Springer Online Conference Service (OCS).</a>
-                            </span><br><br>
+                                                 <br>
                             <span style="color: black; font-size: 14pt;">For the Industry and PhD forums, we invite poster papers of maximum 6 pages, describing ongoing developments / technology insights  in the industry and works in progress. Accepted papers in this category will be published in the Conference Proceedings with ISBN. </span>
                                         <br><br>
                                     </div>
