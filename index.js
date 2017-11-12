@@ -48,7 +48,7 @@ $(document).ready(function () {
                             The International Conference, computing Towards Extensible and Adaptable Methods in Computing – TEAMC 2018, will be held during 26-28 March, 2018 under the aegis of Netaji Subhas Institute of Technology (NSIT), New Delhi.
 This conference will provide an excellent opportunity to researchers, practitioners and students to share ideas, discuss best practices and collaborate together to solve problems in convergent domains of computing that strive towards extensibility and adaptability.
     <br/><br/>
-                                TEAMC 2018 includes Agile Software Development, Data Management, Web Intelligence, Computing in Education and Machine learning as its tracks.
+                                TEAMC 2018 includes Agile Software Development, Data Management, Web Intelligence, Computing in Education, Machine learning and <span id="flash-yellow">New Industry Track</span> as its tracks.
                             </span>
                         </div>
 
@@ -218,6 +218,9 @@ This conference will provide an excellent opportunity to researchers, practition
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#track5">TRACK 5 - ML</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track6">TRACK 6 - IT</a>
                             </li>
                         </ul>
                     </div>
@@ -464,33 +467,42 @@ This conference will provide an excellent opportunity to researchers, practition
                                         <br>
                                         <p style="color: #002060">Topics</p>
                                         <ul class="list-group">
-                                            <li class="list-group-item text-capitalize
-">Rough, fuzzy and neuro computing
+                                            <li class="list-group-item text-capitalize">Rough, fuzzy and neuro computing
                                             </li>
-                                            <li class="list-group-item text-capitalize
-">Cognitive systems
+                                            <li class="list-group-item text-capitalize">Cognitive systems
                                             </li>
-                                            <li class="list-group-item text-capitalize
-">Deep learning applications
+                                            <li class="list-group-item text-capitalize">Deep learning applications
                                             </li>
-                                            <li class="list-group-item text-capitalize
-">ML driven adaptive applications
+                                            <li class="list-group-item text-capitalize">ML driven adaptive applications
                                             </li>
-                                            <li class="list-group-item text-capitalize
-">Evolutionary and nature inspired techniques
+                                            <li class="list-group-item text-capitalize">Evolutionary and nature inspired techniques
                                             </li>
-                                            <li class="list-group-item text-capitalize
-">Multi-lingual knowledge Acquisition
+                                            <li class="list-group-item text-capitalize">Multi-lingual knowledge Acquisition
                                             </li>
-                                            <li class="list-group-item text-capitalize
-">Adaptive Natural Language Processing
+                                            <li class="list-group-item text-capitalize">Adaptive Natural Language Processing
                                             </li>
-                                            <li class="list-group-item text-capitalize
-">Ontology engineering and applications
+                                            <li class="list-group-item text-capitalize">Ontology engineering and applications
                                             </li>
-
                                         </ul>
                                         </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="tab-pane fade" id="track6" role="tabpanel">
+                            <div class="row justify-content-center">
+                                <div class="col-sm-12">
+                                    <br>
+                                    <h3 style="padding-bottom: 10px; color:#177731;"> Industry Track</h3>
+                                    <div>
+                                        <p style="color: #002060">
+                                          The Industry Track seeks papers describing work in progress, concept papers, 
+                                          experience papers and papers on state of the art from entrepreneurs, industry professionals, 
+                                          faculty and students.
+                                        </p>
+                                        
+                                    </div>
+                                
                                 </div>
                             </div>
                         </div>
