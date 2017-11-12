@@ -48,9 +48,18 @@ $(document).ready(function () {
                             The International Conference, computing Towards Extensible and Adaptable Methods in Computing – TEAMC 2018, will be held during 26-28 March, 2018 under the aegis of Netaji Subhas Institute of Technology (NSIT), New Delhi.
 This conference will provide an excellent opportunity to researchers, practitioners and students to share ideas, discuss best practices and collaborate together to solve problems in convergent domains of computing that strive towards extensibility and adaptability.
     <br/><br/>
-                                TEAMC 2018 includes Agile Software Development, Data Management, Web Intelligence, Computing in Education, Machine learning and <span id="flash-yellow">New Industry Track</span> as its tracks.
+                                TEAMC 2018 includes Agile Software Development, Data Management, Web Intelligence, Computing in Education and Machine Learning as its tracks.<br/>
+
+                            </span>
+
+                            <span style="color: black; font-size: 14pt;">
+                                <span id="flash-yellow">
+                                    <i class="fa fa-star m-0" style="color: yellow; text-indent: 0px"></i>
+                                    <span style="color: red;">New</span>
+                                </span> Industry Track now included.
                             </span>
                         </div>
+
 
 
                         <div class="overview-description"

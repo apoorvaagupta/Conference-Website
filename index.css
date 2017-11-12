@@ -201,26 +201,24 @@ html, body {
 
 @keyframes flash {
     0% {
-        background-color: yellow;
-        opacity: 1;
+        display: inline;
+        opacity:1;
     }
 
     50% {
-        background-color: white;
+        display: none;
         opacity: 0;
     }
 
     100% {
-        background-color: yellow;
-        opacity:1;
+        display: inline;
     }
 }
 
 #flash-yellow {
     animation-name: flash;
     animation-iteration-count: infinite;
-    animation-timing-function: linear;
-    animation-duration: 5s;
+    animation-duration: 0.8s;
 }
 
 #announcement {
