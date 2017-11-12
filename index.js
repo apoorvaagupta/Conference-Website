@@ -220,7 +220,7 @@ This conference will provide an excellent opportunity to researchers, practition
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#track5">TRACK 5 - ML</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track6">TRACK 6 - IT</a>
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#track6">TRACK 6 - IND</a>
                             </li>
                         </ul>
                     </div>
