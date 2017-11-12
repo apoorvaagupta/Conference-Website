@@ -17,7 +17,7 @@ html, body {
         display: none;
     }
 
-    #announcement{
+    #announcement {
         display: none;
     }
 
@@ -57,7 +57,7 @@ html, body {
 
 .header-links {
     text-align: center;
-    color: #999!important;
+    color: #999 !important;
 }
 
 .header-links:hover {
@@ -199,6 +199,30 @@ html, body {
     }
 }
 
+@keyframes flash {
+    0% {
+        background-color: yellow;
+        opacity: 1;
+    }
+
+    50% {
+        background-color: white;
+        opacity: 0;
+    }
+
+    100% {
+        background-color: yellow;
+        opacity:1;
+    }
+}
+
+#flash-yellow {
+    animation-name: flash;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-duration: 5s;
+}
+
 #announcement {
     animation-name: moveLeftRight;
     position: absolute;
@@ -278,12 +302,12 @@ ul.list-group > li {
 }
 
 .nav-tabs .nav-link {
-    border: 0!important;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.15)!important;
+    border: 0 !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15) !important;
 }
 
 .nav-tabs .nav-link.active {
-    border: 0!important;
+    border: 0 !important;
 
     border-bottom: 2px solid;
     border-bottom-color: #1485E8;
@@ -347,17 +371,17 @@ ul.list-group > li {
     }
 }
 
-#jumbotron{
+#jumbotron {
     transition: margin-top 0.5s;
 }
 
-.carousel-caption{
+.carousel-caption {
     left: 2%;
-    right:2%;
+    right: 2%;
     text-align: left;
 }
 
-.carousel-caption > h1{
+.carousel-caption > h1 {
     font-size: 60px;
     font-family: 'PT Sans', sans-serif;
 }
