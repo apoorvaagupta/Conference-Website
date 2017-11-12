@@ -560,10 +560,10 @@ This conference will provide an excellent opportunity to researchers, practition
                                                 href="https://ocs.springer.com/ocs/" target="_blank"> Springer Online Conference Service (OCS).</a>
                             </span><br><br>
                                           <span style="color: black; font-size: 14pt;">Submissions should strictly adhere to the <a href="http://www.springer.com/series/7899" target="_blank"> Springer Communications in Computer and Information Science (CCIS) </a> format.</span> <br>
-                                                 <br><span style="color: black; font-size: 14pt;">Due to the double blind review process, please do not include the names​ or affiliations of the authors​ on the first page of the paper​. 
+                                                 <br><span style="color: black; font-size: 14pt;">Due to the <b>Double Blind Review Process</b>, please do not include the names​ or affiliations of the authors​ on the first page of the paper​. 
 No where in the paper ​should the ​identities of the authors be revealed. When referring to one's own work, use the third person​.</span> <br>
                                                  <br>
-                            <span style="color: black; font-size: 14pt;">For the Industry and PhD forums, we invite poster papers of maximum 6 pages, describing ongoing developments / technology insights  in the industry and works in progress. Accepted papers in this category will be published in the Conference Proceedings with ISBN. </span>
+                            <span style="color: black; font-size: 14pt;">For the <b>Industry Track</b>, we invite papers of minimum 4 pages, describing ongoing developments / technology insights in the industry and works in progress. Accepted papers in this category will be published in the Conference Proceedings with ISBN. </span>
                                         <br><br>
                                     </div>
                                 </div>
