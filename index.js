@@ -630,8 +630,8 @@ No where in the paper ​should the ​identities of the authors be revealed. Wh
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <h3 style="padding-bottom: 10px; color:#177731;"> Publication</h3>
                                         <span style="color: black; font-size: 14pt;">
-                                        TEAMC has received conditional acceptance from Springer's prestigous Communications in Computer and Information Science Conference proceedings series.<br>
-                                           The best among peer reviewed and accepted papers (full length and short papers) of the conference will be published in the prestigious Springer Communication in Computer and Information Science (CCIS) book series, subject to approval. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
+                                       
+                                           The best among peer reviewed and accepted papers (full length and short papers) of the conference will be published in the prestigious Springer Communication in Computer and Information Science (CCIS) book series, subject to approval - conditional acceptance received. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
 <br>We will share ongoing developments on publishing extended versions of accepted papers in reputed journals.
                             </span><br><br>
                             <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
