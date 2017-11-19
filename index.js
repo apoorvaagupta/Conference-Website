@@ -45,7 +45,7 @@ $(document).ready(function () {
                              style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                             <span style="color: black; font-size: 14pt;"><br></span>
                             <span style="color: black; font-size: 14pt;">
-                            The International Conference, computing Towards Extensible and Adaptable Methods in Computing – TEAMC 2018, will be held during 26-28 March, 2018 under the aegis of Netaji Subhas Institute of Technology (NSIT), New Delhi.
+                            The International Conference, Towards Extensible and Adaptable Methods in Computing – TEAMC 2018, will be held during 26-28 March, 2018 under the aegis of Netaji Subhas Institute of Technology (NSIT), New Delhi.
 This conference will provide an excellent opportunity to researchers, practitioners and students to share ideas, discuss best practices and collaborate together to solve problems in convergent domains of computing that strive towards extensibility and adaptability.
     <br/><br/>
                                 TEAMC 2018 includes Agile Software Development, Data Management, Web Intelligence, Computing in Education and Machine Learning as its tracks.<br/>
@@ -66,7 +66,7 @@ This conference will provide an excellent opportunity to researchers, practition
                              style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                             <span style="color: black; font-size: 14pt;"><br></span>
                             <span style="color: black; font-size: 14pt;">
-                            The conference will feature regular technical sessions, keynote speeches, Indutry and PhD forums, workshops, panel discussions and a Hackathon/Design contest.
+                            The conference will feature regular technical sessions, keynote speeches, Industry and PhD forums, workshops, panel discussions and a Hackathon/Design contest.
                             </span>
                         </div>
 
