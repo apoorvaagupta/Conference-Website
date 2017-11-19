@@ -1379,10 +1379,10 @@ The International Conference Towards Extensible and Adaptable Methods in Computi
                             As a spearheading force in the industry driving forward this revolution, TEAMC-2018 provides just the right platform and visibility to showcase your company, its vision and its technological offerings to a wide spectrum of professionals. Your participation will give an opportunity to nurture the talent pool and spur a collaborative atmosphere necessary for progress.<br/><br/>
 Kindly see the various sponsorship packages and offers and give us an opportunity to collaborate on this initiative and work together for its success right from the outset.<br/><br/>
 Yours sincerely<br/><br/>
-General Chair<br/><br/>
-Sponsorship Chairs<br/><br/>
-Industry Liaison Chair<br/><br/>
-Finance Chair<br/><br/>
+Shampa Chakraverty, General Chair<br/><br/>
+M.P.S. Bhatia, Sponsorship Chair<br/><br/>
+Satbir Jain and Rajeev Kumar, Industry Liaison Chair<br/><br/>
+V.P. Ranjan, Finance Chair<br/><br/>
                         </span>
                     </div>
 
