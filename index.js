@@ -1381,7 +1381,7 @@ Kindly see the various sponsorship packages and offers and give us an opportunit
 Yours sincerely<br/><br/>
 Shampa Chakraverty, General Chair<br/><br/>
 M.P.S. Bhatia, Sponsorship Chair<br/><br/>
-Satbir Jain and Rajeev Kumar, Industry Liaison Chair<br/><br/>
+Satbir Jain and Rajeev Kumar, Industry Liaison Chairs<br/><br/>
 V.P. Ranjan, Finance Chair<br/><br/>
                         </span>
                     </div>
