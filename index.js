@@ -52,11 +52,19 @@ This conference will provide an excellent opportunity to researchers, practition
 
                             </span>
 
+                            <br>
                             <span style="color: black; font-size: 14pt;">
-                                <span id="flash-yellow">
+                                <span class="flash-yellow">
                                     <i class="fa fa-star m-0" style="color: yellow; text-indent: 0px"></i>
                                     <span style="color: red;">New</span>
-                                </span> Industry Track now included.
+                                </span> Industry Track now included
+                            </span>
+                            <br/><br/>
+                            <span style="color: black; font-size: 14pt;">
+                                <span class="flash-yellow">
+                                    <i class="fa fa-star m-0" style="color: yellow; text-indent: 0px"></i>
+                                    <span style="color: red;">New</span>
+                                </span> See Registration Instructions
                             </span>
                         </div>
 
@@ -806,7 +814,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         </tbody>
                                     </table>
                                 
-                               <span style="color: red;text-align: left">CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.<br>*For SAARC and developing African countries, the registration fees is fixed at $100 for all categories. No further discount is admissible.</span>
+                               <span style="color: red;text-align: left">CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.<br/><br/>*For SAARC/Developing countries, the registration fees is fixed at $100 for all categories. No further discount is admissible.</span>
                            </div> </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
