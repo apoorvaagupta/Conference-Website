@@ -215,7 +215,7 @@ html, body {
     }
 }
 
-#flash-yellow {
+.flash-yellow {
     animation-name: flash;
     animation-iteration-count: infinite;
     animation-duration: 0.8s;
