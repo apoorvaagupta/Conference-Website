@@ -779,35 +779,35 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         <tr>
                                             <th scope="row">Faculty/Industry authors</th>
                                             <td>
-                                                $300
+                                                $300<span style="color: red">*</span>
                                             </td>
                                             <td>
-                                                $350
+                                                $350<span style="color: red">*</span>
                                             </td>
                                         </tr>
                                         <tr>
                                             <th scope="row">Students</th>
                                             <td>
-                                                $250
+                                                $250<span style="color: red">*</span>
                                             </td>
                                             <td>
-                                                $300
+                                                $300<span style="color: red">*</span>
                                             </td>
                                         </tr>
                                         <tr>
                                             <th scope="row">Others</th>
                                             <td>
-                                                $250
+                                                $250<span style="color: red">*</span>
                                             </td>
                                             <td>
-                                                $300
+                                                $300<span style="color: red">*</span>
                                             </td>
                                         </tr>
                                         </tbody>
                                     </table>
-                                </div>
-                               <span style="color: red">* CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.</span>
-                            </div>
+                                
+                               <span style="color: red;text-align: left">CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.<br>*For SAARC and developing African countries, the registration fees is fixed at $100 for all categories. No further discount is admissible.</span>
+                           </div> </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
                             <div class="row justify-content-center">
