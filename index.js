@@ -45,7 +45,7 @@ $(document).ready(function () {
                              style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                             <span style="color: black; font-size: 14pt;"><br></span>
                             <span style="color: black; font-size: 14pt;">
-                            The International Conference, computing Towards Extensible and Adaptable Methods in Computing – TEAMC 2018, will be held during 26-28 March, 2018 under the aegis of Netaji Subhas Institute of Technology (NSIT), New Delhi.
+                            The International Conference, Towards Extensible and Adaptable Methods in Computing – TEAMC 2018, will be held during 26-28 March, 2018 under the aegis of Netaji Subhas Institute of Technology (NSIT), New Delhi.
 This conference will provide an excellent opportunity to researchers, practitioners and students to share ideas, discuss best practices and collaborate together to solve problems in convergent domains of computing that strive towards extensibility and adaptability.
     <br/><br/>
                                 TEAMC 2018 includes Agile Software Development, Data Management, Web Intelligence, Computing in Education and Machine Learning as its tracks.<br/>
@@ -66,7 +66,7 @@ This conference will provide an excellent opportunity to researchers, practition
                              style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
                             <span style="color: black; font-size: 14pt;"><br></span>
                             <span style="color: black; font-size: 14pt;">
-                            The conference will feature regular technical sessions, keynote speeches, Indutry and PhD forums, workshops, panel discussions and a Hackathon/Design contest.
+                            The conference will feature regular technical sessions, keynote speeches, Industry and PhD forums, workshops, panel discussions and a Hackathon/Design contest.
                             </span>
                         </div>
 
@@ -630,8 +630,8 @@ No where in the paper ​should the ​identities of the authors be revealed. Wh
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <h3 style="padding-bottom: 10px; color:#177731;"> Publication</h3>
                                         <span style="color: black; font-size: 14pt;">
-                                        TEAMC has received conditional acceptance from Springer's prestigous Communications in Computer and Information Science Conference proceedings series.<br>
-                                           The best among peer reviewed and accepted papers (full length and short papers) of the conference will be published in the prestigious Springer Communication in Computer and Information Science (CCIS) book series, subject to approval. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
+                                       
+                                           The best among peer reviewed and accepted papers (full length and short papers) of the conference will be published in the prestigious Springer Communication in Computer and Information Science (CCIS) book series, subject to approval - conditional acceptance received. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
 <br>We will share ongoing developments on publishing extended versions of accepted papers in reputed journals.
                             </span><br><br>
                             <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
@@ -779,35 +779,35 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         <tr>
                                             <th scope="row">Faculty/Industry authors</th>
                                             <td>
-                                                $300
+                                                $300<span style="color: red">*</span>
                                             </td>
                                             <td>
-                                                $350
+                                                $350<span style="color: red">*</span>
                                             </td>
                                         </tr>
                                         <tr>
                                             <th scope="row">Students</th>
                                             <td>
-                                                $250
+                                                $250<span style="color: red">*</span>
                                             </td>
                                             <td>
-                                                $300
+                                                $300<span style="color: red">*</span>
                                             </td>
                                         </tr>
                                         <tr>
                                             <th scope="row">Others</th>
                                             <td>
-                                                $250
+                                                $250<span style="color: red">*</span>
                                             </td>
                                             <td>
-                                                $300
+                                                $300<span style="color: red">*</span>
                                             </td>
                                         </tr>
                                         </tbody>
                                     </table>
-                                </div>
-                               <span style="color: red">* CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.</span>
-                            </div>
+                                
+                               <span style="color: red;text-align: left">CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.<br>*For SAARC and developing African countries, the registration fees is fixed at $100 for all categories. No further discount is admissible.</span>
+                           </div> </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
                             <div class="row justify-content-center">
@@ -1379,10 +1379,10 @@ The International Conference Towards Extensible and Adaptable Methods in Computi
                             As a spearheading force in the industry driving forward this revolution, TEAMC-2018 provides just the right platform and visibility to showcase your company, its vision and its technological offerings to a wide spectrum of professionals. Your participation will give an opportunity to nurture the talent pool and spur a collaborative atmosphere necessary for progress.<br/><br/>
 Kindly see the various sponsorship packages and offers and give us an opportunity to collaborate on this initiative and work together for its success right from the outset.<br/><br/>
 Yours sincerely<br/><br/>
-General Chair<br/><br/>
-Sponsorship Chairs<br/><br/>
-Industry Liaison Chair<br/><br/>
-Finance Chair<br/><br/>
+Shampa Chakraverty, General Chair<br/><br/>
+M.P.S. Bhatia, Sponsorship Chair<br/><br/>
+Satbir Jain and Rajeev Kumar, Industry Liaison Chairs<br/><br/>
+V.P. Ranjan, Finance Chair<br/><br/>
                         </span>
                     </div>
 
