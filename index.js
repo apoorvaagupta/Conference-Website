@@ -560,7 +560,7 @@ This conference will provide an excellent opportunity to researchers, practition
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#publishingTab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    PUBLISHING</a>
+                                    PUBLICATION</a>
                             </li>
                         </ul>
                     </div>
@@ -639,7 +639,8 @@ No where in the paper ​should the ​identities of the authors be revealed. Wh
                                         <h3 style="padding-bottom: 10px; color:#177731;"> Publication</h3>
                                         <span style="color: black; font-size: 14pt;">
                                        
-                                           The best among peer reviewed and accepted papers (full length and short papers) of the conference will be published in the prestigious Springer Communication in Computer and Information Science (CCIS) book series, subject to approval - conditional acceptance received. The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
+                                           The best among peer reviewed and accepted papers (full length and short papers) of the conference will be published in the prestigious Springer Communication in Computer and Information Science (CCIS) book series, subject to approval - conditional acceptance received.
+                                            <br><b>The Springer CCIS is in the list of UGC approved Journals.</b><br>The remaining accepted papers will be published in the Conference Proceedings with ISBN.  
 <br>We will share ongoing developments on publishing extended versions of accepted papers in reputed journals.
                             </span><br><br>
                             <h3 style="padding-bottom: 10px; color:#177731;"> About CCIS</h3>
