@@ -752,16 +752,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                             <td>Rs 7000</td>
                                         </tr>
                                         <tr>
-                                            <th scope="row">Students</th>
-                                            <td>
-                                                Rs 4000
-                                            </td>
-                                            <td>
-                                                Rs 5000
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">Others</th>
+                                            <th scope="row">Students/Others</th>
                                             <td>
                                                 Rs 4000
                                             </td>
@@ -771,6 +762,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         </tr>
                                         </tbody>
                                     </table>
+                                    <span style="color: red;text-align: left">CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.</span>
                                 </div>
                                 <div class="col-sm-12 col-md-10 pt-4 text-center">
                                     <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #177731;line-height: 1.2;margin-bottom: 15px;font-size: 30px;text-transform: uppercase;">
@@ -786,36 +778,37 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         </thead>
                                         <tbody>
                                         <tr>
+                                            <th scope="row">Authors/Delegates from Developing countries</th>
+                                            <td>
+                                                $100
+                                            </td>
+                                            <td>
+                                                $100
+                                            </td>
+                                        </tr>
+                                        <tr>
                                             <th scope="row">Faculty/Industry authors</th>
                                             <td>
-                                                $300<span style="color: red">*</span>
+                                                $300
                                             </td>
                                             <td>
-                                                $350<span style="color: red">*</span>
+                                                $350
                                             </td>
                                         </tr>
                                         <tr>
-                                            <th scope="row">Students</th>
+                                            <th scope="row">Students/Others</th>
                                             <td>
-                                                $250<span style="color: red">*</span>
+                                                $250
                                             </td>
                                             <td>
-                                                $300<span style="color: red">*</span>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">Others</th>
-                                            <td>
-                                                $250<span style="color: red">*</span>
-                                            </td>
-                                            <td>
-                                                $300<span style="color: red">*</span>
+                                                $300
                                             </td>
                                         </tr>
+                                        
                                         </tbody>
                                     </table>
                                 
-                               <span style="color: red;text-align: left">CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.<br/><br/>*For SAARC/Developing countries, the registration fees is fixed at $100 for all categories. No further discount is admissible.</span>
+                               <span style="color: red;text-align: left">CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.</span>
                            </div> </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
