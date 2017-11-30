@@ -192,7 +192,8 @@ html, body {
         margin-left: 10%;
     }
     50% {
-        margin-left: 80%;
+        margin-left: 55%;
+        margin-right: 10%;
     }
     100% {
         margin-left: 10%;
@@ -228,7 +229,7 @@ html, body {
     margin-left: 10%;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
-    animation-duration: 20s;
+    animation-duration: 10s;
 }
 
 #main-content > div > div.row > div {
