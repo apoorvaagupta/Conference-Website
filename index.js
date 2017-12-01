@@ -11,6 +11,16 @@ $(document).ready(function () {
     }
   });
 
+  $('#moveToIndustryTrack').click(function () {
+    $('#copButton').click();
+    $('a[href="#track6"]').click();
+  });
+
+  $('#moveToRegistration').click(function () {
+    $('#regButton').click();
+    $('a[href="#registrationFeesTab"]').click();
+  });
+
   $('#teamc18logo').css('height', $('#nsit-logo').height);
 
   $('#homeButton').click(function () {
@@ -61,7 +71,7 @@ This conference will provide an excellent opportunity to researchers, practition
                                 </span> Industry Track now included
                             </span>
               <br/><br/>
-              <span id="moveToRegisteration"
+              <span id="moveToRegistration"
                   style="cursor: pointer; color: black; font-size: 14pt;background-color: yellow;padding-top: 7px;padding-bottom: 3px;padding-right: 5px">
                 <span class="flash-yellow">
                   <i class="fa fa-star m-0" style="color: yellow; text-indent: 0px"></i>
@@ -206,6 +216,16 @@ This conference will provide an excellent opportunity to researchers, practition
                     </div>
                 </div>
             </div>`);
+
+    $('#moveToIndustryTrack').click(function () {
+      $('#copButton').click();
+      $('a[href="#track6"]').click();
+    });
+
+    $('#moveToRegistration').click(function () {
+      $('#regButton').click();
+      $('a[href="#registrationFeesTab"]').click();
+    });
   });
 
   $('#copButton').click(function () {
