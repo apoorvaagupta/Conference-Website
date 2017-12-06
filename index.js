@@ -2,6 +2,18 @@ $(document).ready(function () {
 
   const mainWrapper = $('#main-wrapper');
 
+  function f1() {
+    let annWidth = $('body').width() - $('#announcement').width();
+    $('#announcement').animate({marginLeft: "50px"}, 6000, function () {
+      $('#announcement').animate({marginLeft: annWidth - 50}, 6000, f1);
+    });
+  }
+
+  let annWidth = $('body').width() - $('#announcement').width();
+  console.log(annWidth);
+
+  $('#announcement').animate({marginLeft: annWidth - 50}, 6000, f1);
+
   $('#toggleNav').click(function () {
     const jumbotron = $('#jumbotron');
     if (jumbotron.css('margin-top') == '80px') {
