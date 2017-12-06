@@ -227,10 +227,10 @@ marquee{
 }
 
 #announcement {
-    animation-name: moveLeftRight;
+    /*animation-name: moveLeftRight;*/
     position: absolute;
     left: 0;
-    margin-left: 10%;
+    margin-left: 5%;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     animation-duration: 10s;
