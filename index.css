@@ -121,7 +121,7 @@ html, body {
 
 .jumbotron {
     border-radius: 0;
-    padding: 2rem 1rem;
+    padding: 1.5rem 1rem;
 }
 
 .label-style {
@@ -189,15 +189,19 @@ html, body {
 
 @keyframes moveLeftRight {
     0% {
-        margin-left: 10%;
+        margin-left: 0%;
     }
     50% {
-        margin-left: 55%;
-        margin-right: 10%;
+        margin-left: 0%;
+        margin-right: 0%;
     }
     100% {
-        margin-left: 10%;
+        margin-left: 0%;
     }
+}
+
+marquee{
+    display: inline-block;
 }
 
 @keyframes flash {
