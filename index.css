@@ -388,3 +388,7 @@ ul.list-group > li {
     font-size: 60px;
     font-family: 'PT Sans', sans-serif;
 }
+
+.navbar-light .nav-link .navbar-nav{
+    color: rgba(0,0,0,0.6)!important;
+}
