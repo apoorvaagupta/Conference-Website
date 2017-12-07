@@ -1119,7 +1119,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3 align-self-center" src="images/SangeetaG.JPG" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/sangeeta.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
                               <h4 class="mt-0 mb-1" style="color: #1E7635">Ms. Sangeeta Gulati</h4>
                               <span class="bio">Ms Sangeeta Gulati is Head of Mathematics Department, Sanskriti School, New
