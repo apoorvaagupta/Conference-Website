@@ -561,7 +561,7 @@ This conference will provide an excellent opportunity to researchers, practition
   $('#subButton').click(function () {
       $('#speakers-row').css("display", "none");
       console.log("reached");
-      $('#announcement').css("display", "none");
+      $('#announcement').css("display", "block");
       console.log("reached");mainWrapper.empty();
     mainWrapper.append(`
     <div style="background-color: white; ">
