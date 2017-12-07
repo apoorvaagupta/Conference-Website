@@ -2,7 +2,8 @@ $(document).ready(function () {
 
   const mainWrapper = $('#main-wrapper');
 
-  function f1() {;
+  function f1() {
+    ;
     $('#announcement').animate({marginLeft: "50px"}, 6000, function () {
       let annWidth = $('body').width() - $('#announcement').width()
       $('#announcement').animate({marginLeft: annWidth - 50}, 6000, f1);
@@ -1070,12 +1071,77 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                     </div>
 
                     <div class="tab-content">
-                        <div class="tab-pane fade show active" id="speakers" role="tabpanel">
-                            
-                        </div>
-                        <div class="tab-pane fade" id="events" role="tabpanel">
-                            <br/>The Events Will Be Announced Soon.
-                        </div>
+                      <div class="tab-pane fade show active" id="speakers" role="tabpanel">
+                        <br/>
+                        <ul class="list-unstyled">
+                          <li class="media">
+                            <img class="d-flex mr-3" src="images/rashmi.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body text-center">
+                              <h5 class="mt-0 mb-1">Ms. Rashmi Dravid</h5>
+                              <span class="bio"></span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3" src="images/Anil_Headshot_2017.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body text-center">
+                              <h5 class="mt-0 mb-1">Dr. Anil Goel</h5>
+                              <span class="bio"></span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3" src="images/opverma.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body text-center">
+                              <h5 class="mt-0 mb-1">Prof. O.P. Verma</h5>
+                              <span class="bio"></span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3" src="images/manusood.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body text-center">
+                              <h5 class="mt-0 mb-1">Prof. Manu Sood</h5>
+                              <span class="bio"></span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body text-center">
+                              <h5 class="mt-0 mb-1">Prof. Pradip Sarkar</h5>
+                              <span class="bio"></span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3" src="images/SangeetaG.JPG" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body text-center">
+                              <h5 class="mt-0 mb-1">Ms. Sangeeta Gulati</h5>
+                              <span class="bio"></span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3" src="images/kkbiswas.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body text-center">
+                              <h5 class="mt-0 mb-1">Prof. K.K. Biswas</h5>
+                              <span class="bio"></span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3" src="images/sanjaymisra.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body text-center">
+                              <h5 class="mt-0 mb-1">Prof. Sanjay Misra</h5>
+                              <span class="bio"></span>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="tab-pane fade" id="events" role="tabpanel">
+                        <br/>The Events Will Be Announced Soon.
+                      </div>
                         
                     </div>
 
