@@ -45,7 +45,8 @@ $(document).ready(function () {
                             Overview</h1>
 
                         <div class="overview-description" style="text-align: center;"><br>
-                            <img src="images/Springer-CCIS.jpg" width="45%">
+                            <img src="images/Springer-CCIS.jpg" width="40%">&nbsp;&nbsp;
+              <img src="images/ictacademy_logo_hi_color_jpg.jpg" width="40%">
                             <br>
                             <!--<span style="background-color: white; color: black; font-size: 14pt;">Welcome to the</span><br><b-->
                                 <!--style="background-color: white; color: black; font-size: 14pt;"><span-->
@@ -1077,7 +1078,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/rashmi.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Ms. Rashmi Dravid</h5>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Ms. Rashmi Dravid</h4>
                               <span class="bio">
                                 She is  an experienced senior academic with particular experience of quality assurance and enhancement,  collaborative and International partnerships and outreach besides subject discipline of computer networks.
                               </span>
@@ -1087,9 +1088,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/Anil_Headshot_2017.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Dr. Anil Goel</h5>
-                              <span class="bio">
-                                Anil K Goel is a Vice President at SAP where he works with the globally distributed SAP HANA Platform
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Dr. Anil Goel</h4>
+                              <span class="bio">Anil K Goel is a Vice President at SAP where he works with the globally distributed SAP HANA Platform
                                 and Database engineering team to drive forward looking architectures, vision, strategy and execution
                                 for several SAP data management products and technologies. In particular, Anil heads global software
                                 development for SAP HANA Tooling, SAP IQ for SAP HANA dynamic tiering, and SAP Vora persistency
@@ -1098,17 +1098,15 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                 computing, self-management of software systems and cost modelling.
                                 Anil earned a PhD in CS from the University of Waterloo. He also holds M. Tech. (CS) from Indian
                                 Institute of Technology, Delhi and B.E. (Electronics and Communications Engineering) from University of
-                                Delhi.
-                              </span>
+                                Delhi.</span>
                             </div>
                           </li>
                           <br/><br/>
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/opverma.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. O.P. Verma</h5>
-                              <span class="bio">
-                                Currently Prof. Verma is Principal of GB Pant Govt. Engineering College. Prior to this, he was head at Department of CSE, DTU, Delhi. He has a wide professional experience of 25 years along with distinguished research activities. His current research area includes applied of computing evolutionary algorithms and many more.
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. O.P. Verma</h4>
+                              <span class="bio">Currently Prof. Verma is Principal of GB Pant Govt. Engineering College. Prior to this, he was head at Department of CSE, DTU, Delhi. He has a wide professional experience of 25 years along with distinguished research activities. His current research area includes applied of computing evolutionary algorithms and many more.
                                 He has successfully completed various academic and administrative positions. He was chairman for b-tech admissions committe from 2011-14 and 2016-17. He has also successfully established campus wide area network (wires and Wi-Fi) in DTU. Additionally, he is a member of various goverment projects and committies. 
                               </span>
                             </div>
@@ -1117,15 +1115,20 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/manusood.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. Manu Sood</h5>
-                              <span class="bio"></span>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. Manu Sood</h4>
+                              <span class="bio">
+                                Prof. Manu Sood is Professor & Chairman,
+                                Department of Computer Science & Director, UIIT. 
+                                He has completed his B.E. (Electronics & Telecommunications) from Government Engineering College, Jabalpur, M.P. (Rani Durgawati University, Jabalpur) in 1988. Post Graduate Diploma in Computers Management (Software) in 1991. M. Tech. (INFORMATION SYSTEMS) from Division of Computer Engineering, Netaji Subhas Institute of Technology, Dwarka, New Delhi in 2001 with Delhi Chief Minister’s Gold Medal. 
+                                Ph.D. from the Division of Computer Engineering, Netaji Subhas Institute of Technology, Dwarka, New Delhi under the Faculty of Technology, Delhi University, Delhi, the title being “Requirements Model: A Basis for Computation of Metrics and Derivation of Class Diagram and Test Cases” in February 2008
+                              </span>
                             </div>
                           </li>
                           <br/><br/>
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. Pradip Sarkar</h5>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. Pradip Sarkar</h4>
                               <span class="bio"></span>
                             </div>
                           </li>
@@ -1133,9 +1136,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/SangeetaG.JPG" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Ms. Sangeeta Gulati</h5>
-                              <span class="bio">
-                                Ms Sangeeta Gulati is Head of Mathematics Department, Sanskriti School, New
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Ms. Sangeeta Gulati</h4>
+                              <span class="bio">Ms Sangeeta Gulati is Head of Mathematics Department, Sanskriti School, New
                                 Delhi. A teacher of mathematics for the past twenty-six years, she has been
                                 teaching students in grade 11 and 12. Awardee of ‘National Award for using ICT
                                 for Innovation in Teaching, 2016’ and a Google Education Certified Innovator,
@@ -1150,24 +1152,28 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                 An Edmodo Certified Trainer and Global Teacher Accreditation (British
                                 Council) award winner Sangeeta was awarded Fulbright Distinguished Award
                                 in Teaching in 2011. The wikispace : dynamath.wikispaces.com was started as
-                                part of her fellowship and is a great resource for math teachers.
-                              </span>
+                                part of her fellowship and is a great resource for math teachers.</span>
                             </div>
                           </li>
                           <br/><br/>
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/kkbiswas.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. K.K. Biswas</h5>
-                              <span class="bio"></span>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. K.K. Biswas</h4>
+                              <span class="bio">
+                              He was Former Professor, IIT Delhi, Machine Learning, Computer Vision
+Research interest is Image and Video Processing, Machine Learning with applications in activity recognition and Bio-informatics
+
+Also has interest in Software Engineering, where he is trying to discover ambiguities in Requirements Engineering documents.
+                              </span>
                             </div>
                           </li>
                           <br/><br/>
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/sanjaymisra.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. Sanjay Misra</h5>
-                              <span class="bio"></span>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. Sanjay Misra</h4>
+                              <span class="bio">Sanjay Misra is full Professor of Computer Engineering at Covenant University, Ota, Nigeria. He has 25 years of wide experience in academic administration and researches in various universities in Asia, Europe and Africa. He is Ph.d. in Information and Know. Engg (Software Engineering) from University of Alcala, Spain and M.Tech.(Software Engineering) from Motilal Nehru National Institute of Technology, India.He has author/coauthor in around 300 papers- (with colleagues from nearly 30 countries) and majority the publications are in ISI Web of Sciences and got several awards for outstanding publications e.g. Institute of Engineering and Technology(IET), United Kingdom awarded him ‘2014 IET Software Premium Award’  for Best Paper published in last two years. </span>
                             </div>
                           </li>
                         </ul>
