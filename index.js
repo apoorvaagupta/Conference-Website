@@ -45,7 +45,8 @@ $(document).ready(function () {
                             Overview</h1>
 
                         <div class="overview-description" style="text-align: center;"><br>
-                            <img src="images/Springer-CCIS.jpg" width="45%">
+                            <img src="images/Springer-CCIS.jpg" width="40%">&nbsp;&nbsp;
+              <img src="images/ictacademy_logo_hi_color_jpg.jpg" width="40%">
                             <br>
                             <!--<span style="background-color: white; color: black; font-size: 14pt;">Welcome to the</span><br><b-->
                                 <!--style="background-color: white; color: black; font-size: 14pt;"><span-->
@@ -1077,7 +1078,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3" src="images/rashmi.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Ms. Rashmi Dravid</h5>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Ms. Rashmi Dravid</h4>
                               <span class="bio"></span>
                             </div>
                           </li>
@@ -1085,7 +1086,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3" src="images/Anil_Headshot_2017.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Dr. Anil Goel</h5>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Dr. Anil Goel</h4>
                               <span class="bio"></span>
                             </div>
                           </li>
@@ -1093,7 +1094,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3" src="images/opverma.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. O.P. Verma</h5>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. O.P. Verma</h4>
                               <span class="bio"></span>
                             </div>
                           </li>
@@ -1101,7 +1102,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3" src="images/manusood.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. Manu Sood</h5>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. Manu Sood</h4>
                               <span class="bio"></span>
                             </div>
                           </li>
@@ -1109,7 +1110,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. Pradip Sarkar</h5>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. Pradip Sarkar</h4>
                               <span class="bio"></span>
                             </div>
                           </li>
@@ -1117,7 +1118,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3" src="images/SangeetaG.JPG" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Ms. Sangeeta Gulati</h5>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Ms. Sangeeta Gulati</h4>
                               <span class="bio"></span>
                             </div>
                           </li>
@@ -1125,7 +1126,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3" src="images/kkbiswas.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. K.K. Biswas</h5>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. K.K. Biswas</h4>
                               <span class="bio"></span>
                             </div>
                           </li>
@@ -1133,8 +1134,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <li class="media">
                             <img class="d-flex mr-3" src="images/sanjaymisra.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
-                              <h5 class="mt-0 mb-1">Prof. Sanjay Misra</h5>
-                              <span class="bio"></span>
+                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. Sanjay Misra</h4>
+                              <span class="bio">Sanjay Misra is full Professor of Computer Engineering at Covenant University, Ota, Nigeria. He has 25 years of wide experience in academic administration and researches in various universities in Asia, Europe and Africa. He is Ph.d. in Information and Know. Engg (Software Engineering) from University of Alcala, Spain and M.Tech.(Software Engineering) from Motilal Nehru National Institute of Technology, India.He has author/coauthor in around 300 papers- (with colleagues from nearly 30 countries) and majority the publications are in ISI Web of Sciences and got several awards for outstanding publications e.g. Institute of Engineering and Technology(IET), United Kingdom awarded him ‘2014 IET Software Premium Award’  for Best Paper published in last two years. </span>
                             </div>
                           </li>
                         </ul>
