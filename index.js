@@ -1053,10 +1053,36 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
 
                     <div class="overview-description"
                          style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
-                        <span style="color: black; font-size: 14pt;"><br></span>
-                        <span style="color: black; font-size: 14pt;">
-                            Program will be announced soon.
-                        </span></div></div></div>`);
+                        
+                        </div>
+                        
+                        <div style="padding: 0; width: 100%">
+                        <ul class="nav nav-tabs nav-justified " role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style active" data-toggle="tab"
+                                   href="#speakers">SPEAKERS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#events">EVENTS</a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="tab-content">
+                        <div class="tab-pane fade show active" id="speakers" role="tabpanel">
+                            
+                        </div>
+                        <div class="tab-pane fade" id="events" role="tabpanel">
+                            <br/>The Events Will Be Announced Soon.
+                        </div>
+                        
+                    </div>
+
+                        
+                        
+                        
+                        </div></div>`);
   });
 
   $('#committeeButton').click(function () {
