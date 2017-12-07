@@ -37,7 +37,10 @@ $(document).ready(function () {
   $('#teamc18logo').css('height', $('#nsit-logo').height);
 
   $('#homeButton').click(function () {
-    mainWrapper.empty();
+      $('#speakers-row').show();
+      console.log("reached");
+      $('#announcement').css("display", "block");
+      console.log("reached");mainWrapper.empty();
     mainWrapper.append(`<div style="background-color: white; ">
                 <div class="row">
                     <div class="col-md-12" style="padding: 30px;">
@@ -228,6 +231,10 @@ This conference will provide an excellent opportunity to researchers, practition
   });
 
   $('#copButton').click(function () {
+    $('#speakers-row').hide();
+    console.log("reached");
+    $('#announcement').css("display", "none");
+      console.log("reached");
     mainWrapper.empty();
     mainWrapper.append(`            
     <div style="background-color: white;width: 100%; ">
@@ -552,7 +559,10 @@ This conference will provide an excellent opportunity to researchers, practition
   });
 
   $('#subButton').click(function () {
-    mainWrapper.empty();
+      $('#speakers-row').css("display", "none");
+      console.log("reached");
+      $('#announcement').css("display", "none");
+      console.log("reached");mainWrapper.empty();
     mainWrapper.append(`
     <div style="background-color: white; ">
 
@@ -682,7 +692,11 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
   });
 
   $('#regButton').click(function () {
-    mainWrapper.empty();
+
+      $('#speakers-row').css("display", "none");
+      console.log("reached");
+      $('#announcement').css("display", "none");
+      console.log("reached");mainWrapper.empty();
     mainWrapper.append(`            
     <div style="background-color: white; ">
 
@@ -853,7 +867,10 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
   });
 
   $('#reg2button').click(function () {
-    mainWrapper.empty();
+      $('#speakers-row').css("display", "none");
+      console.log("reached");
+      $('#announcement').css("display", "none");
+      console.log("reached");mainWrapper.empty();
     mainWrapper.append(`            
     <div style="background-color: white; ">
 
@@ -1033,7 +1050,10 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
   });
 
   $('#programButton').click(function () {
-    mainWrapper.empty();
+      $('#speakers-row').css("display", "none");
+      console.log("reached");
+      $('#announcement').css("display", "none");
+      console.log("reached");mainWrapper.empty();
     mainWrapper.append(`<div style="background-color: white;"><div style="padding: 30px; font-size: 14pt; color: black">` +
       `<h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;">
                        PROGRAM</h1>
@@ -1176,7 +1196,10 @@ Also has interest in Software Engineering, where he is trying to discover ambigu
   });
 
   $('#committeeButton').click(function () {
-    mainWrapper.empty();
+      $('#speakers-row').css("display", "none");
+      console.log("reached");
+      $('#announcement').css("display", "none");
+      console.log("reached");mainWrapper.empty();
     mainWrapper.append(`<div style="background-color: white;width: 100%; ">
 
 
@@ -1432,7 +1455,10 @@ Also has interest in Software Engineering, where he is trying to discover ambigu
   });
 
   $('#sponsorButton').click(function () {
-    mainWrapper.empty();
+      $('#speakers-row').css("display", "none");
+      console.log("reached");
+      $('#announcement').css("display", "none");
+      console.log("reached");mainWrapper.empty();
     mainWrapper.append(`
                 <div style="background-color: white; ">
 
@@ -1580,7 +1606,10 @@ V.P. Ranjan, Finance Chair<br/><br/>
 
   $('#infoButton').click(function () {
 
-
+      $('#speakers-row').css("display", "none");
+      console.log("reached");
+      $('#announcement').css("display", "none");
+      console.log("reached");
     // AIzaSyDBqAJQ9d0sn9iRRrjJjjUtRbbAsBS-0uU
     mainWrapper.empty();
     mainWrapper.append(`
