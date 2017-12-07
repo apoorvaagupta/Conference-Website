@@ -1082,8 +1082,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                         <ul class="list-unstyled">
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/rashmi.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body text-center">
-                              <h4 class="mt-0 mb-1" style="color: #1E7635">Ms. Rashmi Dravid</h4>
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Ms. Rashmi Dravid</h4>
                               <span class="bio">
                                 She is  an experienced senior academic with particular experience of quality assurance and enhancement,  collaborative and International partnerships and outreach besides subject discipline of computer networks.
                               </span>
@@ -1092,8 +1092,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <br/><br/>
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/Anil_Headshot_2017.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body text-center">
-                              <h4 class="mt-0 mb-1" style="color: #1E7635">Dr. Anil Goel</h4>
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Dr. Anil Goel</h4>
                               <span class="bio">Anil K Goel is a Vice President at SAP where he works with the globally distributed SAP HANA Platform
                                 and Database engineering team to drive forward looking architectures, vision, strategy and execution
                                 for several SAP data management products and technologies. In particular, Anil heads global software
@@ -1109,8 +1109,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <br/><br/>
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/opverma.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body text-center">
-                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. O.P. Verma</h4>
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. O.P. Verma</h4>
                               <span class="bio">Currently Prof. Verma is Principal of GB Pant Govt. Engineering College. Prior to this, he was head at Department of CSE, DTU, Delhi. He has a wide professional experience of 25 years along with distinguished research activities. His current research area includes applied of computing evolutionary algorithms and many more.
                                 He has successfully completed various academic and administrative positions. He was chairman for b-tech admissions committe from 2011-14 and 2016-17. He has also successfully established campus wide area network (wires and Wi-Fi) in DTU. Additionally, he is a member of various goverment projects and committies. 
                               </span>
@@ -1119,8 +1119,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <br/><br/>
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/manusood.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body text-center">
-                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. Manu Sood</h4>
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. Manu Sood</h4>
                               <span class="bio">
                                 Prof. Manu Sood is Professor & Chairman,
                                 Department of Computer Science & Director, UIIT. 
@@ -1130,18 +1130,11 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                             </div>
                           </li>
                           <br/><br/>
-                          <li class="media">
-                            <img class="d-flex mr-3 align-self-center" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body text-center">
-                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. Pradip Sarkar</h4>
-                              <span class="bio"></span>
-                            </div>
-                          </li>
-                          <br/><br/>
+                          
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/sangeeta.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body text-center">
-                              <h4 class="mt-0 mb-1" style="color: #1E7635">Ms. Sangeeta Gulati</h4>
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Ms. Sangeeta Gulati</h4>
                               <span class="bio">Ms Sangeeta Gulati is Head of Mathematics Department, Sanskriti School, New
                                 Delhi. A teacher of mathematics for the past twenty-six years, she has been
                                 teaching students in grade 11 and 12. Awardee of ‘National Award for using ICT
@@ -1163,8 +1156,8 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           <br/><br/>
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/kkbiswas.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body text-center">
-                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. K.K. Biswas</h4>
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. K.K. Biswas</h4>
                               <span class="bio">
                               He was Former Professor, IIT Delhi, Machine Learning, Computer Vision
 Research interest is Image and Video Processing, Machine Learning with applications in activity recognition and Bio-informatics
@@ -1176,8 +1169,8 @@ Also has interest in Software Engineering, where he is trying to discover ambigu
                           <br/><br/>
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/sanjaymisra.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body text-center">
-                              <h4 class="mt-0 mb-1" style="color: #1E7635">Prof. Sanjay Misra</h4>
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. Sanjay Misra</h4>
                               <span class="bio">Sanjay Misra is full Professor of Computer Engineering at Covenant University, Ota, Nigeria. He has 25 years of wide experience in academic administration and researches in various universities in Asia, Europe and Africa. He is Ph.d. in Information and Know. Engg (Software Engineering) from University of Alcala, Spain and M.Tech.(Software Engineering) from Motilal Nehru National Institute of Technology, India.He has author/coauthor in around 300 papers- (with colleagues from nearly 30 countries) and majority the publications are in ISI Web of Sciences and got several awards for outstanding publications e.g. Institute of Engineering and Technology(IET), United Kingdom awarded him ‘2014 IET Software Premium Award’  for Best Paper published in last two years. </span>
                             </div>
                           </li>
@@ -1823,3 +1816,13 @@ V.P. Ranjan, Finance Chair<br/><br/>
 //<h3 style="font-family: 'Roboto Condensed', sans-serif;color: #50514f;line-height: 1.2;margin-bottom: 15px;font-size: 18px;text-transform: uppercase;">
 //     *CSI, ACM and IEEE Members will be given a discount of 15%
 // </h3>
+
+
+// <li class="media">
+//     <img class="d-flex mr-3 align-self-center" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+//     <div class="media-body">
+//     <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. Pradip Sarkar</h4>
+// <span class="bio"></span>
+//     </div>
+//     </li>
+//     <br/><br/>
