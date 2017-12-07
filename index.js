@@ -1084,7 +1084,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                             <img class="d-flex mr-3 align-self-center" src="images/rashmi.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body">
                               <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Ms. Rashmi Dravid</h4>
-                              <span class="bio">
+                              <span class="bio">Ms. Rashmi Dravid is the Head of Partnership Programmes at University of Northampton. 
                                 She is  an experienced senior academic with particular experience of quality assurance and enhancement,  collaborative and International partnerships and outreach besides subject discipline of computer networks.
                               </span>
                             </div>
