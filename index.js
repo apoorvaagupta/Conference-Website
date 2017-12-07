@@ -76,22 +76,7 @@ This conference will provide an excellent opportunity to researchers, practition
 
                             </span>
 
-                            <br>
-                            <span id="moveToIndustryTrack"
-                  style="cursor: pointer; color: black; font-size: 14pt;background-color: yellow;padding-top: 7px;padding-bottom: 3px;padding-right: 5px">
-                                <span class="flash-yellow">
-                                    <i class="fa fa-star m-0" style="color: yellow; text-indent: 0px"></i>
-                                    <span style="color: red;">New</span>
-                                </span> Industry Track now included
-                            </span>
-              <br/><br/>
-              <span id="moveToRegistration"
-                  style="cursor: pointer; color: black; font-size: 14pt;background-color: yellow;padding-top: 7px;padding-bottom: 3px;padding-right: 5px">
-                <span class="flash-yellow">
-                  <i class="fa fa-star m-0" style="color: yellow; text-indent: 0px"></i>
-                  <span style="color: red;">New</span>
-                </span> See Registration Instructions for Discounts
-              </span>
+                            
                         </div>
 
 
