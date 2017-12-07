@@ -1075,31 +1075,47 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                         <br/>
                         <ul class="list-unstyled">
                           <li class="media">
-                            <img class="d-flex mr-3" src="images/rashmi.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/rashmi.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
                               <h5 class="mt-0 mb-1">Ms. Rashmi Dravid</h5>
-                              <span class="bio"></span>
+                              <span class="bio">
+                                She is  an experienced senior academic with particular experience of quality assurance and enhancement,  collaborative and International partnerships and outreach besides subject discipline of computer networks.
+                              </span>
                             </div>
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3" src="images/Anil_Headshot_2017.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/Anil_Headshot_2017.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
                               <h5 class="mt-0 mb-1">Dr. Anil Goel</h5>
-                              <span class="bio"></span>
+                              <span class="bio">
+                                Anil K Goel is a Vice President at SAP where he works with the globally distributed SAP HANA Platform
+                                and Database engineering team to drive forward looking architectures, vision, strategy and execution
+                                for several SAP data management products and technologies. In particular, Anil heads global software
+                                development for SAP HANA Tooling, SAP IQ for SAP HANA dynamic tiering, and SAP Vora persistency
+                                technologies. He oversees collaborative research and internship programs with universities in Canada.
+                                His interests include database system architecture, in-memory and very large scale distributed
+                                computing, self-management of software systems and cost modelling.
+                                Anil earned a PhD in CS from the University of Waterloo. He also holds M. Tech. (CS) from Indian
+                                Institute of Technology, Delhi and B.E. (Electronics and Communications Engineering) from University of
+                                Delhi.
+                              </span>
                             </div>
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3" src="images/opverma.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/opverma.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
                               <h5 class="mt-0 mb-1">Prof. O.P. Verma</h5>
-                              <span class="bio"></span>
+                              <span class="bio">
+                                Currently Prof. Verma is Principal of GB Pant Govt. Engineering College. Prior to this, he was head at Department of CSE, DTU, Delhi. He has a wide professional experience of 25 years along with distinguished research activities. His current research area includes applied of computing evolutionary algorithms and many more.
+                                He has successfully completed various academic and administrative positions. He was chairman for b-tech admissions committe from 2011-14 and 2016-17. He has also successfully established campus wide area network (wires and Wi-Fi) in DTU. Additionally, he is a member of various goverment projects and committies. 
+                              </span>
                             </div>
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3" src="images/manusood.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/manusood.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
                               <h5 class="mt-0 mb-1">Prof. Manu Sood</h5>
                               <span class="bio"></span>
@@ -1107,7 +1123,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
                               <h5 class="mt-0 mb-1">Prof. Pradip Sarkar</h5>
                               <span class="bio"></span>
@@ -1115,15 +1131,32 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3" src="images/SangeetaG.JPG" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/SangeetaG.JPG" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
                               <h5 class="mt-0 mb-1">Ms. Sangeeta Gulati</h5>
-                              <span class="bio"></span>
+                              <span class="bio">
+                                Ms Sangeeta Gulati is Head of Mathematics Department, Sanskriti School, New
+                                Delhi. A teacher of mathematics for the past twenty-six years, she has been
+                                teaching students in grade 11 and 12. Awardee of ‘National Award for using ICT
+                                for Innovation in Teaching, 2016’ and a Google Education Certified Innovator,
+                                Sangeeta has been actively involved in exploring the use of technology in
+                                teaching and learning of mathematics and has contributed to several
+                                Professional Development and Technology Orientation Program all over India.
+                                She conducts workshop on GeoGebra, Desmos, Google Apps and Online
+                                Resources.
+                                Sangeeta is a resource person with NCERT in developing ICT material and has
+                                developed video lessons for class XI & XII with Central Institute of Educational
+                                Technology, NCERT.
+                                An Edmodo Certified Trainer and Global Teacher Accreditation (British
+                                Council) award winner Sangeeta was awarded Fulbright Distinguished Award
+                                in Teaching in 2011. The wikispace : dynamath.wikispaces.com was started as
+                                part of her fellowship and is a great resource for math teachers.
+                              </span>
                             </div>
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3" src="images/kkbiswas.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/kkbiswas.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
                               <h5 class="mt-0 mb-1">Prof. K.K. Biswas</h5>
                               <span class="bio"></span>
@@ -1131,7 +1164,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3" src="images/sanjaymisra.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/sanjaymisra.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body text-center">
                               <h5 class="mt-0 mb-1">Prof. Sanjay Misra</h5>
                               <span class="bio"></span>
