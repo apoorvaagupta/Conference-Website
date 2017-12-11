@@ -34,8 +34,12 @@ $(document).ready(function () {
     $('#programButton').click();
   });
 
-  $('.moveToHackeam').click(function () {
+  $('#moveToHackeam').click(function () {
     $('#hackeamButton').click();
+  });
+
+  $('#moveToHackeamWebsite').click(function () {
+    window.location.replace("http://hackeam.teamc18.com");
   });
 
   $('#moveToRegistration').click(function () {
