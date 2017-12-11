@@ -30,9 +30,13 @@ $(document).ready(function () {
   });
 
 
-    $('#moveToSpeakers').click(function () {
-        $('#programButton').click();
-    });
+  $('#moveToSpeakers').click(function () {
+    $('#programButton').click();
+  });
+
+  $('.moveToHackeam').click(function () {
+    $('#hackeamButton').click();
+  });
 
   $('#moveToRegistration').click(function () {
     $('#regButton').click();
@@ -42,10 +46,11 @@ $(document).ready(function () {
   $('#teamc18logo').css('height', $('#nsit-logo').height);
 
   $('#homeButton').click(function () {
-      $('#speakers-row').show();
-      console.log("reached");
-      $('#announcement').css("display", "block");
-      console.log("reached");mainWrapper.empty();
+    $('#speakers-row').show();
+    console.log("reached");
+    $('#announcement').css("display", "block");
+    console.log("reached");
+    mainWrapper.empty();
     mainWrapper.append(`<div style="background-color: white; ">
                 <div class="row">
                     <div class="col-md-12" style="padding: 30px;">
@@ -239,7 +244,7 @@ This conference will provide an excellent opportunity to researchers, practition
     $('#speakers-row').hide();
     console.log("reached");
     $('#announcement').css("display", "none");
-      console.log("reached");
+    console.log("reached");
     mainWrapper.empty();
     mainWrapper.append(`            
     <div style="background-color: white;width: 100%; ">
@@ -564,10 +569,11 @@ This conference will provide an excellent opportunity to researchers, practition
   });
 
   $('#subButton').click(function () {
-      $('#speakers-row').css("display", "none");
-      console.log("reached");
-      $('#announcement').css("display", "block");
-      console.log("reached");mainWrapper.empty();
+    $('#speakers-row').css("display", "none");
+    console.log("reached");
+    $('#announcement').css("display", "block");
+    console.log("reached");
+    mainWrapper.empty();
     mainWrapper.append(`
     <div style="background-color: white; ">
 
@@ -698,10 +704,11 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
 
   $('#regButton').click(function () {
 
-      $('#speakers-row').css("display", "none");
-      console.log("reached");
-      $('#announcement').css("display", "none");
-      console.log("reached");mainWrapper.empty();
+    $('#speakers-row').css("display", "none");
+    console.log("reached");
+    $('#announcement').css("display", "none");
+    console.log("reached");
+    mainWrapper.empty();
     mainWrapper.append(`            
     <div style="background-color: white; ">
 
@@ -872,10 +879,11 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
   });
 
   $('#reg2button').click(function () {
-      $('#speakers-row').css("display", "none");
-      console.log("reached");
-      $('#announcement').css("display", "none");
-      console.log("reached");mainWrapper.empty();
+    $('#speakers-row').css("display", "none");
+    console.log("reached");
+    $('#announcement').css("display", "none");
+    console.log("reached");
+    mainWrapper.empty();
     mainWrapper.append(`            
     <div style="background-color: white; ">
 
@@ -1055,10 +1063,11 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
   });
 
   $('#programButton').click(function () {
-      $('#speakers-row').css("display", "none");
-      console.log("reached");
-      $('#announcement').css("display", "none");
-      console.log("reached");mainWrapper.empty();
+    $('#speakers-row').css("display", "none");
+    console.log("reached");
+    $('#announcement').css("display", "none");
+    console.log("reached");
+    mainWrapper.empty();
     mainWrapper.append(`<div style="background-color: white;"><div style="padding: 30px; font-size: 14pt; color: black">` +
       `<h1 style="font-family: 'Roboto Condensed', sans-serif;color:#555; border-bottom: solid 1px #bbb; line-height: 1.2;margin-bottom: 15px;font-size: 36px;">
                        PROGRAM</h1>
@@ -1194,10 +1203,11 @@ Also has interest in Software Engineering, where he is trying to discover ambigu
   });
 
   $('#committeeButton').click(function () {
-      $('#speakers-row').css("display", "none");
-      console.log("reached");
-      $('#announcement').css("display", "none");
-      console.log("reached");mainWrapper.empty();
+    $('#speakers-row').css("display", "none");
+    console.log("reached");
+    $('#announcement').css("display", "none");
+    console.log("reached");
+    mainWrapper.empty();
     mainWrapper.append(`<div style="background-color: white;width: 100%; ">
 
 
@@ -1453,10 +1463,11 @@ Also has interest in Software Engineering, where he is trying to discover ambigu
   });
 
   $('#sponsorButton').click(function () {
-      $('#speakers-row').css("display", "none");
-      console.log("reached");
-      $('#announcement').css("display", "none");
-      console.log("reached");mainWrapper.empty();
+    $('#speakers-row').css("display", "none");
+    console.log("reached");
+    $('#announcement').css("display", "none");
+    console.log("reached");
+    mainWrapper.empty();
     mainWrapper.append(`
                 <div style="background-color: white; ">
 
@@ -1604,10 +1615,10 @@ V.P. Ranjan, Finance Chair<br/><br/>
 
   $('#infoButton').click(function () {
 
-      $('#speakers-row').css("display", "none");
-      console.log("reached");
-      $('#announcement').css("display", "none");
-      console.log("reached");
+    $('#speakers-row').css("display", "none");
+    console.log("reached");
+    $('#announcement').css("display", "none");
+    console.log("reached");
     // AIzaSyDBqAJQ9d0sn9iRRrjJjjUtRbbAsBS-0uU
     mainWrapper.empty();
     mainWrapper.append(`
@@ -1814,6 +1825,106 @@ V.P. Ranjan, Finance Chair<br/><br/>
 
 
   });
+
+  $('#hackeamButton').click(function () {
+    $('#speakers-row').css("display", "none");
+    console.log("reached");
+    $('#announcement').css("display", "none");
+    console.log("reached");
+
+    mainWrapper.empty();
+    mainWrapper.append(`
+      <div style="background-color: white; ">
+        <div class="row">
+                    <div class="col-md-12" style="padding: 30px;">
+                        <h1 style="font-family: 'Roboto Condensed', sans-serif;color: #555; border-bottom: solid 1px #bbb;line-height: 1.2;margin-bottom: 15px;font-size: 36px;text-transform: uppercase;">
+                            HACKEAM 2018</h1>
+
+                        <div class="overview-description"
+                             style="background: white; line-height: 18pt; margin: 0; text-align: justify; text-indent: 0.5in;">
+                            <span style="color: black; font-size: 14pt;"><br></span>
+                            <span style="color: black; font-size: 14pt;">
+                            HACKEAM 2018 is a unique design contest cum hackathon that
+                                proceeds through phases and leads to the International Conference
+                                      TEAMC 2018.<br/><br/>
+                              As teams of multi-disciplinary talents go through these phases, they
+                                will experience the joys of visiting various places, interacting with
+                                people, reporting, designing, coding and paper writing.
+                    <br/><br/>
+                            <b>There are awards to be grabbed after each stage!</b>
+                            <br/><br/>
+                            
+                            All teams wishing to participate in the hackathon must register
+  themselves by the last date. Please visit the 
+            <a target="_blank" href="http://hackeam.teamc18.com">HACKEAM website</a> to register.
+                            <br/><br/>
+                            <span style="color: red">Last Date of Registration: 20 Dec,  2017</span>
+                            <br/>
+                            <br/>
+                            Teams must strictly adhere to the rules as set by the organisers.
+                            </span><br/><br/>
+                   <h3 style="color: #177731">Phase 1: The Treks begin</h3>
+                            <br>
+<span style="color: black; font-size: 14pt;">The registered teams need to visit a Place of Interest (POI) which
+may be:</span>
+<ul>
+<li style="color: black; font-size: 14pt;"> A rural or semi-urban area for the  Rural  Trek</li>
+ <li style="color: black; font-size: 14pt;">A healthcare centre for the Health Trek</li>
+<li style="color: black; font-size: 14pt;"> A School or institution for Education Trek.</li>
+</ul>
+<span style="color: black; font-size: 14pt;">
+The POI to be explored may or may be one of the pre-designated
+areas listed by the organizers or chosen by the participants
+themselves.
+Participants will document their visit by reporting their experiences
+on,</span>
+<ul>
+ <li style="color: black; font-size: 14pt;">Interacting with/ interviewing the locals and stakeholders</li>
+<li style="color: black; font-size: 14pt;"> Analysing the results of the interviews to understand their
+problems</li>
+ <li style="color: black; font-size: 14pt;">Identifying a specific problem to solve.</li>
+</ul>
+<span style="color: black; font-size: 14pt;">
+An Experience Report (max 5 pages, 2-column, 10 font) must be
+submitted, using Text, Geo-tagged photographs, Graphics.<br/>
+<br/>
+<b>Timeline of the Phase 1: From date of registration till 10 Jan, 2018</b><br/><br/>
+<span style="color: red;"><b>Three best entries will be awarded for Best Reporting Skills.</b></span></span>
+<br><br> 
+<h3 style="color: #177731">Phase 2: Hackathon at NSIT</h3><br>
+<span style="color: black; font-size: 14pt;">
+Teams will design a solution to their identified problem and prepare
+a <span style="color: red;">Technical Report</span> of their design. All teams will be invited to be a
+part of the hackathon at NSIT during 27-28 Jan, 2018. The
+implementation will be done during the hackathon.<br><br/>
+<b>Timeline of the Phase 2: From 10 Jan, 2018 to 28 Jan, 2018</b><br/><br/>
+<span style="color: red"><b>The best three teams will be given Best Tech Awards.</b></span> <br><br>
+   </span>
+<h3 style="color: #177731">Phase 3: Paper presentation</h3>
+<br/>
+<span style="color: black; font-size: 14pt;">
+All teams will add experimental results and final conclusions to
+their Technical Reports and combine the two reports (Experience
+and Technical), to prepare a composite research paper (max 10
+pages, 10-font, single column).<br><br/>
+<b>
+Deadline for submitting paper: 10 Feb, 2018</b><br><br/>
+The submitted papers will be reviewed. Selected papers will get an
+opportunity to showcase their work in the prestigious International
+Conference TEAMC 2018 during March 26-28, 2018 at NSIT to an
+large audience.<br><br/>
+<em><b>
+At least one member of each team will have to register for TEAMC
+2018 if they wish to present their paper.</b></em><br><br/>
+<span style="color: red;"><b>The best paper will be given the Best Paper Award in Hackathon
+category.</b></span></span>
+                        </div>
+                    </div>
+                </div>
+      </div>
+    
+    `)
+  })
 
 });
 
