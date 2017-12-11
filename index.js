@@ -29,6 +29,11 @@ $(document).ready(function () {
     $('a[href="#track6"]').click();
   });
 
+
+    $('#moveToSpeakers').click(function () {
+        $('#programButton').click();
+    });
+
   $('#moveToRegistration').click(function () {
     $('#regButton').click();
     $('a[href="#registrationFeesTab"]').click();
@@ -48,8 +53,8 @@ $(document).ready(function () {
                             Overview</h1>
 
                         <div class="overview-description" style="text-align: center;"><br>
-                            <img src="images/Springer-CCIS.jpg" width="40%">&nbsp;&nbsp;
-              <img src="images/ictacademy_logo_hi_color_jpg.jpg" width="40%">
+                            <a href="http://www.springer.com/in/"><img src="images/Springer-CCIS.jpg" width="40%"></a>&nbsp;&nbsp;
+              <a href="http://www.ictacademy.in/pages/index.aspx"><img src="images/ictacademy_logo_hi_color_jpg.jpg" width="40%"></a>
                             <br>
                             <!--<span style="background-color: white; color: black; font-size: 14pt;">Welcome to the</span><br><b-->
                                 <!--style="background-color: white; color: black; font-size: 14pt;"><span-->
