@@ -34,9 +34,20 @@ $(document).ready(function () {
     $('#programButton').click();
   });
 
-  $('.moveToHackeam').click(function () {
+  $('#moveToHackeamTab').click(function () {
     $('#hackeamButton').click();
   });
+
+  $('#moveToHackeamWebsite').click(function () {
+    var win = window.open('http://hackeam.teamc18.com/', '_blank');
+    if (win) {
+      //Browser has allowed it to be opened
+      win.focus();
+    } else {
+      //Browser has blocked it
+      alert('Please allow popups for this website');
+    }
+  })
 
   $('#moveToRegistration').click(function () {
     $('#regButton').click();
