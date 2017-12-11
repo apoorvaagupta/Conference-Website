@@ -47,7 +47,7 @@ $(document).ready(function () {
       //Browser has blocked it
       alert('Please allow popups for this website');
     }
-  })
+  });
 
   $('#moveToRegistration').click(function () {
     $('#regButton').click();
