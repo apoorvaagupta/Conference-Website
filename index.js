@@ -562,9 +562,7 @@ This conference will provide an excellent opportunity to researchers, practition
                                     <h3 style="padding-bottom: 10px; color:#177731;"> Industry Track</h3>
                                     <div>
                                         <p style="color: #002060">
-                                          The Industry Track seeks papers describing work in progress, concept papers, 
-                                          experience papers and papers on state of the art from entrepreneurs, industry professionals, 
-                                          faculty and students.
+                                          The Industry Track aims at bridging the gap between academia and industry. We invite short papers of 4-8 pages on real-life case studies, experience on state-of-the-art technologies and work-in-progress in the industry. 
                                         </p>
                                         
                                     </div>
