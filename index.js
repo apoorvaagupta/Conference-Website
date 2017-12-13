@@ -1178,7 +1178,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3 align-self-center" src="images/kkbiswas.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/kkbiswas.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body">
                               <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. K.K. Biswas</h4>
                               <span class="bio">
@@ -1186,6 +1186,29 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
 Research interest is Image and Video Processing, Machine Learning with applications in activity recognition and Bio-informatics
 
 Also has interest in Software Engineering, where he is trying to discover ambiguities in Requirements Engineering documents.
+                              </span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3 align-self-center" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. K.K. Biswas</h4>
+                              <span class="bio">
+                              Professor Pradip Kumar Sarkar graduated in Civil Engineering from Bengal Engineering
+College, Calcutta University in 1974, presently known as Indian Institute of Science and
+Technolgy(IEST) and completed his Post Graduation in Town Planning with specialization
+in Traffic and Transportation Planning from the School of Planning and Architecture in
+1977. He was awarded Commonwealth Scholarship to pursue higher studies in Transport
+Engineering at Newcastle Upon Tyne, UK in 1981. He was awarded Ph.D. in Planning in
+2002 from School of Planning and Architecture, New Delhi. He was in UK on
+Commonwealth fellowship Programme at Newcastle University in 2013. He is presently
+Professor and Heading the Department of Transport Planning and is engaged in teaching
+and research and consulting work in the area of Transport Planning in the School of
+Planning and Architecture. He has been actively involved as an expert member as well as
+Advisor on various consultancy projects in areas of Transport Planning and Design, Urban
+Planning, Environment Planning and Highway Design Study, Feasibility Studies and Road
+Safety Auditing.
                               </span>
                             </div>
                           </li>
