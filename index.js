@@ -1220,6 +1220,26 @@ Safety Auditing.
                               <span class="bio">Sanjay Misra is full Professor of Computer Engineering at Covenant University, Ota, Nigeria. He has 25 years of wide experience in academic administration and researches in various universities in Asia, Europe and Africa. He is Ph.d. in Information and Know. Engg (Software Engineering) from University of Alcala, Spain and M.Tech.(Software Engineering) from Motilal Nehru National Institute of Technology, India.He has author/coauthor in around 300 papers- (with colleagues from nearly 30 countries) and majority the publications are in ISI Web of Sciences and got several awards for outstanding publications e.g. Institute of Engineering and Technology(IET), United Kingdom awarded him ‘2014 IET Software Premium Award’  for Best Paper published in last two years. </span>
                             </div>
                           </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3 align-self-center" src="images/pktulsi.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. P.K. Tulsi</h4>
+                              <span class="bio">
+                              Prof. (Dr.) PK Tulsi is working in the Department of Education and Educational
+Management of National Institute of Technical Teachers’ Training and Research
+since 1986. She was the Director Incharge of the institute from January to August,
+2017; Dean, Research &amp; Development from June 2013-June 2016; headed the
+Department of Education &amp; Educational Management from 2004 to 2011 and
+remained Faculty Incharge of Distance Learning Cell from 1996 to 2004. She is a
+recipient of Best Faculty Award from ISTE Chapter in 2014. Her major
+responsibilities as faculty include education &amp; training of teachers working in
+technical institutions, developing instructional material, undertaking research in the
+area of technical education and providing customized services to institutions and
+organizations.
+                              </span>
+                            </div>
+                          </li>
                         </ul>
                       </div>
                       <div class="tab-pane fade" id="events" role="tabpanel">
