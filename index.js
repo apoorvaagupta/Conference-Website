@@ -1193,7 +1193,7 @@ Also has interest in Software Engineering, where he is trying to discover ambigu
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body">
-                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. K.K. Biswas</h4>
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. Pradip Sarkar</h4>
                               <span class="bio">
                               Professor Pradip Kumar Sarkar graduated in Civil Engineering from Bengal Engineering
 College, Calcutta University in 1974, presently known as Indian Institute of Science and
