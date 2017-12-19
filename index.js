@@ -1910,7 +1910,7 @@ V.P. Ranjan, Finance Chair<br/><br/>
   themselves by the last date. Please visit the 
             <a target="_blank" href="http://hackeam.teamc18.com">HACKEAM website</a> to register.
                             <br/><br/>
-                            <span style="color: red">Last Date of Registration: 20 Dec,  2017</span>
+                            <span style="color: red">Last Date of Registration: 10 Jan,  2018</span>
                             <br/>
                             <br/>
                             Teams must strictly adhere to the rules as set by the organisers.
