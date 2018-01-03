@@ -49,6 +49,18 @@ $(document).ready(function () {
     }
   });
 
+  $('#moveToRegistrations').click(function () {
+    var win = window.open('https://www.imsnsit.org/imsnsit/elearn_fdpconference_new.php', '_blank');
+    if (win) {
+      //Browser has allowed it to be opened
+      win.focus();
+    } else {
+      //Browser has blocked it
+      alert('Please allow popups for this website');
+    }
+  });
+
+  
   $('#moveToRegistration').click(function () {
     $('#regButton').click();
     $('a[href="#registrationFeesTab"]').click();
