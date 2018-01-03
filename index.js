@@ -770,7 +770,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Please register at this <a href="https://www.imsnsit.org/imsnsit/elearn_fdpconference_new.php">Registration Link.</a>
+                                            Please register at this <a href="https://www.imsnsit.org/imsnsit/elearn_fdpconference_new.php" target="_blank">Registration Link.</a>
 <br/><br/>
 <span style="color: black; font-size: 14pt;">Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> <br>
 <span style="color: black; font-size: 14pt;">If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> <br>
@@ -945,7 +945,7 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                          style="background: white; line-height: 18pt; margin: 0; text-indent: 0.5in;">
                                         <span style="color: black; font-size: 14pt;"><br></span>
                                         <span style="color: black; font-size: 14pt;">
-                                            Please register at this <a href="#">Registration Link(to be opened soon).</a>
+                                            Please register at this <a href="https://www.imsnsit.org/imsnsit/elearn_fdpconference_new.php" target="_blank">Registration Link(to be opened soon).</a>
 <br/><br/>
 <span style="color: black; font-size: 14pt;">Every accepted article (full paper/ short paper) to appear in the proceedings should be registered by at least one author by paying the full registration fee applicable.</span><br> <br>
 <span style="color: black; font-size: 14pt;">If an author has got more than one accepted papers, each paper has to be registered separately.</span><br> <br>
