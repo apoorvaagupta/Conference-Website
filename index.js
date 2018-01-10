@@ -1472,67 +1472,27 @@ organizations.
                         </div>
                        
                         <div class="tab-pane fade" id="orgCom" role="tabpanel">
-                            <div class="row justify-content-center">
-                                <div class="col-sm-12">
-                                  
-               
-                                   <h3 style=" color:#177731; padding-top:25px;">General Chair </h3>
-                                   Shampa Chakraverty, NSIT
-                                   <br>
-                                   <h3 style=" color:#177731; padding-top:25px;">Organizing Co-Chairs </h3>
-                                   M. P. S. Bhatia, NSIT<br>
-                                    Ritu Sibal, NSIT<br>
-                                     <h3 style=" color:#177731; padding-top:25px;">TPC Co-Chairs</h3>
-                                     Anil Kumar Goel, SAP, USA<br>
-                                    Sangeeta Sabharwal, NSIT<br> 
-                                   <h3 style=" color:#177731; padding-top:25px;">Publication Chair</h3>
-                                   Anand Gupta<br>
-                                   <h3 style=" color:#177731; padding-top:25px;">Design Contest Co-Chair</h3>
-                                   Pinaki Chakraborty<br>
-                                  Manusheel Gupta<br>
-                                   <h3 style=" color:#177731; padding-top:25px;">Workshop Chair</h3>
-                                      Bijender Kumar<br>
-                                   <h3 style=" color:#177731; padding-top:25px;">Industry Liaison Co-Chairs</h3>
-                                   Satbir Jain<br>
-                                   Rajeev Kumar<br>
-                                   <h3 style=" color:#177731 ;padding-top:25px;">Sponsorship Chair</h3>
-                                   M.P.S. Bhatia<br>  
-                                   <h3 style=" color:#177731; padding-top:25px;">Publicity Co-chairs</h3>
-                                    Savita Yadav<br>
-                                   Poonam Rana
-                                   <br>
-                                   <h3 style=" color:#177731 ;padding-top:25px;">Finance Chair</h3>
-                                  V.P. Ranjan<br> 
-                                   <h3 style=" color:#177731; padding-top:25px;">Website Chair</h3>
-                                   Khushil Saini<br>
-                                   <h3 style=" color:#177731; padding-top:25px;">Panel Discussion Chair</h3>
-                                   Shampa Chakraverty<br>
-                                   <h3 style=" color:#177731; padding-top:25px;">Hospitality Co-Chairs</h3>
-                                   Preeti Kaur<br>
-                                   Aastha Singh
-                                   <br> 
-                                   <h3 style=" color:#177731; padding-top:25px;">Internal Arrangements Chairs</h3>
-                                   Anil Arora<br>         
-                                </div>
+                            <div class="row justify-content-center" style="padding-top: 20px;">
+                               
                                 
                                 <div class="col-sm-10">
                                   <div class="card-deck">
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/spc/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Shampa-Chakraverty.png" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Shampa Chakraverty, NSIT</h5>
-                                          <p class="card-text">General Chair</p>
+                                          <p class="card-text" style="margin:0">General Chair</p>
                                           <p class="card-text">Panel Discussion Chair</p>
                                         </div>
                                       </a>
                                     </div>
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/mps/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/mps.jpg" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">M. P. S. Bhatia, NSIT</h5>
-                                          <p class="card-text">Organizing Co-Chairs</p>
+                                          <p class="card-text" style="margin:0">Organizing Co-Chairs</p>
                                           <p class="card-text">Sponsorship Chair</p>
                                         </div>
                                       </a>
@@ -1542,7 +1502,7 @@ organizations.
                                 
                                 <div class="col-sm-10">
                                   <div class="card-deck">
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/rts/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Ritu-Sibal.jpg" alt="Card image cap">
                                         <div class="card-body">
@@ -1551,7 +1511,7 @@ organizations.
                                         </div>
                                       </a>
                                     </div>
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="https://in.linkedin.com/in/anilkgoel" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Anil-Kumar-Goel.jpg" alt="Card image cap">
                                         <div class="card-body">
@@ -1565,7 +1525,7 @@ organizations.
                                 
                                 <div class="col-sm-10">
                                   <div class="card-deck">
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/sas/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Sangeeta-Sabharwal.jpg" alt="Card image cap">
                                         <div class="card-body">
@@ -1574,7 +1534,7 @@ organizations.
                                         </div>
                                       </a>
                                     </div>
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/ag/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Anand-Gupta.jpg" alt="Card image cap">
                                         <div class="card-body">
@@ -1588,7 +1548,7 @@ organizations.
                                 
                                 <div class="col-sm-10">
                                   <div class="card-deck">
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/pnc/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Pinaki-Chakraborty.png" alt="Card image cap">
                                         <div class="card-body">
@@ -1597,7 +1557,7 @@ organizations.
                                         </div>
                                       </a>
                                     </div>
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://seeta.in/j/team.html" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Manusheel-Gupta.gif" alt="Card image cap">
                                         <div class="card-body">
@@ -1611,7 +1571,7 @@ organizations.
                                 
                                 <div class="col-sm-10">
                                   <div class="card-deck">
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/bks/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Bijendra-Kumar.jpg" alt="Card image cap">
                                         <div class="card-body">
@@ -1620,7 +1580,7 @@ organizations.
                                         </div>
                                       </a>
                                     </div>
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/stj/" class="card-link">                                   
                                         <img class="card-img-top" src="images/organising-committee/Satbir-Jain.png" alt="Card image cap">
                                         <div class="card-body">
@@ -1634,7 +1594,7 @@ organizations.
                                 
                                 <div class="col-sm-10">
                                   <div class="card-deck">
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/rjk/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Rajeev-Kumar.png" alt="Card image cap">
                                         <div class="card-body">
@@ -1643,7 +1603,7 @@ organizations.
                                         </div>
                                       </a>
                                     </div>
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/sty/" class="card-link">                                   
                                         <img class="card-img-top" src="images/organising-committee/Savita-Yadav.png" alt="Card image cap">
                                         <div class="card-body">
@@ -1657,7 +1617,7 @@ organizations.
                                 
                                 <div class="col-sm-10">
                                   <div class="card-deck">
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/pnr/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Poonam%20Rani.jpg" alt="Card image cap">
                                         <div class="card-body">
@@ -1666,7 +1626,7 @@ organizations.
                                         </div>
                                       </a>
                                     </div>
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="" class="card-link">                                   
                                         <img class="card-img-top" src="http://via.placeholder.com/350x450?text=V.+P.+Ranjan" alt="Card image cap">
                                         <div class="card-body">
@@ -1680,7 +1640,7 @@ organizations.
                                 
                                 <div class="col-sm-10">
                                   <div class="card-deck">
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/kss/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Khushil-Saini.jpg" alt="Card image cap">
                                         <div class="card-body">
@@ -1689,7 +1649,7 @@ organizations.
                                         </div>
                                       </a>
                                     </div>
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="http://www.nsit.ac.in/faculty/ptk/" class="card-link">                                   
                                         <img class="card-img-top" src="./images/organising-committee/Preeti-Kaur.jpg" alt="Card image cap">
                                         <div class="card-body">
@@ -1703,7 +1663,7 @@ organizations.
                                 
                                 <div class="col-sm-10">
                                   <div class="card-deck">
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="" class="card-link">                                   
                                         <img class="card-img-top" src="http://via.placeholder.com/350x450?text=Aastha+Singh" alt="Card image cap">
                                         <div class="card-body">
@@ -1712,7 +1672,7 @@ organizations.
                                         </div>
                                       </a>
                                     </div>
-                                    <div class="card mb-2 border-primary text-center">
+                                    <div class="card mb-4 border-primary text-center">
                                       <a target="_blank" href="" class="card-link">                                   
                                         <img class="card-img-top" src="http://via.placeholder.com/350x450?text=Anil+Arora" alt="Card image cap">
                                         <div class="card-body">
@@ -2214,3 +2174,46 @@ category.</b></span></span>
 //     </div>
 //     </li>
 //     <br/><br/>
+
+
+// <div class="col-sm-12">
+//
+//
+//   <h3 style=" color:#177731; padding-top:25px;">General Chair </h3>
+// Shampa Chakraverty, NSIT
+// <br>
+// <h3 style=" color:#177731; padding-top:25px;">Organizing Co-Chairs </h3>
+// M. P. S. Bhatia, NSIT<br>
+// Ritu Sibal, NSIT<br>
+// <h3 style=" color:#177731; padding-top:25px;">TPC Co-Chairs</h3>
+// Anil Kumar Goel, SAP, USA<br>
+// Sangeeta Sabharwal, NSIT<br>
+// <h3 style=" color:#177731; padding-top:25px;">Publication Chair</h3>
+// Anand Gupta<br>
+// <h3 style=" color:#177731; padding-top:25px;">Design Contest Co-Chair</h3>
+// Pinaki Chakraborty<br>
+// Manusheel Gupta<br>
+// <h3 style=" color:#177731; padding-top:25px;">Workshop Chair</h3>
+// Bijender Kumar<br>
+// <h3 style=" color:#177731; padding-top:25px;">Industry Liaison Co-Chairs</h3>
+// Satbir Jain<br>
+// Rajeev Kumar<br>
+// <h3 style=" color:#177731 ;padding-top:25px;">Sponsorship Chair</h3>
+// M.P.S. Bhatia<br>
+// <h3 style=" color:#177731; padding-top:25px;">Publicity Co-chairs</h3>
+// Savita Yadav<br>
+// Poonam Rana
+// <br>
+// <h3 style=" color:#177731 ;padding-top:25px;">Finance Chair</h3>
+// V.P. Ranjan<br>
+// <h3 style=" color:#177731; padding-top:25px;">Website Chair</h3>
+// Khushil Saini<br>
+// <h3 style=" color:#177731; padding-top:25px;">Panel Discussion Chair</h3>
+// Shampa Chakraverty<br>
+// <h3 style=" color:#177731; padding-top:25px;">Hospitality Co-Chairs</h3>
+// Preeti Kaur<br>
+// Aastha Singh
+// <br>
+// <h3 style=" color:#177731; padding-top:25px;">Internal Arrangements Chairs</h3>
+// Anil Arora<br>
+// </div>
