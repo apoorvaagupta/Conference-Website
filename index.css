@@ -200,14 +200,14 @@ html, body {
     }
 }
 
-marquee{
+marquee {
     display: inline-block;
 }
 
 @keyframes flash {
     0% {
         display: inline;
-        opacity:1;
+        opacity: 1;
     }
 
     50% {
@@ -389,14 +389,14 @@ ul.list-group > li {
     font-family: 'PT Sans', sans-serif;
 }
 
-.navbar-light .nav-link .navbar-nav{
-    color: rgba(0,0,0,0.6)!important;
+.navbar-light .nav-link .navbar-nav {
+    color: rgba(0, 0, 0, 0.6) !important;
 }
 
-.bio{
+.bio {
     font-size: 16px;
 }
 
-#moveToIndustryTrack, #moveToRegistration, #moveToSpeakers, #moveToHackeamTab, #moveToHackeamWebsite, #moveToRegistrations{
+#moveToIndustryTrack, #moveToRegistration, #moveToSpeakers, #moveToHackeamTab, #moveToHackeamWebsite, #moveToRegistrations {
     cursor: pointer;
 }
