@@ -1668,7 +1668,7 @@ organizations.
                                     </div>
                                     <div class="card mb-2 border-primary text-center">
                                       <a target="_blank" href="" class="card-link">                                   
-                                        <img class="card-img-top" src="http://via.placeholder.com/350x450?text=" alt="Card image cap">
+                                        <img class="card-img-top" src="http://via.placeholder.com/350x450?text=V.+P.+Ranjan" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">V.P. Ranjan</h5>
                                           <p class="card-text">Finance Chair</p>
@@ -1705,7 +1705,7 @@ organizations.
                                   <div class="card-deck">
                                     <div class="card mb-2 border-primary text-center">
                                       <a target="_blank" href="" class="card-link">                                   
-                                        <img class="card-img-top" src="http://via.placeholder.com/350x450" alt="Card image cap">
+                                        <img class="card-img-top" src="http://via.placeholder.com/350x450?text=Aastha+Singh" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Aastha Singh </h5>
                                           <p class="card-text">Hospitality Co-Chairs</p>
@@ -1714,7 +1714,7 @@ organizations.
                                     </div>
                                     <div class="card mb-2 border-primary text-center">
                                       <a target="_blank" href="" class="card-link">                                   
-                                        <img class="card-img-top" src="http://via.placeholder.com/350x450" alt="Card image cap">
+                                        <img class="card-img-top" src="http://via.placeholder.com/350x450?text=Anil+Arora" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Anil Arora</h5>
                                           <p class="card-text">Internal Arrangements Chairs</p>
