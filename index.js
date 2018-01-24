@@ -877,7 +877,45 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                         </tbody>
                                     </table>
                                 
-                               <span style="color: red;text-align: left">CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.</span>
+                               <span style="color: red;text-align: left">CSI, ACM, IEEE & ISTE Members will be given a discount of 20%.</span><br><br>
+                               <span style="color: blue;text-align: left">For foreign registrations the fee amount may be transferred to the following bank account:</span><br><br>
+                                    <table>
+                                        <tr>
+                                            <th scope="row">
+                                                Nomenclature of the Account:&nbsp;&nbsp;&nbsp;
+                                            </th>
+                                            <td>
+                                                Director, NSIT &nbsp;&nbsp;&nbsp;
+                                                Cultural Activity A/C
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">
+                                                Account No.:
+                                            </th>
+                                            <td>
+                                                133010100022197
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">
+                                                IFSC:
+                                            </th>
+                                            <td>
+                                                ANDB0001330
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">
+                                                Bank Name:
+                                            </th>
+                                            <td>
+                                                Andhra Bank
+                                            </td>
+                                        </tr>
+                                    </table>
+                               
+                               
                            </div> </div>
                         </div>
                         <div class="tab-pane fade" id="studentRegistrationTab" role="tabpanel">
