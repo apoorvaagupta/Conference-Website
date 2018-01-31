@@ -1372,6 +1372,7 @@ organizations.
                                 <li class="list-group-item">Krishnan Seetharaman, University of Massachusetts Lowell, USA</li>
                                 <li class="list-group-item">Mu Mu, University of Northampton, UK</li>
                                 <li class="list-group-item">M.P.S. Bhatia, NSIT</li>
+                                <li class="list-group-item">Priti Bansal, NSIT</li>
                                 <li class="list-group-item">Himanshu Bhatnagar, HB Software Solutions, USA</li>
                                 <li class="list-group-item">Bizender Kumar, NSIT</li>
                                 <li class="list-group-item">Satbir Jain, NSIT</li>
