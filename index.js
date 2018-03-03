@@ -1291,6 +1291,30 @@ organizations.
                               </span>
                             </div>
                           </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3 align-self-center" src="images/bchandra.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. B. Chandra</h4>
+                              <span class="bio">
+                              B.Chandra is currently an Adjunct Professor with the School of IT at the Indian Institute of
+Technology, Delhi. She has been with the Computer Science group of the Department of
+Mathematics, Indian Institute of Technology, Delhi for three decades and now she is a
+machine Learning expert in a multi national company. She was the Department Chair from
+2004 to 2007. Her specialization is in the area of Data Mining, Neural Networks, Machine
+Learning and feature selection for Gene Expression data. She has been a visiting professor
+for a year at the University of Pittsburgh, USA and Penn State University, USA. She has also
+been a visiting scientist at NIST, Gaithersburg, Maryland during Summer 2012. She has
+published a large number of research papers in the area of Machine Learning, Classification,
+Clustering and Deep Learning in International Journals of repute. She has been the chairman
+of many sessions in Data Mining and Machine Learning in international conferences
+organized in USA, UK, Canada, Singapore and France. She has been a principal investigator
+of many sponsored research projects in the area of Clustering of Gene Expression Data,
+Pattern classification, Feature Selection and consultancy projects with Stock Market
+Company and Twitter Company.
+                              </span>
+                            </div>
+                          </li>
                         </ul>
                       </div>
                       <div class="tab-pane fade" id="events" role="tabpanel">
