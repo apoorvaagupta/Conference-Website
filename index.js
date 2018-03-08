@@ -1561,7 +1561,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="./images/organising-committee/mps.jpg" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">M. P. S. Bhatia, NSIT</h5>
-                                          <p class="card-text" style="margin:0">Organizing Co-Chairs</p>
+                                          <p class="card-text" style="margin:0">Organizing Co-Chair</p>
                                           <p class="card-text">Sponsorship Chair</p>
                                         </div>
                                       </a>
@@ -1576,7 +1576,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="./images/organising-committee/Ritu-Sibal.jpg" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Ritu Sibal, NSIT</h5>
-                                          <p class="card-text">Organizing Co-Chairs</p>
+                                          <p class="card-text">Organizing Co-Chair</p>
                                         </div>
                                       </a>
                                     </div>
@@ -1585,7 +1585,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="./images/organising-committee/Anil-Kumar-Goel.jpg" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Anil Kumar Goel, SAP, USA</h5>
-                                          <p class="card-text">TPC Co-Chairs</p>
+                                          <p class="card-text">TPC Co-Chair</p>
                                         </div>
                                       </a>
                                     </div>
@@ -1599,7 +1599,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="./images/organising-committee/Sangeeta-Sabharwal.jpg" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Sangeeta Sabharwal, NSIT</h5>
-                                          <p class="card-text">TPC Co-Chairs</p>
+                                          <p class="card-text">TPC Co-Chair</p>
                                         </div>
                                       </a>
                                     </div>
@@ -1654,7 +1654,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="images/organising-committee/Satbir-Jain.png" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Satbir Jain</h5>
-                                          <p class="card-text">Industry Liaison Co-Chairs</p>
+                                          <p class="card-text">Industry Liaison Co-Chair</p>
                                         </div>
                                       </a>
                                     </div>
@@ -1668,7 +1668,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="./images/organising-committee/Rajeev-Kumar.png" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Rajeev Kumar</h5>
-                                          <p class="card-text">Industry Liaison Co-Chairs</p>
+                                          <p class="card-text">Industry Liaison Co-Chair</p>
                                         </div>
                                       </a>
                                     </div>
@@ -1677,7 +1677,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="images/organising-committee/Savita-Yadav.png" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Savita Yadav</h5>
-                                          <p class="card-text">Publicity Co-chairs</p>
+                                          <p class="card-text">Publicity Co-chair</p>
                                         </div>
                                       </a>
                                     </div>
@@ -1691,7 +1691,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="./images/organising-committee/Poonam%20Rani.jpg" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Poonam Rani</h5>
-                                          <p class="card-text">Publicity Co-chairs</p>
+                                          <p class="card-text">Publicity Co-chair</p>
                                         </div>
                                       </a>
                                     </div>
@@ -1723,7 +1723,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="./images/organising-committee/Preeti-Kaur.jpg" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Preeti Kaur</h5>
-                                          <p class="card-text">Hospitality Co-Chairs</p>
+                                          <p class="card-text">Hospitality Co-Chair</p>
                                         </div>
                                       </a>
                                     </div>
@@ -1737,7 +1737,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="http://via.placeholder.com/350x450?text=Aastha+Singh" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Aastha Singh </h5>
-                                          <p class="card-text">Hospitality Co-Chairs</p>
+                                          <p class="card-text">Hospitality Co-Chair</p>
                                         </div>
                                       </a>
                                     </div>
@@ -1746,7 +1746,7 @@ Company and Twitter Company.
                                         <img class="card-img-top" src="http://via.placeholder.com/350x450?text=Anil+Arora" alt="Card image cap">
                                         <div class="card-body">
                                           <h5 class="card-title">Anil Arora</h5>
-                                          <p class="card-text">Internal Arrangements Chairs</p>
+                                          <p class="card-text">Internal Arrangements Chair</p>
                                         </div>
                                       </a>
                                     </div>
