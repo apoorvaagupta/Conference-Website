@@ -3,7 +3,6 @@ $(document).ready(function () {
   const mainWrapper = $('#main-wrapper');
 
   function f1() {
-    ;
     $('#announcement').animate({marginLeft: "50px"}, 6000, function () {
       let annWidth = $('body').width() - $('#announcement').width()
       $('#announcement').animate({marginLeft: annWidth - 50}, 6000, f1);
@@ -1165,23 +1164,6 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3 align-self-center" src="images/Anil_Headshot_2017.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body">
-                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Dr. Anil Goel</h4>
-                              <span class="bio">Anil K Goel is a Vice President at SAP where he works with the globally distributed SAP HANA Platform
-                                and Database engineering team to drive forward looking architectures, vision, strategy and execution
-                                for several SAP data management products and technologies. In particular, Anil heads global software
-                                development for SAP HANA Tooling, SAP IQ for SAP HANA dynamic tiering, and SAP Vora persistency
-                                technologies. He oversees collaborative research and internship programs with universities in Canada.
-                                His interests include database system architecture, in-memory and very large scale distributed
-                                computing, self-management of software systems and cost modelling.
-                                Anil earned a PhD in CS from the University of Waterloo. He also holds M. Tech. (CS) from Indian
-                                Institute of Technology, Delhi and B.E. (Electronics and Communications Engineering) from University of
-                                Delhi.</span>
-                            </div>
-                          </li>
-                          <br/><br/>
-                          <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/opverma.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body">
                               <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. O.P. Verma</h4>
@@ -1225,42 +1207,6 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                 Council) award winner Sangeeta was awarded Fulbright Distinguished Award
                                 in Teaching in 2011. The wikispace : dynamath.wikispaces.com was started as
                                 part of her fellowship and is a great resource for math teachers.</span>
-                            </div>
-                          </li>
-                          <br/><br/>
-                          <li class="media">
-                            <img class="d-flex mr-3 align-self-center" src="images/kkbiswas.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body">
-                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. K.K. Biswas</h4>
-                              <span class="bio">
-                              He was Former Professor, IIT Delhi, Machine Learning, Computer Vision
-Research interest is Image and Video Processing, Machine Learning with applications in activity recognition and Bio-informatics
-
-Also has interest in Software Engineering, where he is trying to discover ambiguities in Requirements Engineering documents.
-                              </span>
-                            </div>
-                          </li>
-                          <br/><br/>
-                          <li class="media">
-                            <img class="d-flex mr-3 align-self-center" src="images/pradipsarkar.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body">
-                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. Pradip Sarkar</h4>
-                              <span class="bio">
-                              Professor Pradip Kumar Sarkar graduated in Civil Engineering from Bengal Engineering
-College, Calcutta University in 1974, presently known as Indian Institute of Science and
-Technolgy(IEST) and completed his Post Graduation in Town Planning with specialization
-in Traffic and Transportation Planning from the School of Planning and Architecture in
-1977. He was awarded Commonwealth Scholarship to pursue higher studies in Transport
-Engineering at Newcastle Upon Tyne, UK in 1981. He was awarded Ph.D. in Planning in
-2002 from School of Planning and Architecture, New Delhi. He was in UK on
-Commonwealth fellowship Programme at Newcastle University in 2013. He is presently
-Professor and Heading the Department of Transport Planning and is engaged in teaching
-and research and consulting work in the area of Transport Planning in the School of
-Planning and Architecture. He has been actively involved as an expert member as well as
-Advisor on various consultancy projects in areas of Transport Planning and Design, Urban
-Planning, Environment Planning and Highway Design Study, Feasibility Studies and Road
-Safety Auditing.
-                              </span>
                             </div>
                           </li>
                           <br/><br/>
