@@ -1261,6 +1261,48 @@ Company and Twitter Company.
                               </span>
                             </div>
                           </li>
+                          
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3 align-self-center" src="images/vikramGoyal.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Dr. Vikram Goyal</h4>
+                              <span class="bio">
+                              Dr. Vikram Goyal is a faculty in IIIT Delhi. He received his PhD in Computer Science and Engineering from the Department of Computer Science and Engineering at IIT Delhi in 2009. Before pursuing PhD, He completed his MTech in Information Systems from the Department of Computer Science and Engineering at NSIT Delhi in 2003. He has many publications in reputed conferences and referred journals. He has a couple of Projects from DST, India and Deity, India on problems related to Privacy in Location-based Services and Digitized Document Fraud Detection, respectively.
+                              </span>
+                            </div>
+                          </li>
+                          
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3 align-self-center" src="images/vasudhabhatnagar.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Dr. Vasudha Bhatnagar</h4>
+                              <span class="bio">
+                              Dr. Vasudha Bhatnagar did her masters in Computer Applications from University of Delhi, Delhi, India in 1985. She worked in Centre for Development of Telematics from 1985 - 1989 as a software engineer in Operating System  and Traffic group. Thereafter she taught UG courses in Moti Lal Nehru College (M), University of Delhi. She completed her doctoral studies from Jamia Millia Islamia, New Delhi, India in 2001. Currently she is a Professor in the Department of Computer Science, University of Delhi, Delhi, India. 
+                              </span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3 align-self-center" src="images/anirbanMondal.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Dr. Anirban Mondal</h4>
+                              <span class="bio">
+                              Dr. Anirban Mondal is an Associate Professor of Computer Science at Ashoka University. He has a Ph.D. in Computer Science from the National University of Singapore, an MBA from the University of Massachusetts Amherst (UMass) and a B.Tech. (Hons.) in Computer Science & Engineering from the Indian Institute of Technology (IIT) Kharagpur, India. During the past 15 years, he has led multiple key projects for envisioning, designing and architecting end-to-end systems in domains such as urban informatics (smart cities), spatial databases and financial analytics. His technological expertise coupled with his business capabilities as well as his ability to create a big vision and execute it to completion in diverse multi-cultural settings make him an exciting innovator. 
+                              </span>
+                            </div>
+                          </li>
+                          <br/><br/>
+                          <li class="media">
+                            <img class="d-flex mr-3 align-self-center" src="images/skGupta.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <div class="media-body">
+                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. S.K. Gupta</h4>
+                              <span class="bio">
+                              
+                              </span>
+                            </div>
+                          </li>
                         </ul>
                       </div>
                       <div class="tab-pane fade" id="events" role="tabpanel">
