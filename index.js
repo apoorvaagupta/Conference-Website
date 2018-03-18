@@ -1346,7 +1346,8 @@ Company and Twitter Company.
                       <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">TEAMC 2018 TENTATIVE PROGRAM,  26-28 MARCH, 2018</h4>
                       <br>
                         <img src="images/prog1.png" style="width:100%">
-                        <img src="images/prog2.png" style="width:100%">
+                        <img src="images/prog21.png" style="width:100%">
+                        <img src="images/prog22.png" style="width:100%">
                         <img src="images/prog3.png" style="width:100%">
                       </div>
                         
