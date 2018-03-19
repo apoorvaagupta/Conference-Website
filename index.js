@@ -1330,7 +1330,7 @@ Company and Twitter Company.
                           </li>
                           <br/><br/>
                           <li class="media">
-                            <img class="d-flex mr-3 align-self-center" src="images/skGupta.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
+                            <img class="d-flex mr-3 align-self-center" src="images/skGupta.jpg" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body">
                               <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. S.K. Gupta</h4>
                               <span class="bio">
