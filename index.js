@@ -1334,7 +1334,22 @@ Company and Twitter Company.
                             <div class="media-body">
                               <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Prof. S.K. Gupta</h4>
                               <span class="bio">
-                              
+                              Dr. S. K. Gupta is an Emeritus Professor in the Computer
+Science and Engineering Department, IIT Delhi.  He has been teaching in
+the department of CSE, IIT Delhi for more than 30 years.
+Dr. Gupta obtained his M.Sc. (Mathematics) from Delhi University followed
+by Ph.D. from IIT Delhi. His specialization was in Graph Theory. He has
+taught various courses in Computer Science and focused on Database
+Systems. He has distinguished academic record having obtained several
+prestigious scholarships.
+Prof. Gupta has published extensively in the  field of data base and data
+mining and supervised many Ph.D./M.Tech./B.Tech dissertations. He has
+organised several important national/international conferences and edited
+proceedings. He has also delivered keynote talks at various symposiums and
+conferences.
+Prof. Gupta has an extensive outreach, being involved in several academic
+activities with leading government bodies, and private institutions in
+different capacities.
                               </span>
                             </div>
                           </li>
