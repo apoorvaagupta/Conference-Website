@@ -1222,29 +1222,29 @@ Safety Auditing.
                             </div>
                           </li>
                           <br/><br/>
-                          <li class="media">
-                            <img class="d-flex mr-3 align-self-center" src="images/sangeeta.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
-                            <div class="media-body">
-                              <h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Ms. Sangeeta Gulati</h4>
-                              <span class="bio">Ms Sangeeta Gulati is Head of Mathematics Department, Sanskriti School, New
-                                Delhi. A teacher of mathematics for the past twenty-six years, she has been
-                                teaching students in grade 11 and 12. Awardee of ‘National Award for using ICT
-                                for Innovation in Teaching, 2016’ and a Google Education Certified Innovator,
-                                Sangeeta has been actively involved in exploring the use of technology in
-                                teaching and learning of mathematics and has contributed to several
-                                Professional Development and Technology Orientation Program all over India.
-                                She conducts workshop on GeoGebra, Desmos, Google Apps and Online
-                                Resources.
-                                Sangeeta is a resource person with NCERT in developing ICT material and has
-                                developed video lessons for class XI & XII with Central Institute of Educational
-                                Technology, NCERT.
-                                An Edmodo Certified Trainer and Global Teacher Accreditation (British
-                                Council) award winner Sangeeta was awarded Fulbright Distinguished Award
-                                in Teaching in 2011. The wikispace : dynamath.wikispaces.com was started as
-                                part of her fellowship and is a great resource for math teachers.</span>
-                            </div>
-                          </li>
-                          <br/><br/>
+                          <!--<li class="media">-->
+                            <!--<img class="d-flex mr-3 align-self-center" src="images/sangeeta.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">-->
+                            <!--<div class="media-body">-->
+                              <!--<h4 class="mt-0 mb-1 text-center" style="color: #1E7635">Ms. Sangeeta Gulati</h4>-->
+                              <!--<span class="bio">Ms Sangeeta Gulati is Head of Mathematics Department, Sanskriti School, New-->
+                                <!--Delhi. A teacher of mathematics for the past twenty-six years, she has been-->
+                                <!--teaching students in grade 11 and 12. Awardee of ‘National Award for using ICT-->
+                                <!--for Innovation in Teaching, 2016’ and a Google Education Certified Innovator,-->
+                                <!--Sangeeta has been actively involved in exploring the use of technology in-->
+                                <!--teaching and learning of mathematics and has contributed to several-->
+                                <!--Professional Development and Technology Orientation Program all over India.-->
+                                <!--She conducts workshop on GeoGebra, Desmos, Google Apps and Online-->
+                                <!--Resources.-->
+                                <!--Sangeeta is a resource person with NCERT in developing ICT material and has-->
+                                <!--developed video lessons for class XI & XII with Central Institute of Educational-->
+                                <!--Technology, NCERT.-->
+                                <!--An Edmodo Certified Trainer and Global Teacher Accreditation (British-->
+                                <!--Council) award winner Sangeeta was awarded Fulbright Distinguished Award-->
+                                <!--in Teaching in 2011. The wikispace : dynamath.wikispaces.com was started as-->
+                                <!--part of her fellowship and is a great resource for math teachers.</span>-->
+                            <!--</div>-->
+                          <!--</li>-->
+                          <!--<br/><br/>-->
                           <li class="media">
                             <img class="d-flex mr-3 align-self-center" src="images/sanjaymisra.png" style="width: 30%; border-radius: 50%" alt="Generic placeholder image">
                             <div class="media-body">
