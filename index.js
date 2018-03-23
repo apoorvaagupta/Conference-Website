@@ -19,7 +19,7 @@ $(document).ready(function () {
     if (jumbotron.css('margin-top') == '80px') {
       //jumbotron.css('margin-top', 375);
     } else {
-    //  jumbotron.css('margin-top', 80);
+      //  jumbotron.css('margin-top', 80);
     }
   });
 
@@ -1365,6 +1365,9 @@ different capacities.
                         <img src="images/prog3.png" style="width:100%">
                         <img src="images/prog4.png" style="width:100%">
                         <img src="images/prog5.png" style="width:100%">
+                        <img src="images/prog6.png" style="width:100%">
+                        <img src="images/prog7.png" style="width:100%">
+
                       </div>
                         
                     </div>
