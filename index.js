@@ -1366,7 +1366,6 @@ different capacities.
                         <img src="images/prog4.png" style="width:100%">
                         <img src="images/prog5.png" style="width:100%">
                         <img src="images/prog6.png" style="width:100%">
-                        <img src="images/prog7.png" style="width:100%">
 
                       </div>
                         
