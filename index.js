@@ -47,6 +47,28 @@ $(document).ready(function () {
       alert('Please allow popups for this website');
     }
   });
+  $('#moveToFeedbackform').click(function () {
+    var win = window.open('https://docs.google.com/forms/d/1zvqcvwXjOftrEbBmQJ0LgTxhxbpzvwIRRC5EwzaJRI4/edit', '_blank');
+    if (win) {
+      //Browser has allowed it to be opened
+      win.focus();
+    } else {
+      //Browser has blocked it
+      alert('Please allow popups for this website');
+    }
+  });
+
+  $('#moveToEProceedings').click(function () {
+    var win = window.open('https://drive.google.com/file/d/1bhdcUA0EJBhDTbyMw2Y0mSVkXWlCf8W4/view?usp=sharing', '_blank');
+    if (win) {
+      //Browser has allowed it to be opened
+      win.focus();
+    } else {
+      //Browser has blocked it
+      alert('Please allow popups for this website');
+    }
+  });
+
 
   $('#moveToRegistrations').click(function () {
     var win = window.open('https://www.imsnsit.org/imsnsit/elearn_fdpconference_new.php', '_blank');
