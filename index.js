@@ -12,7 +12,7 @@ $(document).ready(function () {
   let annWidth = $('body').width() - $('#announcement').width();
   console.log(annWidth);
 
-  $('#announcement').animate({marginLeft: annWidth - 50}, 6000, f1);
+//   $('#announcement').animate({marginLeft: annWidth - 50}, 6000, f1);
 
   $('#toggleNav').click(function () {
     const jumbotron = $('#jumbotron');
