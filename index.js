@@ -28,6 +28,10 @@ $(document).ready(function () {
     $('a[href="#track6"]').click();
   });
 
+  $('#moveToReports').click(function () {
+    $('#programButton').click();
+    $('a[href="#reports"]').click();
+  });
 
   $('#moveToSpeakers').click(function () {
     $('#programButton').click();
