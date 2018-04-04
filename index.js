@@ -19,7 +19,7 @@ $(document).ready(function () {
     if (jumbotron.css('margin-top') == '80px') {
       //jumbotron.css('margin-top', 375);
     } else {
-    //  jumbotron.css('margin-top', 80);
+      //  jumbotron.css('margin-top', 80);
     }
   });
 
@@ -1146,6 +1146,11 @@ For more details on Springer CCIS Series, see <br><a target="_blank" href="http:
                                 <a class="nav-link nav-style a-style" data-toggle="tab" href="#events">EVENTS</a>
                             </li>
                             
+                            
+                            <li class="nav-item">
+                                <a class="nav-link nav-style a-style" data-toggle="tab" href="#reports">REPORTS</a>
+                            </li>
+                            
                         </ul>
                     </div>
 
@@ -1366,7 +1371,59 @@ different capacities.
                         <img src="images/prog4.png" style="width:100%">
                         <img src="images/prog5.png" style="width:100%">
                       </div>
+                      <div class="tab-pane fade" id="reports" role="tabpanel">
+                        <br/>
+                        <h4 class="mt-0 mb-3 text-center" style="color: #1E7635">TEAMC 2018 REPORTS,  26-28 MARCH, 2018</h4>
+                        <a href="https://drive.google.com/open?id=1jaMLFTtdxDSzKblH-hhsIhzbpvAQiwa8" target="_blank">
+                          <p>
+                            1. PD-I: Challenges in the evolution of extensible and adaptable computing
+                          </p>
+                        </a>
                         
+                        <a href="https://drive.google.com/open?id=1oYJQAZGN1YDW8ao77z-CJTG430J1Y8BC" target="_blank">
+                          <p>
+                            2. PD-II: Potential and Pitfalls of Machine Learning
+                          </p>
+                        </a>
+                        
+                        <a href="https://drive.google.com/open?id=1HcbYXCNZ7dpA19lgdATYGxS2G2W97Tix" target="_blank">
+                          <p>
+                            3. PD-III: Perspectives on synergies between human society and the Computing World
+                          </p>
+                        </a>
+                        
+                        <a href="https://drive.google.com/open?id=1Tx6w3rL6ce_n0UiJo7yIROAT6YkI4x9s" target="_blank">
+                          <p>
+                            4. ASD: Agile Software Development
+                          </p>
+                        </a>
+                        
+                        <a href="https://drive.google.com/open?id=19NjBHfHOu7Wpsig8RUmZn-ZQ8nSeGonR" target="_blank">
+                          <p>
+                            5. DM: Data Management
+                          </p>
+                        </a>
+                        
+                        <a href="https://drive.google.com/open?id=1dh9ddprrbzXEFK7xiAAQtvS5zpdTp5Ec" target="_blank">
+                          <p>
+                            6. WI: Web Intelligence
+                          </p>
+                        </a>
+                        
+                        <a href="https://drive.google.com/open?id=1J4AK_t5X8FbAhtq8tv4eDjP092qZ2ueD" target="_blank">
+                          <p>
+                            7. ML: Machine Learning 
+                          </p>
+                        </a>
+                        
+                        <a href="https://drive.google.com/open?id=16lteBo6ELfsNKcx5EeNBDw5GvrI2fqWL" target="_blank">
+                          <p>
+                            8. CE: Computing in Education
+                          </p>
+                        </a>
+                      
+                      </div>
+
                     </div>
 
                         
