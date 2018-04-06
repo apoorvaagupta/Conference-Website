@@ -40,7 +40,20 @@ $(document).ready(function () {
   $('#moveToHackeamTab').click(function () {
     $('#hackeamButton').click();
   });
+  
+  $('#moveToResults').click(function () {
+    var win = window.open('https://drive.google.com/file/d/1ZxsGwmXaZIwHhEoPMYBm6dWTTaGYPkNb/view?usp=sharing', '_blank');
+    if (win) {
+      //Browser has allowed it to be opened
+      win.focus();
+    } else {
+      //Browser has blocked it
+      alert('Please allow popups for this website');
+    }
+  });
 
+  
+  
   $('#moveToHackeamWebsite').click(function () {
     var win = window.open('http://hackeam.teamc18.com/', '_blank');
     if (win) {
