@@ -397,7 +397,7 @@ ul.list-group > li {
     font-size: 16px;
 }
 
-#moveToReports, #moveToIndustryTrack, #moveToRegistration, #moveToSpeakers, #moveToHackeamTab, #moveToHackeamWebsite, #moveToRegistrations, #moveToEProceedings, #moveToFeedbackform {
+#moveToReports, #moveToIndustryTrack, #moveToRegistration, #moveToSpeakers, #moveToHackeamTab, #moveToHackeamWebsite, #moveToRegistrations, #moveToEProceedings, #moveToFeedbackform, #moveToResults {
     cursor: pointer;
 }
 
